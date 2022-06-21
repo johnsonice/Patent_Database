@@ -1,0 +1,3090 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v45-2014-04-03.dtd">
+<html>
+ <body>
+  <p>
+   ]&gt;
+   <us-patent-grant country="US" date-produced="20141219" date-publ="20150106" dtd-version="v4.5 2014-04-03" file="US08925447-20150106.XML" id="us-patent-grant" lang="EN" status="PRODUCTION">
+    <us-bibliographic-data-grant>
+     <publication-reference>
+      <document-id>
+       <country>
+        US
+       </country>
+       <doc-number>
+        08925447
+       </doc-number>
+       <kind>
+        B2
+       </kind>
+       <date>
+        20150106
+       </date>
+      </document-id>
+     </publication-reference>
+     <application-reference appl-type="utility">
+      <document-id>
+       <country>
+        US
+       </country>
+       <doc-number>
+        13158182
+       </doc-number>
+       <date>
+        20110610
+       </date>
+      </document-id>
+     </application-reference>
+     <us-application-series-code>
+      13
+     </us-application-series-code>
+     <us-term-of-grant>
+      <us-term-extension>
+       531
+      </us-term-extension>
+     </us-term-of-grant>
+     <classifications-ipcr>
+      <classification-ipcr>
+       <ipc-version-indicator>
+        <date>
+         20060101
+        </date>
+       </ipc-version-indicator>
+       <classification-level>
+        A
+       </classification-level>
+       <section>
+        A
+       </section>
+       <class>
+        21
+       </class>
+       <subclass>
+        B
+       </subclass>
+       <main-group>
+        1
+       </main-group>
+       <subgroup>
+        48
+       </subgroup>
+       <symbol-position>
+        F
+       </symbol-position>
+       <classification-value>
+        I
+       </classification-value>
+       <action-date>
+        <date>
+         20150106
+        </date>
+       </action-date>
+       <generating-office>
+        <country>
+         US
+        </country>
+       </generating-office>
+       <classification-status>
+        B
+       </classification-status>
+       <classification-data-source>
+        H
+       </classification-data-source>
+      </classification-ipcr>
+      <classification-ipcr>
+       <ipc-version-indicator>
+        <date>
+         20060101
+        </date>
+       </ipc-version-indicator>
+       <classification-level>
+        A
+       </classification-level>
+       <section>
+        A
+       </section>
+       <class>
+        47
+       </class>
+       <subclass>
+        J
+       </subclass>
+       <main-group>
+        37
+       </main-group>
+       <subgroup>
+        04
+       </subgroup>
+       <symbol-position>
+        L
+       </symbol-position>
+       <classification-value>
+        I
+       </classification-value>
+       <action-date>
+        <date>
+         20150106
+        </date>
+       </action-date>
+       <generating-office>
+        <country>
+         US
+        </country>
+       </generating-office>
+       <classification-status>
+        B
+       </classification-status>
+       <classification-data-source>
+        H
+       </classification-data-source>
+      </classification-ipcr>
+     </classifications-ipcr>
+     <classifications-cpc>
+      <main-cpc>
+       <classification-cpc>
+        <cpc-version-indicator>
+         <date>
+          20130101
+         </date>
+        </cpc-version-indicator>
+        <section>
+         A
+        </section>
+        <class>
+         47
+        </class>
+        <subclass>
+         J
+        </subclass>
+        <main-group>
+         37
+        </main-group>
+        <subgroup>
+         045
+        </subgroup>
+        <symbol-position>
+         F
+        </symbol-position>
+        <classification-value>
+         I
+        </classification-value>
+        <action-date>
+         <date>
+          20150106
+         </date>
+        </action-date>
+        <generating-office>
+         <country>
+          US
+         </country>
+        </generating-office>
+        <classification-status>
+         B
+        </classification-status>
+        <classification-data-source>
+         H
+        </classification-data-source>
+        <scheme-origination-code>
+         C
+        </scheme-origination-code>
+       </classification-cpc>
+      </main-cpc>
+     </classifications-cpc>
+     <classification-national>
+      <country>
+       US
+      </country>
+      <main-classification>
+       99443C
+      </main-classification>
+     </classification-national>
+     <invention-title id="d2e53">
+      Cooking belt
+     </invention-title>
+     <us-references-cited>
+      <us-citation>
+       <patcit num="00001">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          5141800
+         </doc-number>
+         <kind>
+          A
+         </kind>
+         <name>
+          Effenberger et al.
+         </name>
+         <date>
+          19920800
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by applicant
+       </category>
+      </us-citation>
+      <us-citation>
+       <patcit num="00002">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          5466531
+         </doc-number>
+         <kind>
+          A
+         </kind>
+         <name>
+          Tippett et al.
+         </name>
+         <date>
+          19951100
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by applicant
+       </category>
+      </us-citation>
+      <us-citation>
+       <patcit num="00003">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          7153792
+         </doc-number>
+         <kind>
+          B2
+         </kind>
+         <name>
+          Sahlin et al.
+         </name>
+         <date>
+          20061200
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         442246
+        </main-classification>
+       </classification-national>
+      </us-citation>
+      <us-citation>
+       <patcit num="00004">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          2005/0121437
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <name>
+          Spohn et al.
+         </name>
+         <date>
+          20050600
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by applicant
+       </category>
+      </us-citation>
+      <us-citation>
+       <patcit num="00005">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          2006/0204748
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <name>
+          Lee et al.
+         </name>
+         <date>
+          20060900
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         428339
+        </main-classification>
+       </classification-national>
+      </us-citation>
+      <us-citation>
+       <patcit num="00006">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          2007/0190336
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <name>
+          Patel et al.
+         </name>
+         <date>
+          20070800
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by applicant
+       </category>
+      </us-citation>
+      <us-citation>
+       <patcit num="00007">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          2010/0044382
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <name>
+          Woerner
+         </name>
+         <date>
+          20100200
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by applicant
+       </category>
+      </us-citation>
+      <us-citation>
+       <patcit num="00008">
+        <document-id>
+         <country>
+          EP
+         </country>
+         <doc-number>
+          0 407 982
+         </doc-number>
+         <kind>
+          A2
+         </kind>
+         <date>
+          19910100
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by applicant
+       </category>
+      </us-citation>
+      <us-citation>
+       <patcit num="00009">
+        <document-id>
+         <country>
+          JP
+         </country>
+         <doc-number>
+          10-034742
+         </doc-number>
+         <date>
+          19980200
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+      </us-citation>
+      <us-citation>
+       <patcit num="00010">
+        <document-id>
+         <country>
+          JP
+         </country>
+         <doc-number>
+          2008081318
+         </doc-number>
+         <kind>
+          A
+         </kind>
+         <date>
+          20080400
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by applicant
+       </category>
+      </us-citation>
+      <us-citation>
+       <patcit num="00011">
+        <document-id>
+         <country>
+          WO
+         </country>
+         <doc-number>
+          2010021708
+         </doc-number>
+         <kind>
+          A2
+         </kind>
+         <date>
+          20100200
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by applicant
+       </category>
+      </us-citation>
+      <us-citation>
+       <patcit num="00012">
+        <document-id>
+         <country>
+          WO
+         </country>
+         <doc-number>
+          WO 2010/045149
+         </doc-number>
+         <date>
+          20100400
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+      </us-citation>
+      <us-citation>
+       <nplcit num="00013">
+        <othercit>
+         International Search Report from PCT/US2011/040052 mailed Feb. 21, 2012, 1 pg.
+        </othercit>
+       </nplcit>
+       <category>
+        cited by applicant
+       </category>
+      </us-citation>
+     </us-references-cited>
+     <number-of-claims>
+      20
+     </number-of-claims>
+     <us-exemplary-claim>
+      1
+     </us-exemplary-claim>
+     <us-field-of-classification-search>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        99422
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        99443 C
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        99386
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        99387
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        99391
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        99393
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        442 97
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        442 98
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        442172
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        442180
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        442286
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        442289
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        442261
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        524544
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        526242
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        523101
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        264435
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        428421
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        428422
+       </main-classification>
+      </classification-national>
+      <classification-cpc-text>
+       A47J 37/045
+      </classification-cpc-text>
+     </us-field-of-classification-search>
+     <figures>
+      <number-of-drawing-sheets>
+       3
+      </number-of-drawing-sheets>
+      <number-of-figures>
+       5
+      </number-of-figures>
+     </figures>
+     <us-related-documents>
+      <us-provisional-application>
+       <document-id>
+        <country>
+         US
+        </country>
+        <doc-number>
+         61354104
+        </doc-number>
+        <date>
+         20100611
+        </date>
+       </document-id>
+      </us-provisional-application>
+      <related-publication>
+       <document-id>
+        <country>
+         US
+        </country>
+        <doc-number>
+         20110303101
+        </doc-number>
+        <kind>
+         A1
+        </kind>
+        <date>
+         20111215
+        </date>
+       </document-id>
+      </related-publication>
+     </us-related-documents>
+     <us-parties>
+      <us-applicants>
+       <us-applicant app-type="applicant" designation="us-only" sequence="001">
+        <addressbook>
+         <last-name>
+          Fan
+         </last-name>
+         <first-name>
+          Hua
+         </first-name>
+         <address>
+          <city>
+           Nashua
+          </city>
+          <state>
+           NH
+          </state>
+          <country>
+           US
+          </country>
+         </address>
+        </addressbook>
+        <residence>
+         <country>
+          US
+         </country>
+        </residence>
+       </us-applicant>
+       <us-applicant app-type="applicant" designation="us-only" sequence="002">
+        <addressbook>
+         <last-name>
+          Hardy
+         </last-name>
+         <first-name>
+          Anne B.
+         </first-name>
+         <address>
+          <city>
+           Paris
+          </city>
+          <country>
+           FR
+          </country>
+         </address>
+        </addressbook>
+        <residence>
+         <country>
+          FR
+         </country>
+        </residence>
+       </us-applicant>
+       <us-applicant app-type="applicant" designation="us-only" sequence="003">
+        <addressbook>
+         <last-name>
+          Pollock
+         </last-name>
+         <first-name>
+          Timothy P.
+         </first-name>
+         <address>
+          <city>
+           Manchester
+          </city>
+          <state>
+           NH
+          </state>
+          <country>
+           US
+          </country>
+         </address>
+        </addressbook>
+        <residence>
+         <country>
+          US
+         </country>
+        </residence>
+       </us-applicant>
+       <us-applicant app-type="applicant" designation="us-only" sequence="004">
+        <addressbook>
+         <last-name>
+          Lin
+         </last-name>
+         <first-name>
+          Ephraim P.
+         </first-name>
+         <address>
+          <city>
+           Bedford
+          </city>
+          <state>
+           NH
+          </state>
+          <country>
+           US
+          </country>
+         </address>
+        </addressbook>
+        <residence>
+         <country>
+          US
+         </country>
+        </residence>
+       </us-applicant>
+      </us-applicants>
+      <inventors>
+       <inventor designation="us-only" sequence="001">
+        <addressbook>
+         <last-name>
+          Fan
+         </last-name>
+         <first-name>
+          Hua
+         </first-name>
+         <address>
+          <city>
+           Nashua
+          </city>
+          <state>
+           NH
+          </state>
+          <country>
+           US
+          </country>
+         </address>
+        </addressbook>
+       </inventor>
+       <inventor designation="us-only" sequence="002">
+        <addressbook>
+         <last-name>
+          Hardy
+         </last-name>
+         <first-name>
+          Anne B.
+         </first-name>
+         <address>
+          <city>
+           Paris
+          </city>
+          <country>
+           FR
+          </country>
+         </address>
+        </addressbook>
+       </inventor>
+       <inventor designation="us-only" sequence="003">
+        <addressbook>
+         <last-name>
+          Pollock
+         </last-name>
+         <first-name>
+          Timothy P.
+         </first-name>
+         <address>
+          <city>
+           Manchester
+          </city>
+          <state>
+           NH
+          </state>
+          <country>
+           US
+          </country>
+         </address>
+        </addressbook>
+       </inventor>
+       <inventor designation="us-only" sequence="004">
+        <addressbook>
+         <last-name>
+          Lin
+         </last-name>
+         <first-name>
+          Ephraim P.
+         </first-name>
+         <address>
+          <city>
+           Bedford
+          </city>
+          <state>
+           NH
+          </state>
+          <country>
+           US
+          </country>
+         </address>
+        </addressbook>
+       </inventor>
+      </inventors>
+      <agents>
+       <agent rep-type="attorney" sequence="01">
+        <addressbook>
+         <orgname>
+          Abel Law Group, LLP
+         </orgname>
+         <address>
+          <country>
+           unknown
+          </country>
+         </address>
+        </addressbook>
+       </agent>
+       <agent rep-type="attorney" sequence="02">
+        <addressbook>
+         <last-name>
+          Kim
+         </last-name>
+         <first-name>
+          Chi Suk
+         </first-name>
+         <address>
+          <country>
+           unknown
+          </country>
+         </address>
+        </addressbook>
+       </agent>
+      </agents>
+     </us-parties>
+     <assignees>
+      <assignee>
+       <addressbook>
+        <orgname>
+         Saint-Gobain Performance Plastics Corporation
+        </orgname>
+        <role>
+         02
+        </role>
+        <address>
+         <city>
+          Aurora
+         </city>
+         <state>
+          OH
+         </state>
+         <country>
+          US
+         </country>
+        </address>
+       </addressbook>
+      </assignee>
+     </assignees>
+     <examiners>
+      <primary-examiner>
+       <last-name>
+        Ross
+       </last-name>
+       <first-name>
+        Dana
+       </first-name>
+       <department>
+        3742
+       </department>
+      </primary-examiner>
+      <assistant-examiner>
+       <last-name>
+        Iskra
+       </last-name>
+       <first-name>
+        Joseph
+       </first-name>
+      </assistant-examiner>
+     </examiners>
+    </us-bibliographic-data-grant>
+    <abstract id="abstract">
+     <p id="p-0001" num="0000">
+      A grilling belt includes a flexible support having first and second major surfaces, an extruded fluoropolymer layer overlying the first major surface, and a cast or skived fluoropolymer layer overlying the extruded fluoropolymer layer. Another grilling belt can include a support having first and second major surfaces, and a first fluoropolymer film overlying the first major surface. The support can include a first fabric having a first bias angle, and a second fabric laminated to the first fabric and having a second bias angle different from the first bias angle by between 20° and 160°.
+     </p>
+    </abstract>
+    <drawings id="DRAWINGS">
+     <figure id="Fig-EMI-D00000" num="00000">
+      <img alt="embedded image" file="US08925447-20150106-D00000.TIF" he="92.88mm" id="EMI-D00000" img-content="drawing" img-format="tif" wi="196.60mm"/>
+     </figure>
+     <figure id="Fig-EMI-D00001" num="00001">
+      <img alt="embedded image" file="US08925447-20150106-D00001.TIF" he="194.65mm" id="EMI-D00001" img-content="drawing" img-format="tif" wi="201.34mm"/>
+     </figure>
+     <figure id="Fig-EMI-D00002" num="00002">
+      <img alt="embedded image" file="US08925447-20150106-D00002.TIF" he="162.05mm" id="EMI-D00002" img-content="drawing" img-format="tif" wi="188.47mm"/>
+     </figure>
+     <figure id="Fig-EMI-D00003" num="00003">
+      <img alt="embedded image" file="US08925447-20150106-D00003.TIF" he="87.12mm" id="EMI-D00003" img-content="drawing" img-format="tif" wi="129.37mm"/>
+     </figure>
+    </drawings>
+    <description id="description">
+     <?RELAPP description="Other Patent Relations" end="lead"?>
+     <heading id="h-0001" level="1">
+      CORRESPONDING APPLICATION
+     </heading>
+     <p id="p-0002" num="0001">
+      The present application claims priority from U.S. Provisional Patent Application No. 61/354,104, filed Jun. 11, 2010, entitled “COOKING BELT,” naming inventor Hua Fan, Anne B. Hardy, Timothy P. Pollock, and Ephraim P. Lin, which application is incorporated by reference herein in its entirety.
+     </p>
+     <?RELAPP description="Other Patent Relations" end="tail"?>
+     <?BRFSUM description="Brief Summary" end="lead"?>
+     <heading id="h-0002" level="1">
+      FIELD OF THE DISCLOSURE
+     </heading>
+     <p id="p-0003" num="0002">
+      This disclosure, in general, relates to a cooking belt.
+     </p>
+     <heading id="h-0003" level="1">
+      BACKGROUND
+     </heading>
+     <p id="p-0004" num="0003">
+      In the food industry, particularly in relation to commercially prepackaged and prepared foods or restaurants, businesses are turning to faster methods of cooking food in a uniform manner. In addition, such businesses are seeking to streamline operations including cleanup operations and are seeking to reduce the risk of employee injury.
+     </p>
+     <p id="p-0005" num="0004">
+      In an example, commercially prepackaged food products or commercially precooked foods can be cooked on a cooking belt. In another example, meat can be cooked on a flat surface (i.e., standard stove configuration) with heat only from below. Non-stick cooking surfaces can prevent sticking of the food product to the cooking surface. Reduced sticking results in reduced effort used to remove the cooked food product from the surface. The reduced sticking also reduces burnt residue that is to be scraped off the cooking surface so that subsequent food products to be cooked do not stick. However, continued use and wear of the non-stick surface can diminish the non-stick properties. As such, further improvements to non-stick cooking surfaces are desired.
+     </p>
+     <heading id="h-0004" level="1">
+      SUMMARY
+     </heading>
+     <p id="p-0006" num="0005">
+      In an embodiment, a grilling belt can include a flexible support having first and second major surfaces, an extruded fluoropolymer layer overlying the first major surface, and a second fluoropolymer layer overlying the extruded fluoropolymer layer. The second fluoropolymer layer can be a cast fluoropolymer layer or skived fluoropolymer layer.
+     </p>
+     <p id="p-0007" num="0006">
+      In another embodiment, a grilling belt can include a support having first and second major surfaces, and a first fluoropolymer film overlying the first major surface. The support can include a first fabric having a first bias angle, and a second fabric laminated to the first fabric and having a second bias angle different from the first bias angle by between 20° and 160°.
+     </p>
+     <p id="p-0008" num="0007">
+      In a further embodiment, a grilling system can include first and second rollers, a heat source, and a grilling belt looped around the first and second rollers. The grilling belt can have first and second ends joined together. Further, the grilling belt can include a flexible support having first and second major surfaces, an extruded fluoropolymer layer overlying the first major surface, and a second fluoropolymer layer overlying the extruded fluoropolymer layer. The second fluoropolymer layer can be a cast fluoropolymer layer or skived fluoropolymer layer.
+     </p>
+     <p id="p-0009" num="0008">
+      In yet another embodiment, a method of forming a grilling belt can include providing a first flexible support having first and second major surfaces and first and second ends, laminating a first fluoropolymer layer overlying the first major surface, and laminating a second fluoropolymer layer overlying the extruded fluoropolymer layer. The first fluoropolymer layer can include an extruded film.
+     </p>
+     <p id="p-0010" num="0009">
+      In still another embodiment, a method of forming a grilling belt can include providing a flexible support having first and second major surfaces and first and second ends, extruding a first fluoropolymer film, casting a second fluoropolymer film overlying the first fluoropolymer film, and laminating the first fluoropolymer film to the first major surface of the flexible support.
+     </p>
+     <?BRFSUM description="Brief Summary" end="tail"?>
+     <?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+     <description-of-drawings>
+      <heading id="h-0005" level="1">
+       BRIEF DESCRIPTION OF THE DRAWINGS
+      </heading>
+      <p id="p-0011" num="0010">
+       The present disclosure may be better understood, and its numerous features and advantages made apparent to those skilled in the art by referencing the accompanying drawings.
+      </p>
+      <p id="p-0012" num="0011">
+       <figref idref="DRAWINGS">
+        FIG. 1
+       </figref>
+       includes an illustration of a cross-section of an exemplary sheet material.
+      </p>
+      <p id="p-0013" num="0012">
+       <figref idref="DRAWINGS">
+        FIG. 2
+       </figref>
+       includes an illustration of an exemplary reinforcement material.
+      </p>
+      <p id="p-0014" num="0013">
+       <figref idref="DRAWINGS">
+        FIG. 3
+       </figref>
+       includes an illustration of a cross-section of a portion of an exemplary sheet material.
+      </p>
+      <p id="p-0015" num="0014">
+       <figref idref="DRAWINGS">
+        FIGS. 4 and 5
+       </figref>
+       include illustrations of exemplary cooking belt systems.
+      </p>
+     </description-of-drawings>
+     <?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+     <?DETDESC description="Detailed Description" end="lead"?>
+     <p id="p-0016" num="0015">
+      The use of the same reference symbols in different drawings indicates similar or identical items.
+     </p>
+     <heading id="h-0006" level="1">
+      DETAILED DESCRIPTION
+     </heading>
+     <p id="p-0017" num="0016">
+      Grilling or cooking belts are often used for the production of commercially precooked and prepackaged food. The cooking belts can be used in a continuous process for the preparation of the food, significantly increasing productivity over a static surface, such as a grill. However, the continuous movement of the belt can result in stresses to the components, leading to wear and eventually to replacing the belt. Cooking belts extend to lengths up to hundreds of feet and replacement of such belts can be complicated and time consuming, thus causing significant production delays.
+     </p>
+     <p id="p-0018" num="0017">
+      Generally, the belts are replaced when the ability of the cooking surface to release the food product is reduced. The failure of the cooking surface is often the result of the formation of splits in the surface. The splits can expose underlying components of the cooking belt, such as a reinforcement material that may not have the same release properties as the overlying non-stick surface. Additionally, the splits can trap liquids or greases, and provide a path for the liquid or grease to reach the fibers of the reinforcement material. Once liquid or grease has penetrated the reinforcement material, residues from the liquid or grease can abrade the reinforcement material during further use, reducing the mechanical properties of the belt, leading to potential breakage of the belt.
+     </p>
+     <p id="p-0019" num="0018">
+      Applicants discovered that in particular instances splits, which tend to extend along either fill or warp direction, depending on the style of greige good, can form on the points of overlap of the fill and warp yarns. The splits can form due to the shearing stress, such as from the movement of the belt around rollers. If allowed to propagate, such splits can permit grease and other liquids to infuse into fibrous supports, leading to embrittled belts with reduced strength and stress resistance.
+     </p>
+     <p id="p-0020" num="0019">
+      In a particular embodiment, a sheet material includes a low surface energy polymer, such as a fluoropolymer. Such a sheet material can be in the form of a grill sheet, a cooking belt, a film, a coating, or a combination thereof. In an embodiment, a sheet material particularly suitable as a cooking belt includes a reinforcement material and a fluoropolymer film overlying the reinforcement material. In an example, the fluoropolymer film is an extruded fluoropolymer film, such as an expanded fluoropolymer film. Optionally, a skived or cast fluoropolymer film can be placed to overlie the extruded fluoropolymer film. Such an embodiment can prevent split propagation, leading to improved mechanical properties and belt life.
+     </p>
+     <p id="p-0021" num="0020">
+      In the embodiment illustrated in
+      <figref idref="DRAWINGS">
+       FIG. 1
+      </figref>
+      , a sheet material
+      <b>
+       100
+      </b>
+      , such as a cooking sheet, includes a reinforcement material
+      <b>
+       110
+      </b>
+      and a fluoropolymer layer
+      <b>
+       104
+      </b>
+      overlying the reinforcement material
+      <b>
+       110
+      </b>
+      on one or both sides of the reinforcement material
+      <b>
+       110
+      </b>
+      . A upper layer
+      <b>
+       102
+      </b>
+      can be disposed on or can overlie the fluoropolymer layer
+      <b>
+       104
+      </b>
+      , and, optionally, an bottom layer
+      <b>
+       114
+      </b>
+      can be disposed under or can underlie the fluoropolymer layer
+      <b>
+       104
+      </b>
+      . As described herein, the terms “over” or “overlie” are used to describe locations relatively closer to a cooking surface or the surface intended to contact an item, such as food, to be heated. The terms “under” or “underlie” describe locations relatively further from the cooking surface.
+     </p>
+     <p id="p-0022" num="0021">
+      As illustrated, the upper layer
+      <b>
+       102
+      </b>
+      forms a cooking surface
+      <b>
+       108
+      </b>
+      . Absent the upper layer
+      <b>
+       102
+      </b>
+      , the fluoropolymer layer
+      <b>
+       104
+      </b>
+      can form the cooking surface
+      <b>
+       108
+      </b>
+      . In addition, the bottom layer
+      <b>
+       114
+      </b>
+      forms a contact surface
+      <b>
+       112
+      </b>
+      to contact a support or rollers. Absent the bottom layer
+      <b>
+       114
+      </b>
+      , the fluoropolymer layer
+      <b>
+       104
+      </b>
+      can form the contact surface
+      <b>
+       112
+      </b>
+      .
+     </p>
+     <p id="p-0023" num="0022">
+      Optionally, an intermediate layer
+      <b>
+       116
+      </b>
+      can be disposed between the fluoropolymer layer
+      <b>
+       104
+      </b>
+      and the upper layer
+      <b>
+       102
+      </b>
+      , and an intermediate layer
+      <b>
+       118
+      </b>
+      can be disposed between the fluoropolymer layer
+      <b>
+       104
+      </b>
+      and the bottom layer
+      <b>
+       114
+      </b>
+      . In a particular embodiment, the sheet material
+      <b>
+       100
+      </b>
+      can be free of an intermediate layer
+      <b>
+       118
+      </b>
+      and bottom layer
+      <b>
+       114
+      </b>
+      , and is in the form of a single sided laminate.
+     </p>
+     <p id="p-0024" num="0023">
+      In an example, the sheet material
+      <b>
+       100
+      </b>
+      is a cooking belt, such as a closed-loop cooking belt. The cooking belt can have length (longest orthogonal dimension) of at least 1 m, such as at least 3 meters, at least 10 meters, or even at least 30 meters. In addition, the cooking belt can have an aspect ratio, defined as the ratio of the length to the width (second longest orthogonal dimension) of at least 10, such as at least 30 or even at least 100.
+     </p>
+     <p id="p-0025" num="0024">
+      The reinforcement material
+      <b>
+       110
+      </b>
+      can include a fibrous reinforcement, such as a woven or nonwoven fibrous reinforcement. For example, the fibrous reinforcement can be a woven fabric or an intermeshing of randomly oriented fibrous strands. In one exemplary embodiment, the fabric is a woven glass fabric. In another exemplary embodiment, the fabric is a knitted fabric. In other embodiments, the reinforcement can include a mesh of ceramic, plastic, or metallic material or sheets of composite materials, among others. Alternatively, the reinforcement material
+      <b>
+       110
+      </b>
+      can take the form of a substrate, typically a sheet. Embodiments can use supports formed of high melting point thermoplastics, such as thermoplastic polyimides, polyether-ether ketones, polyaryl ketones, polyphenylene sulfide, and polyetherimides; thermosetting plastics, particularly of the high temperature capable thermosetting resins, such as polyimides; coated or laminated textiles based on the above thermoplastics or similar thermally stable resins and thermally stable reinforcements such as fiberglass, graphite, and polyaramid; plastic coated metal foil; and metallized or metal foil laminated plastic films. In addition, exemplary embodiments include woven and non-woven materials formed of fibers selected from aramid such as Kevlar® or Nomex®, fluorinated polymer, fiberglass, graphite, polyimide, polyphenylene sulfide, polyketones, polyesters, or a combination thereof. In particular, the fibrous reinforcement includes a fiberglass reinforcement that has been cleaned or pretreated with heat. Alternatively, the fibrous reinforcement can be a coated fiberglass reinforcement. In a particular example, each of the fibers of the fiberglass can be individually sized with a polymeric coating.
+     </p>
+     <p id="p-0026" num="0025">
+      In an example, the reinforcement material
+      <b>
+       110
+      </b>
+      includes a fabric. The fabric includes a plurality of yarns
+      <b>
+       106
+      </b>
+      . In an example, the yarns
+      <b>
+       106
+      </b>
+      are interwoven together to form the fabric. While the yarns
+      <b>
+       106
+      </b>
+      are illustrated in
+      <figref idref="DRAWINGS">
+       FIG. 1
+      </figref>
+      to be uniformly distributed, the yarns
+      <b>
+       106
+      </b>
+      can be bunched together.
+     </p>
+     <p id="p-0027" num="0026">
+      In a particular example, each filament of the yarn
+      <b>
+       106
+      </b>
+      can be pretreated prior to incorporation into the yarn
+      <b>
+       106
+      </b>
+      or into the fabric. For example, each filament can be coated with a size coat. In a particular example, the size coat includes a silane or other hydrophobic or oleophobic chemical that improves a bond with fluoropolymers, such as a perfluoropolymer.
+     </p>
+     <p id="p-0028" num="0027">
+      The fabric can have a weight in a range of 0.7 osy to 15 osy, such as a weight of 1.0 osy to 12 osy, or even a weight of 1.5 osy to 10 osy. The fabric can have yarns in a range of 20 to 80 yarns per inch, such as 30 to 70 yarns per inch or even 40 to 65 yarns per inch in the warp or fill directions. Further, the fabric can have a thickness in a range between 1.0 mil and 15.0 mils, such as a range of 2.0 mils to 12.0 mils, or in particular, in a range of 3.0 mils to 10.0 mils.
+     </p>
+     <p id="p-0029" num="0028">
+      In a particular embodiment, the reinforcement material can include a plurality of fabric layers.
+      <figref idref="DRAWINGS">
+       FIG. 2
+      </figref>
+      provides an illustration of a reinforcement material
+      <b>
+       200
+      </b>
+      including one or more fabric layers, such as fabric layer
+      <b>
+       202
+      </b>
+      , fabric layer
+      <b>
+       204
+      </b>
+      , and fabric layer
+      <b>
+       214
+      </b>
+      . A fabric layer
+      <b>
+       202
+      </b>
+      can include warp yarns
+      <b>
+       206
+      </b>
+      and fill yarns (weft yarns)
+      <b>
+       208
+      </b>
+      . The warp yarns
+      <b>
+       206
+      </b>
+      can be oriented substantially parallel to the movement direction of the belt. The movement direction can be the direction in which the belt travels during operation and can be substantially parallel to the length of the belt. The fill yarns
+      <b>
+       208
+      </b>
+      can be oriented substantially perpendicular to the warp yarns
+      <b>
+       206
+      </b>
+      and substantially perpendicular to the movement direction.
+     </p>
+     <p id="p-0030" num="0029">
+      Alternatively or in addition, the reinforcement material
+      <b>
+       200
+      </b>
+      can include one or more sheets of fabric including fill yarns that are askew from the perpendicular. For example, the fabric layer
+      <b>
+       204
+      </b>
+      can include warp yarn
+      <b>
+       210
+      </b>
+      and fill yarns
+      <b>
+       212
+      </b>
+      . Fabric layer
+      <b>
+       204
+      </b>
+      can be biased such that the fill yarns
+      <b>
+       212
+      </b>
+      are not perpendicular to the warp yarns. For example, the fill yarns
+      <b>
+       212
+      </b>
+      can be oriented at an angle of about 10° to about 70° relative to the machine or warp direction as indicated by the warp yarns
+      <b>
+       210
+      </b>
+      , such as at an angle of about 15° to about 45°. Fabric layer
+      <b>
+       204
+      </b>
+      can be left biased (the smallest angle formed between the warp and fill yarns) is on the left side relative to the warp direction) or right biased (the smallest angle is on the right side relative to the warp direction). In an example, the fabric layer
+      <b>
+       214
+      </b>
+      can include fill yarns that are askew. In particular, the fabric layer
+      <b>
+       214
+      </b>
+      can include fill yarns that askew in a manner opposite that of the fabric layer
+      <b>
+       204
+      </b>
+      . For example, the fabric layer
+      <b>
+       204
+      </b>
+      can be left side biased and the fabric layer
+      <b>
+       214
+      </b>
+      can be right side biased or visa-versa.
+     </p>
+     <p id="p-0031" num="0030">
+      In an example, more than one fabric layers having different fill yarn orientations can be coupled to form the reinforcement layer. For example, fabric layers
+      <b>
+       202
+      </b>
+      and
+      <b>
+       204
+      </b>
+      can be bonded together, such as by laminating, with or without an adhesive, or an autogenous bonding process. In an example, each fabric layer can be coated with a fluoropolymer coating. In particular, two or more layers can be bonded with intermediate fluoropolymer layers, such as intermediate coatings of fluoropolymer or a melt adhesive fluoropolymer. In another example, the layers can be pre-sized with a fluoropolymer and heat laminated together. In a further example, an adhesive, such as a silane adhesive, can be applied to bond the layers together. In an additional example, fiber layers, such as fiberglass layers, can be autogenously bonded in the presence of charged gas.
+     </p>
+     <p id="p-0032" num="0031">
+      In a particular embodiment, the reinforcement material
+      <b>
+       200
+      </b>
+      can include additional fabric layers. The additional fabric layers can biased in an opposite direction from fabric layer
+      <b>
+       204
+      </b>
+      . For example, fabric layer
+      <b>
+       204
+      </b>
+      can be left biased and an additional fabric layer can be right biased. In a particular example, the fabric layer
+      <b>
+       204
+      </b>
+      can have a bias angle, defined as the angle formed between the warp and fill yarns on the left side of the fabric relative to the warp direction, of less than 90°, such as in a range of 10° to 70°, and the fabric layer
+      <b>
+       214
+      </b>
+      can have a bias angle greater than 90°, such as in a range of 100° to 160°. For example, the fabric layer
+      <b>
+       204
+      </b>
+      can have a bias angle in a range of 15° to 60°, such as a range of 30° to 45°, and the fabric layer
+      <b>
+       214
+      </b>
+      can have a bias angle in a range of 105° to 150°, such as a range of 120° to 135°. The difference in bias angles between the two fabrics
+      <b>
+       204
+      </b>
+      and
+      <b>
+       214
+      </b>
+      can be in a range of 20° to 160°, such as a range of 40° to 140°, such as a range of 60° to 90°. In such an embodiment, the reinforcement material
+      <b>
+       200
+      </b>
+      can include a fabric layer
+      <b>
+       202
+      </b>
+      or can be free of fabric layer
+      <b>
+       202
+      </b>
+      .
+     </p>
+     <p id="p-0033" num="0032">
+      Returning to
+      <figref idref="DRAWINGS">
+       FIG. 1
+      </figref>
+      , the reinforcement material
+      <b>
+       110
+      </b>
+      is incorporated within the fluoropolymer layer
+      <b>
+       104
+      </b>
+      . Alternatively, the fluoropolymer layer
+      <b>
+       104
+      </b>
+      can be disposed on either side of the reinforcement material
+      <b>
+       110
+      </b>
+      . In particular, the fluoropolymer layer
+      <b>
+       104
+      </b>
+      can reside closer to the cooking surface
+      <b>
+       112
+      </b>
+      .
+     </p>
+     <p id="p-0034" num="0033">
+      In an embodiment, the fluoropolymer layer
+      <b>
+       104
+      </b>
+      includes a fluoropolymer. An exemplary fluoropolymer can be formed of a homopolymer, copolymer, terpolymer, or polymer blend formed from a monomer, such as tetrafluoroethylene, hexafluoropropylene, chlorotrifluoroethylene, trifluoroethylene, vinylidene fluoride, vinyl fluoride, perfluoropropyl vinyl ether, perfluoromethyl vinyl ether, or any combination thereof. An exemplary fluoropolymer includes polytetrafluoroethylene (PTFE), a fluorinated ethylene propylene copolymer (FEP), a copolymer of tetrafluoroethylene and perfluoropropyl vinyl ether (perfluoroalkoxy or PFA), a copolymer of tetrafluoroethylene and perfluoromethyl vinyl ether (MFA), a copolymer of ethylene and tetrafluoroethylene (ETFE), a copolymer of ethylene and chlorotrifluoroethylene (ECTFE), polychlorotrifluoroethylene (PCTFE), poly vinylidene fluoride (PVDF), a terpolymer including tetrafluoroethylene, hexafluoropropylene, and vinylidenefluoride (THV), or any blend or any alloy thereof. In an example, the fluoropolymer includes polytetrafluoroethylene (PTFE), fluorinated ethylene propylene (FEP), perfluoroalkoxy (PFA), polyvinylidene fluoride (PVDF), or any combination thereof. In particular, the fluoropolymer can include polytetrafluoroethylene (PTFE), fluorinated ethylene propylene (FEP), perfluoroalkoxy (PFA), or any combination thereof. In a further embodiment, the fluoropolymer can be a perfluoropolymer, such as PTFE or FEP.
+     </p>
+     <p id="p-0035" num="0034">
+      In a particular example, the fluoropolymer includes a perfluoropolymer. For example, the perfluoropolymer can include polytetrafluoroethylene (PTFE), fluorinated ethylene propylene (FEP), perfluoroalkoxy (PFA), or any blend or copolymer thereof. In a particular example, the fluoropolymer layer
+      <b>
+       104
+      </b>
+      includes polytetrafluoroethylene (PTFE).
+     </p>
+     <p id="p-0036" num="0035">
+      A upper layer
+      <b>
+       102
+      </b>
+      can be formed on top of or can overlie the fluoropolymer layer
+      <b>
+       104
+      </b>
+      . In an example, the upper layer
+      <b>
+       102
+      </b>
+      includes a fluoropolymer, such as a perfluoropolymer. For example, the upper layer
+      <b>
+       102
+      </b>
+      can include PTFE. In another example, the upper layer
+      <b>
+       102
+      </b>
+      includes a thermoplastic processible fluoropolymer. For example, the upper layer
+      <b>
+       102
+      </b>
+      can include a perfluoroalkoxy (PFA), fluorinated ethylene propylene (FEP), or a blend or copolymer thereof.
+     </p>
+     <p id="p-0037" num="0036">
+      In a further example, the upper layer
+      <b>
+       102
+      </b>
+      can include a blend of perfluoropolymer and a second polymer. In an example, the second polymer can include a silicone. The silicone polymer can include a polysiloxane. For example, the silicone polymer can include a polyalkylsiloxane, a phenylsilicone, a fluorosilicone, or any combination thereof. In an example, a polyalkysiloxane includes a polydimethylsiloxane, a polydipropylsiloxane, a polymethylpropylsiloxane, or any combination thereof. In particular, the silicone polymer can be derived from an aqueous dispersion of precured silicone polymers. In an example, the silicone polymer can be derived from an aqueous dispersion and can include precured silicone. In particular, the silicone polymer can be derived from an aqueous dispersion of precured silicone with terminal groups or additives, such as cross-linkers. For example, the silicone polymer can be selected from a silicone polymer dispersion available from Wacker-Chemie GmbH, Munchen, Germany, such as the Wacker CT27E silicone rubber dispersion, or available from Dow Corning, such as DC2-1266 silicone rubber. In particular, the silicone is formulated such that it can be used in contact with food or in medical applications, herein referred to as “at least food grade.” Further, the sheet material can be at least food grade, being formed of materials that can be used in contact with food, such as permitted by the United States of America Food and Drug Administration.
+     </p>
+     <p id="p-0038" num="0037">
+      The blend can include silicone polymer in an amount in a range of 0 wt % to 80 wt % based on the total weight of the solids of the blend, such as a range of 0 wt % to 40 wt %. For example, the blend can include silicone polymer in an amount in a range of 2 wt % to 30 wt %, such as a range of 5 wt % to 30 wt %, a range of 10 wt % to 30 wt %, or even a range of 15 wt % to 20 wt %. In addition, the blend can include fluoropolymer, such as perfluoropolymer, in an amount in a range of 60 wt % to 100 wt %, such as a range of 75 wt % to 90 wt %, or even a range of 80 wt % to 85 wt %.
+     </p>
+     <p id="p-0039" num="0038">
+      The fluoropolymer layers can be formed of extruded fluoropolymer, cast fluoropolymer, or skived fluoropolymer. The extruded fluoropolymer can be paste extruded and can be stretched, such as uniaxially stretched or biaxially stretched. Stretched film that are stretched to a ratio of at least 3:1, such as a ratio of at least 4:1 are referred to herein as expanded. For example, the extruded fluoropolymer can be an expanded PTFE layer. The fluoropolymer layers can be formed directly on the reinforcement material
+      <b>
+       110
+      </b>
+      or can be formed as separate layers and laminated to the structure.
+     </p>
+     <p id="p-0040" num="0039">
+      In a particular example, a fluoropolymer layer includes an extruded film and an upper layer includes a cast film or a skived film. The extruded film can be an expanded film, such as a biaxially expanded layer. For example, an extruded film can be laminated to a coated reinforcement material. A coating of fluoropolymer can be cast over the extruded fluoropolymer film to form the upper layer. Alternatively, a separate cast film can be laminated over the extruded fluoropolymer layer. In a particular example, each of the layers can be formed of a perfluoropolymer, such as PTFE.
+     </p>
+     <p id="p-0041" num="0040">
+      For example,
+      <figref idref="DRAWINGS">
+       FIG. 3
+      </figref>
+      shows a cross-section of a portion
+      <b>
+       300
+      </b>
+      of a sheet material, such as a cooking belt, which includes an extruded fluoropolymer film
+      <b>
+       302
+      </b>
+      and a cast or skived fluoropolymer film
+      <b>
+       304
+      </b>
+      overlying the extruded fluoropolymer film
+      <b>
+       302
+      </b>
+      . The portion
+      <b>
+       300
+      </b>
+      can be laminated to a coated reinforcement material, such as a fluoropolymer coated fabric. The extruded fluoropolymer film
+      <b>
+       302
+      </b>
+      can be expanded or stretched in either a uniaxially or biaxially. The extruded fluoropolymer film
+      <b>
+       302
+      </b>
+      can exhibit a high degree of alignment of the fluoropolymer molecules
+      <b>
+       306
+      </b>
+      in a machined direction. When stretched biaxially, the fluoropolymer molecules
+      <b>
+       306
+      </b>
+      can be substantially aligned in two directions. The alignment of fluoropolymer molecules
+      <b>
+       306
+      </b>
+      can increase the strength of the film in the direction of alignment. However, the extruded fluoropolymer film
+      <b>
+       302
+      </b>
+      , particularly if expanded, can have a high permeability and can be weak in a non-machined direction. Fluoropolymer molecules
+      <b>
+       308
+      </b>
+      in the cast or skived fluoropolymer film
+      <b>
+       304
+      </b>
+      can be randomly oriented. In a particular example, fluoropolymer film
+      <b>
+       304
+      </b>
+      can have a low permeability. The resulting material can exhibit a reduction in split formation and propagation, providing for extended belt life.
+     </p>
+     <p id="p-0042" num="0041">
+      In a further embodiment, portion
+      <b>
+       300
+      </b>
+      can include additional layers. For example, the portion
+      <b>
+       300
+      </b>
+      can include extruded fluoropolymer films applied to align at an angle to the alignment direction of the other extruded fluoropolymer film
+      <b>
+       302
+      </b>
+      . For example, the angle between the alignment directions of two extruded fluoropolymer films can be about 15° to about 75°, such as about 30° to about 60°.
+     </p>
+     <p id="p-0043" num="0042">
+      In an example, the extruded fluoropolymer film
+      <b>
+       302
+      </b>
+      can have a thickness in a range of about 0.2 mils to about 3 mils. For example, the thickness of the fluoropolymer film
+      <b>
+       302
+      </b>
+      can be in a range of 0.5 mils to 2 mils.
+     </p>
+     <p id="p-0044" num="0043">
+      Returning to
+      <figref idref="DRAWINGS">
+       FIG. 1
+      </figref>
+      , the bottom layer
+      <b>
+       114
+      </b>
+      can be formed under or can underlie the fluoropolymer layer
+      <b>
+       104
+      </b>
+      . In an example, the bottom layer
+      <b>
+       114
+      </b>
+      includes a fluoropolymer, such as a perfluoropolymer, such as PTFE. In a particular example, the bottom layer
+      <b>
+       114
+      </b>
+      includes a thermoplastic processible fluoropolymer. For example, the bottom layer
+      <b>
+       114
+      </b>
+      can include a perfluoroalkoxy (PFA), fluorinated ethylene propylene (FEP), or a combination thereof.
+     </p>
+     <p id="p-0045" num="0044">
+      In an example, the bottom layer
+      <b>
+       114
+      </b>
+      and upper layer
+      <b>
+       102
+      </b>
+      form symmetric layers on either side of the reinforcement layer
+      <b>
+       110
+      </b>
+      . Alternatively, the bottom layer
+      <b>
+       114
+      </b>
+      and the upper layer
+      <b>
+       102
+      </b>
+      form asymmetric layers about the reinforcement layer
+      <b>
+       110
+      </b>
+      . In a further example, the sheet material
+      <b>
+       100
+      </b>
+      can include one or the other, or both of the upper layer
+      <b>
+       102
+      </b>
+      and the bottom layer
+      <b>
+       114
+      </b>
+      .
+     </p>
+     <p id="p-0046" num="0045">
+      An intermediate layer
+      <b>
+       116
+      </b>
+      can be formed to overlie the fluoropolymer layer
+      <b>
+       104
+      </b>
+      , and an intermediate layer
+      <b>
+       118
+      </b>
+      can be formed to underlie the fluoropolymer layer
+      <b>
+       104
+      </b>
+      . In an example, the intermediate layers
+      <b>
+       116
+      </b>
+      or
+      <b>
+       118
+      </b>
+      can be formed of a fluoropolymer. The fluoropolymer can be different from the fluoropolymer of the fluoropolymer layer
+      <b>
+       104
+      </b>
+      . In an example, the fluoropolymer of the intermediate layer
+      <b>
+       116
+      </b>
+      or
+      <b>
+       118
+      </b>
+      can be a meltable fluoropolymer.
+     </p>
+     <p id="p-0047" num="0046">
+      While not illustrated, additional layers can be included between the fluoropolymer layer
+      <b>
+       104
+      </b>
+      and the reinforcement, over the upper layer
+      <b>
+       102
+      </b>
+      , or under the bottom layer
+      <b>
+       114
+      </b>
+      . For example, the reinforcement layer
+      <b>
+       110
+      </b>
+      can include yarns coated with a polymer, such as fluoropolymer. In another example, an additional coated layer can be disposed between the fluoropolymer layer
+      <b>
+       104
+      </b>
+      and the reinforcement or over the upper layer
+      <b>
+       102
+      </b>
+      .
+     </p>
+     <p id="p-0048" num="0047">
+      In a further alternative, the sheet material
+      <b>
+       100
+      </b>
+      can be free of layers and coatings that underlie the reinforcement material
+      <b>
+       110
+      </b>
+      , for example, being free of bottom layer
+      <b>
+       114
+      </b>
+      . In such an example, the sheet material
+      <b>
+       100
+      </b>
+      can be a single sided laminate, including layers only on one side of the reinforcement layer
+      <b>
+       110
+      </b>
+      , except for sizing on the fabric. In particular, it has been discovered that embodiments of the single sided laminate exhibit desirable lamination strength with the reinforcement material
+      <b>
+       110
+      </b>
+      .
+     </p>
+     <p id="p-0049" num="0048">
+      The sheet material
+      <b>
+       100
+      </b>
+      can exhibit desirable features. In particular, the sheet material
+      <b>
+       100
+      </b>
+      has a thickness of at least 2.5 mils, such as at least 5 mils. For example, the sheet material
+      <b>
+       100
+      </b>
+      can have a thickness in a range of 5 mils to 20 mils, such as a range of 7.5 mils to 16 mils.
+     </p>
+     <p id="p-0050" num="0049">
+      In addition, the sheet material
+      <b>
+       100
+      </b>
+      exhibits desirable mechanical properties. For example, the sheet material
+      <b>
+       100
+      </b>
+      can have a desirable tensile strength in both the warp and fill directions. In addition, the sheet material
+      <b>
+       100
+      </b>
+      can have a desirable trapezoidal tear strength. Moreover, the sheet material
+      <b>
+       100
+      </b>
+      can retain desirable mechanical properties after distress. For example, the sheet material
+      <b>
+       100
+      </b>
+      can exhibit a desirable crease tensile strength and crease trapezoidal tear strength. In addition, the sheet material
+      <b>
+       100
+      </b>
+      can exhibit a desirable MIT flex performance.
+     </p>
+     <p id="p-0051" num="0050">
+      In a particular embodiment, tensile strength can be measured using ASTM D902. The sheet material
+      <b>
+       100
+      </b>
+      can have a tensile strength in the warp or machine direction (generally parallel to length) of at least 30 lbs, such as at least 50 lbs. In particular, especially in the context of a belt, the sheet material can have a tensile strength in the warp direction of at least 300 pounds per linear inch (PLI), such as at least 375 PLI, or event at least 450 PLI. In a further example, the tensile strength in the weft or fill direction (generally parallel to width) can be at least 45 lbs, such as at least 65 lbs, or even at least 80 lbs. In particular, especially in the context of a belt, the belt material can have a tensile strength in the fill direction can be at least 250 PLI, such as at least 275 PLI, or even at least 300 PLI.
+     </p>
+     <p id="p-0052" num="0051">
+      The sheet material
+      <b>
+       100
+      </b>
+      can have a desirable trapezoidal tear strength as measured in accordance with ASTM D751, as modified by ASTM D4969. For example, the trapezoidal tear strength of the sheet material
+      <b>
+       100
+      </b>
+      in the warp direction can be at least 3.5 lbs, such as at least 4.0 lbs. Particularly in the context of a belt, the belt material can have a desirable trapezoidal tear strength in the warp direction of at least 25 lbs, such as at least 40 lbs, at least 60 lbs, or even at least 80 lbs. In another example, the sheet material
+      <b>
+       100
+      </b>
+      can have a trapezoidal tear strength in the fill direction of at least 15 lbs, such as at least 25 lbs, at least 40 lbs, or even at least 60 lbs.
+     </p>
+     <p id="p-0053" num="0052">
+      In addition, the sheet material
+      <b>
+       100
+      </b>
+      can exhibit desirable tensile strength and trapezoidal tear strength after distress, such as creasing. In particular, the tensile strength and trapezoidal tear strength can be measured after creasing one time with a 10 lb roller applied parallel to a fold. The tensile strength of the material after creasing with the 10 lb roller is denoted as the crease tensile strength, and the trapezoidal tear strength after creasing is denoted the crease trapezoidal tear strength. In particular, the sheet material
+      <b>
+       100
+      </b>
+      can have a crease tensile strength in the warp direction of at least 10 lbs, such as at least 15 lbs, or even at least 17 lbs. Further, the sheet material
+      <b>
+       100
+      </b>
+      can exhibit a crease trapezoidal tear strength of at least 0.5 lbs, such as at least 1.0 lbs.
+     </p>
+     <p id="p-0054" num="0053">
+      The durability of the sheet material
+      <b>
+       100
+      </b>
+      under distress can also be characterized by the MIT flex performance. For example, the sheet material
+      <b>
+       100
+      </b>
+      can have a MIT flex performance of at least 10,000, such as at least 15,000, at least 20,000, or even at least 25,000. The MIT flex performance is measured with repetitions at 2 pounds on a ½ inch wide specimen in accordance with the folding endurance test of ASTM D2176-63J.
+     </p>
+     <p id="p-0055" num="0054">
+      In a further example, the sheet material
+      <b>
+       100
+      </b>
+      exhibits low permeability. In particular, the sheet material
+      <b>
+       100
+      </b>
+      is not porous or layers that can be porous, such as an extruded fluoropolymer film or a layer comprising the perfluoropolymer/silicone blend, include pores that are not substantially interconnected or are localized to that layer. For example, the sheet material
+      <b>
+       100
+      </b>
+      can have a permeability of not greater than 0.001 cu. in/min, as measured in accordance with ASTM D737, such as having a permeability of approximately 0 cu, in/min within the sensitivity of the measuring device. As such, the sheet material
+      <b>
+       100
+      </b>
+      can be impermeable. In a particular example, a sheet material
+      <b>
+       100
+      </b>
+      including a reinforcement layer and a layer comprising the fluoropolymer has a permeability of not greater than 0.001 cu. in/min.
+     </p>
+     <p id="p-0056" num="0055">
+      Further, the sheet material
+      <b>
+       100
+      </b>
+      performs well when tested for cooking performance. In particular, the sheet material
+      <b>
+       100
+      </b>
+      is resistant to wicking of grease and charring of grease. In an example, wicking is tested by subjecting the sheet to hot grease for greater than 16 hours, typically 1 week, at 400° F. When grease wicks into the fabric or cooking sheet, it tends to char and weaken the fabric. In addition, it tends to discolor both the fabric and the individual filaments. Embodiments of the sheet material
+      <b>
+       100
+      </b>
+      described above exhibit little or no wicking, little or no charring of grease, and little or no discoloration of the filaments or the fabric. Thus, embodiments of the sheet material
+      <b>
+       100
+      </b>
+      receive a pass rating for the wicking rating.
+     </p>
+     <p id="p-0057" num="0056">
+      In a further embodiment, the sheet material forms a cooking belt. As illustrated in
+      <figref idref="DRAWINGS">
+       FIG. 4
+      </figref>
+      , a system
+      <b>
+       400
+      </b>
+      includes a belt
+      <b>
+       402
+      </b>
+      and a heat source
+      <b>
+       406
+      </b>
+      . The belt
+      <b>
+       402
+      </b>
+      includes a flexible support, such as a reinforcement material with a fluoropolymer layer overlying the reinforcement material. The outer surface of the cooking belt can include a cast or skived fluoropolymer film overlying an expanded fluoropolymer film. A control unit
+      <b>
+       410
+      </b>
+      can be used to influence the amount of heat that is provided by the heat source
+      <b>
+       406
+      </b>
+      . In a particular example, the belt material
+      <b>
+       100
+      </b>
+      has a thickness of not greater than 20 mils, such as not greater than 14 mils, or even not greater than 8 mils.
+     </p>
+     <p id="p-0058" num="0057">
+      As shown in the particular embodiment, the belt
+      <b>
+       402
+      </b>
+      forms a closed loop belt. The closed loop belt is wrapped around rollers
+      <b>
+       404
+      </b>
+      . Typically, the belt
+      <b>
+       402
+      </b>
+      is flexible to allow routing around the rollers
+      <b>
+       404
+      </b>
+      and continual rotational movement around the rollers
+      <b>
+       404
+      </b>
+      . The flexible support can constitute a portion of the belt
+      <b>
+       402
+      </b>
+      or substantially the entirety of the belt
+      <b>
+       402
+      </b>
+      . The belt
+      <b>
+       402
+      </b>
+      can include other portions, such as a lacing or clasp mechanism
+      <b>
+       408
+      </b>
+      . In an alternative embodiment, the ends of the belt can be joined together without a lacing or clasp mechanism, such as by melt fusing.
+     </p>
+     <p id="p-0059" num="0058">
+      In addition, the belt
+      <b>
+       402
+      </b>
+      exhibits desirable mechanical properties, as described above. For example, the belt
+      <b>
+       402
+      </b>
+      can have a desirable tensile strength in both the warp and fill directions. In addition, the belt
+      <b>
+       402
+      </b>
+      can have a desirable trapezoidal tear strength. Moreover, the belt
+      <b>
+       402
+      </b>
+      can retain desirable mechanical properties after distress. For example, the belt
+      <b>
+       402
+      </b>
+      can exhibit a desirable crease tensile strength and crease trapezoidal tear strength. In addition, the belt
+      <b>
+       402
+      </b>
+      can exhibit a desirable MIT flex performance.
+     </p>
+     <p id="p-0060" num="0059">
+      In a further example, the sheet material can be used in a two belt system, such as the system
+      <b>
+       500
+      </b>
+      illustrated in
+      <figref idref="DRAWINGS">
+       FIG. 5
+      </figref>
+      . For example, the sheet material can used to form a belt
+      <b>
+       502
+      </b>
+      or a belt
+      <b>
+       508
+      </b>
+      . The outer surfaces of at least the belt
+      <b>
+       502
+      </b>
+      and optionally, the belt
+      <b>
+       508
+      </b>
+      can include a cast or skived fluoropolymer film overlying an expanded fluoropolymer film. Each belt (
+      <b>
+       502
+      </b>
+      or
+      <b>
+       508
+      </b>
+      ) can be heated by respective heat sources (
+      <b>
+       506
+      </b>
+      or
+      <b>
+       510
+      </b>
+      ). In a particular example, a food product
+      <b>
+       512
+      </b>
+      can be placed between the belts (
+      <b>
+       502
+      </b>
+      or
+      <b>
+       508
+      </b>
+      ) and cooked. In general, the belts (
+      <b>
+       502
+      </b>
+      or
+      <b>
+       508
+      </b>
+      ) travel at the same speed to avoid shear in the food product
+      <b>
+       512
+      </b>
+      . Depending on the nature and positioning of the heat sources (
+      <b>
+       506
+      </b>
+      or
+      <b>
+       510
+      </b>
+      ), the food product
+      <b>
+       512
+      </b>
+      can be cooked on both sides simultaneously.
+     </p>
+     <p id="p-0061" num="0060">
+      The sheet material can be formed by applying layers directly to the dispensed fabric or by laminating film to the fabric, or by combinations thereof. For example, an expanded PTFE film can be laminated to a side of the fabric. A film formed by skiving or by casting can be applied over the expanded PTFE film and laminated to the expanded PTFE film. Alternatively, a layer can be cast or dip coated directly to the expanded PTFE film, either after applying the expanded PTFE film to the fabric or prior to applying the expanded PTFE film to the fabric.
+     </p>
+     <p id="p-0062" num="0061">
+      In particular, the method can include dispensing a reinforcement material, such as a fabric and applying an expanded PTFE film over one side of the reinforcement material. A cast PTFE film or a skived PTFE film can be laminated over the expanded PTFE film. Optionally, the process is performed on a single side of the reinforcement material. Alternatively, the process can be repeated or performed simultaneously for a second side of the reinforcement material.
+     </p>
+     <p id="p-0063" num="0062">
+      In another embodiment, the sheet material can be formed by a method that includes dispensing a fabric. In an example, the fabric is a fiberglass fabric that includes filaments that are individually size coated. The fabric can be dip coated into a dispersion including a fluoropolymer, such as a perfluoropolymer. Excess dispersion can be metered from the fabric and the fluoropolymer dispersion can be heated to drive off solvents and surfactants and to consolidate the fluoropolymer. The coating process can be performed one or more times, such as at least two times, at least three times, or even at least four times. A fluoropolymer film can be laminated to the coated fabric or a layer can be extruded or cast onto one or more surfaces of the coated fabric.
+     </p>
+     <p id="p-0064" num="0063">
+      In a particular example, the sheet material is formed through a process of coating a carrier web or a reinforcement material (e.g., the fabric) with a low surface energy, low coefficient of friction material, such as fluoropolymer. The carrier web or the reinforcement material are paid from a roll and coated on at least one side with a suspension including fluorinated polymer particles dispersed in a liquid medium. In one particular embodiment, the suspension includes a fluoropolymer aqueous dispersion to which surfactant has been added. Alternatively, the suspension can be free of surfactant.
+     </p>
+     <p id="p-0065" num="0064">
+      A blade or metering rod is positioned to remove excess suspension from the carrier web. The suspension is then dried and sintered to form a layer on the carrier web. In a particular embodiment, the coated suspension is dried at a temperature in a range of about 150° F. to about 300° F. and sintered at a temperature in a range of about 550° F. to about 720° F. Optionally, surfactants can be driven off the coating prior to sintering by heating at a temperature in a range of about 500° F. to about 600° F. The thickness of the layer can be increased by repeating the coating process. In one exemplary embodiment, the carrier web can be coated with the suspension, the suspension dried, and a second coating applied to the dried suspension before sintering.
+     </p>
+     <p id="p-0066" num="0065">
+      In exemplary embodiments, the thickness of the fluorinated polymer coating is generally about 0.2-12 mils. For example, the thickness can be about 0.2-4 mils, such as about 0.5-3 mils. The second layer can have a thickness of about 0.1 mils to about 5 mils, such as about 0.1 mils to 3 mils, or even about 0.1 mils to 1 mil.
+     </p>
+     <p id="p-0067" num="0066">
+      A second layer of fluoropolymer can be applied over the first layer. For example, the second layer can include a second fluoropolymer. Alternatively, the second layer can be applied by extruding a layer over the first layer. In another example, a second layer can be laminated to first layer, such as through heat lamination.
+     </p>
+     <p id="p-0068" num="0067">
+      A third layer of fluoropolymer can be applied over the second layer. For example, the third layer can include a third fluoropolymer. The third layer can be applied by extruding or casting over the second layer. In an example, the third layer can be extruded or cast over the second layer prior to laminating the second layer to the first layer. In another example, a third layer can be laminated to second layer, such as through heat lamination. For example, the third layer can be a skived layer that is laminated to the second layer. The third layer can be laminated to the second layer either prior to, after, or substantially at the same time as laminating the second layer to the first layer.
+     </p>
+     <p id="p-0069" num="0068">
+      In a further embodiment, a cooking film can be formed using the above described method by replacing the reinforcement layer with a carrier or an extruded film. The coated film is formed on the carrier or the extruded film. In the case of coating on a carrier, the coated film is subsequently separated from the carrier to provide a free form coated film. The free form coated film can be laminated to a reinforcement material or an extruded film. In an example, the free form coated film can be laminated to an extruded film and the combination laminated to a reinforcement material. In another example, an extruded film coated with a coated film can be laminated to the reinforcement material. In a further example, an extruded film and a free form coated film can be laminated to a reinforcement material separately. A cooking belt can be formed using the above described method followed by coupling ends of the sheet material to form a closed loop belt in which the outer surface of the belt has nucleation structures. In another embodiment, the cooking sheet can be applied as a cover on a conveyor belt or a liner of a cooking container. In an additional example, cooking surface with nucleation structures can be applied by spray coating the layer.
+     </p>
+     <p id="p-0070" num="0069">
+      In particular, the sheet material, the cooking film, or the conveyor belt is formed of materials and structures suitable for use in cooking applications, and are not formed of materials that are not accepted for at least cooking applications by the United States Food of America and Drug Administration. In an example, the conveyor belt or film can be used in commercial cooking services. For example, the conveyor belt or film can be used in meat cooking processes, such as to cook bacon, chicken, mixed meat products, or any combination thereof. In another example, a film can be placed into a vessel used to boil water. In general, the sheet material, cooking sheet, or film can be used to form a non-stick cooking surface with low splatter characteristics.
+     </p>
+     <p id="p-0071" num="0070">
+      Particular embodiments of the sheet material exhibit desirable technical advantages. For example, the sheet material exhibits a resistance to split formation and propagation. In particular, the cooking belts have an extended durability and resistance to tear. Further, the coated belts can be resistant to creasing, wicking of grease, and charring. As described below, testing has shown durability under strenuous conditions with desirable cooking performance. As such, the cooking belts provide a durable film that maintains food quality.
+     </p>
+     <heading id="h-0007" level="1">
+      EXAMPLES
+     </heading>
+     <p id="p-0072" num="0071">
+      Testing Methods
+     </p>
+     <p id="p-0073" num="0072">
+      CREASE TEST: The crease tensile strength and crease trapezoidal tear strength can be measured after creasing a sample one time with a 10 lb roller applied parallel to a fold. The tensile strength of the material after creasing with the 10 lb roller is denoted as the crease tensile strength and is measured in accordance with ASTM D902, and the trapezoidal tear strength after creasing is denoted the crease trapezoidal tear strength and is measured in accordance with ASTM D751, as modified by ASTM D4969.
+     </p>
+     <heading id="h-0008" level="1">
+      Example 1
+     </heading>
+     <p id="p-0074" num="0073">
+      Comparative Sample 1 is a Silver 12 (commercially available from Saint Gobain Corporation).
+     </p>
+     <p id="p-0075" num="0074">
+      Comparative Sample 2 is a Silver 10 (commercially available from Saint Gobain Corporation).
+     </p>
+     <p id="p-0076" num="0075">
+      Comparative Sample 3 is a Ultra 3310 (commercially available from Saint Gobain Corporation).
+     </p>
+     <p id="p-0077" num="0076">
+      Comparative Sample 4 is a FG214 (commercially available from Saint Gobain Corporation).
+     </p>
+     <p id="p-0078" num="0077">
+      Sample 1 is prepared by applying a 1-pass coating of PTFE to a 1080 glass fabric. Additionally, a 2-pass coating of PTFE is applied to a 2116 glass fabric. The glass fabrics are laminated together and an additional 2-pass coating of PTFE is applied. A 1.2 mil fluoropolymer film is laminated to one side of the glass fabrics.
+     </p>
+     <p id="p-0079" num="0078">
+      Sample 2 is prepared by applying a 1-pass coating of PTFE to a 1080 glass fabric. Additionally, a 2-pass coating of PTFE is applied to a 7628 glass fabric having a fluoropolymer sizing applied to the yarns. The glass fabrics are laminated together and an additional 2-pass coating of PTFE is applied. A 1.2 mil fluoropolymer film is laminated to one side of the glass fabrics.
+     </p>
+     <p id="p-0080" num="0079">
+      Sample 3 is prepared by applying a 1-pass coating of PTFE to a 1080 glass fabric. Additionally, a 2-pass coating of PTFE is applied to a 128 glass fabric. The glass fabrics are laminated together and an additional 2-pass coating of PTFE is applied. A 1.2 mil fluoropolymer film is laminated to one side of the glass fabrics.
+     </p>
+     <p id="p-0081" num="0080">
+      Sample 4 is prepared by applying a 2-pass coating of PTFE to a 1080 glass fabric having a fluoropolymer sizing applied to the yarns. Additionally, a 4-pass coating of PTFE is applied to a 7628 glass fabric having a fluoropolymer sizing. The glass fabrics are laminated together. A 1.2 mil fluoropolymer film is laminated to one side of the glass fabrics.
+     </p>
+     <p id="p-0082" num="0081">
+      Sample 5 is prepared by applying five passes of a PTFE coating to a 7628 glass fabric having a fluoropolymer sizing applied to the yarns. The PTFE coating is biased to one side of the glass fabric. A 1.2 mil fluoropolymer film is laminated to the thinner side of the coated glass fabric.
+     </p>
+     <p id="p-0083" num="0082">
+      Sample 6 is prepared as Sample 5, except 7 passes of the PTFE coating are applied.
+     </p>
+     <p id="p-0084" num="0083">
+      Sample 7 is prepared as Sample 5, except the fluoropolymer film has a thickness of 0.9 mil.
+     </p>
+     <p id="p-0085" num="0084">
+      Sample 8 is prepared by applying seven passes of a PTFE coating to a 128 glass fabric. The PTFE coating is biased to one side of the glass fabric. A 1.2 mil fluoropolymer film is laminated to the thinner side of the coated glass fabric.
+     </p>
+     <p id="p-0086" num="0085">
+      Sample 9 is prepared as Sample 8, except eight passes of the PTFE coating are applied.
+     </p>
+     <p id="p-0087" num="0086">
+      Samples 10 and 11 are prepared by applying seven passes of a PTFE coating to a 128 glass fabric. The PTFE coating is biased to one side of the glass fabric. A 1.2 mil cast fluoropolymer film and a 0.3 mil extruded fluoropolymer film are laminated the thinner side of the coated glass fabric.
+     </p>
+     <p id="p-0088" num="0087">
+      Sample 12 is prepared by applying seven passes of a PTFE coating to a 141 glass fabric. The PTFE coating is biased to one side of the glass fabric. A 1.2 mil fluoropolymer film is laminated to the thinner side of the coated glass fabric.
+     </p>
+     <p id="p-0089" num="0088">
+      Tables 1A and 1B illustrate the performance of the samples.
+     </p>
+     <p id="p-0090" num="0089">
+      <tables id="TABLE-US-00001" num="00001">
+       <table colsep="0" frame="none" rowsep="0">
+        <tgroup align="left" cols="1" colsep="0" rowsep="0">
+         <colspec align="center" colname="1" colwidth="217pt">
+         </colspec>
+         <thead>
+          <row>
+           <entry nameend="1" namest="1" rowsep="1">
+            TABLE 1A
+           </entry>
+          </row>
+         </thead>
+         <tbody valign="top">
+          <row>
+           <entry align="center" nameend="1" namest="1" rowsep="1">
+           </entry>
+          </row>
+          <row>
+           <entry>
+            Performance of Samples
+           </entry>
+          </row>
+         </tbody>
+        </tgroup>
+        <tgroup align="left" cols="9" colsep="0" rowsep="0">
+         <colspec align="left" colname="offset" colwidth="49pt">
+         </colspec>
+         <colspec align="center" colname="1" colwidth="21pt">
+         </colspec>
+         <colspec align="center" colname="2" colwidth="21pt">
+         </colspec>
+         <colspec align="center" colname="3" colwidth="21pt">
+         </colspec>
+         <colspec align="center" colname="4" colwidth="21pt">
+         </colspec>
+         <colspec align="center" colname="5" colwidth="21pt">
+         </colspec>
+         <colspec align="center" colname="6" colwidth="21pt">
+         </colspec>
+         <colspec align="center" colname="7" colwidth="21pt">
+         </colspec>
+         <colspec align="center" colname="8" colwidth="21pt">
+         </colspec>
+         <tbody valign="top">
+          <row>
+           <entry>
+           </entry>
+           <entry>
+            CS 1
+           </entry>
+           <entry>
+            CS 2
+           </entry>
+           <entry>
+            CS 3
+           </entry>
+           <entry>
+            CS 4
+           </entry>
+           <entry>
+            1
+           </entry>
+           <entry>
+            2
+           </entry>
+           <entry>
+            3
+           </entry>
+           <entry>
+            4
+           </entry>
+          </row>
+          <row>
+           <entry>
+           </entry>
+           <entry align="center" nameend="8" namest="offset" rowsep="1">
+           </entry>
+          </row>
+         </tbody>
+        </tgroup>
+        <tgroup align="left" cols="9" colsep="0" rowsep="0">
+         <colspec align="left" colname="1" colwidth="49pt">
+         </colspec>
+         <colspec align="char" char="." colname="2" colwidth="21pt">
+         </colspec>
+         <colspec align="char" char="." colname="3" colwidth="21pt">
+         </colspec>
+         <colspec align="char" char="." colname="4" colwidth="21pt">
+         </colspec>
+         <colspec align="char" char="." colname="5" colwidth="21pt">
+         </colspec>
+         <colspec align="char" char="." colname="6" colwidth="21pt">
+         </colspec>
+         <colspec align="char" char="." colname="7" colwidth="21pt">
+         </colspec>
+         <colspec align="char" char="." colname="8" colwidth="21pt">
+         </colspec>
+         <colspec align="char" char="." colname="9" colwidth="21pt">
+         </colspec>
+         <tbody valign="top">
+          <row>
+           <entry>
+            Thickness
+           </entry>
+           <entry>
+            11.8
+           </entry>
+           <entry>
+            9.7
+           </entry>
+           <entry>
+            14.7
+           </entry>
+           <entry>
+            14.2
+           </entry>
+           <entry>
+            8.1
+           </entry>
+           <entry>
+            11.5
+           </entry>
+           <entry>
+            12.2
+           </entry>
+           <entry>
+            11.7
+           </entry>
+          </row>
+          <row>
+           <entry>
+            (mils)
+           </entry>
+          </row>
+          <row>
+           <entry>
+            Weight (osy)
+           </entry>
+           <entry>
+            17.9
+           </entry>
+           <entry>
+            14.1
+           </entry>
+           <entry>
+            20.3
+           </entry>
+           <entry>
+            21.3
+           </entry>
+           <entry>
+            12.5
+           </entry>
+           <entry>
+            15.8
+           </entry>
+           <entry>
+            17.3
+           </entry>
+           <entry>
+            17.3
+           </entry>
+          </row>
+          <row>
+           <entry>
+            Coat Adh, lbs
+           </entry>
+           <entry>
+            6.5
+           </entry>
+           <entry>
+            —
+           </entry>
+           <entry>
+            —
+           </entry>
+           <entry>
+            11.9
+           </entry>
+           <entry>
+            7.9
+           </entry>
+           <entry>
+            7.4
+           </entry>
+           <entry>
+            8.3
+           </entry>
+           <entry>
+            4.6
+           </entry>
+          </row>
+          <row>
+           <entry>
+            Trap Tear,
+           </entry>
+           <entry>
+            15.0
+           </entry>
+           <entry>
+            17.6
+           </entry>
+           <entry>
+            27.4
+           </entry>
+           <entry>
+            17.4
+           </entry>
+           <entry>
+            13.2
+           </entry>
+           <entry>
+            46.1
+           </entry>
+           <entry>
+            31.7
+           </entry>
+           <entry>
+            25.7
+           </entry>
+          </row>
+          <row>
+           <entry>
+            lbs W
+           </entry>
+          </row>
+          <row>
+           <entry>
+            Trap Tear,
+           </entry>
+           <entry>
+            12.8
+           </entry>
+           <entry>
+            13.8
+           </entry>
+           <entry>
+            18.4
+           </entry>
+           <entry>
+            14.1
+           </entry>
+           <entry>
+            11.3
+           </entry>
+           <entry>
+            35.0
+           </entry>
+           <entry>
+            25.0
+           </entry>
+           <entry>
+            15.3
+           </entry>
+          </row>
+          <row>
+           <entry>
+            lbs F.
+           </entry>
+          </row>
+          <row>
+           <entry>
+            Tensile Str,
+           </entry>
+           <entry>
+            358
+           </entry>
+           <entry>
+            321
+           </entry>
+           <entry>
+            485
+           </entry>
+           <entry>
+            424
+           </entry>
+           <entry>
+            315
+           </entry>
+           <entry>
+            450
+           </entry>
+           <entry>
+            481
+           </entry>
+           <entry>
+            489
+           </entry>
+          </row>
+          <row>
+           <entry>
+            lbs W
+           </entry>
+          </row>
+          <row>
+           <entry>
+            Tensile Str,
+           </entry>
+           <entry>
+            247
+           </entry>
+           <entry>
+            207
+           </entry>
+           <entry>
+            329
+           </entry>
+           <entry>
+            295
+           </entry>
+           <entry>
+            259
+           </entry>
+           <entry>
+            294
+           </entry>
+           <entry>
+            338
+           </entry>
+           <entry>
+            289
+           </entry>
+          </row>
+          <row>
+           <entry>
+            lbs F.
+           </entry>
+          </row>
+          <row>
+           <entry align="center" nameend="9" namest="1" rowsep="1">
+           </entry>
+          </row>
+         </tbody>
+        </tgroup>
+       </table>
+      </tables>
+     </p>
+     <p id="p-0091" num="0090">
+      <tables id="TABLE-US-00002" num="00002">
+       <table colsep="0" frame="none" rowsep="0">
+        <tgroup align="left" cols="1" colsep="0" rowsep="0">
+         <colspec align="center" colname="1" colwidth="217pt">
+         </colspec>
+         <thead>
+          <row>
+           <entry nameend="1" namest="1" rowsep="1">
+            TABLE 1B
+           </entry>
+          </row>
+         </thead>
+         <tbody valign="top">
+          <row>
+           <entry align="center" nameend="1" namest="1" rowsep="1">
+           </entry>
+          </row>
+          <row>
+           <entry>
+            Performance of Samples
+           </entry>
+          </row>
+         </tbody>
+        </tgroup>
+        <tgroup align="left" cols="9" colsep="0" rowsep="0">
+         <colspec align="left" colname="offset" colwidth="49pt">
+         </colspec>
+         <colspec align="center" colname="1" colwidth="21pt">
+         </colspec>
+         <colspec align="center" colname="2" colwidth="21pt">
+         </colspec>
+         <colspec align="center" colname="3" colwidth="21pt">
+         </colspec>
+         <colspec align="center" colname="4" colwidth="21pt">
+         </colspec>
+         <colspec align="center" colname="5" colwidth="21pt">
+         </colspec>
+         <colspec align="center" colname="6" colwidth="21pt">
+         </colspec>
+         <colspec align="center" colname="7" colwidth="21pt">
+         </colspec>
+         <colspec align="center" colname="8" colwidth="21pt">
+         </colspec>
+         <tbody valign="top">
+          <row>
+           <entry>
+           </entry>
+           <entry>
+            5
+           </entry>
+           <entry>
+            6
+           </entry>
+           <entry>
+            7
+           </entry>
+           <entry>
+            8
+           </entry>
+           <entry>
+            9
+           </entry>
+           <entry>
+            10
+           </entry>
+           <entry>
+            11
+           </entry>
+           <entry>
+            12
+           </entry>
+          </row>
+          <row>
+           <entry>
+           </entry>
+           <entry align="center" nameend="8" namest="offset" rowsep="1">
+           </entry>
+          </row>
+         </tbody>
+        </tgroup>
+        <tgroup align="left" cols="9" colsep="0" rowsep="0">
+         <colspec align="left" colname="1" colwidth="49pt">
+         </colspec>
+         <colspec align="char" char="." colname="2" colwidth="21pt">
+         </colspec>
+         <colspec align="char" char="." colname="3" colwidth="21pt">
+         </colspec>
+         <colspec align="char" char="." colname="4" colwidth="21pt">
+         </colspec>
+         <colspec align="char" char="." colname="5" colwidth="21pt">
+         </colspec>
+         <colspec align="char" char="." colname="6" colwidth="21pt">
+         </colspec>
+         <colspec align="char" char="." colname="7" colwidth="21pt">
+         </colspec>
+         <colspec align="char" char="." colname="8" colwidth="21pt">
+         </colspec>
+         <colspec align="char" char="." colname="9" colwidth="21pt">
+         </colspec>
+         <tbody valign="top">
+          <row>
+           <entry>
+            Thickness
+           </entry>
+           <entry>
+            9.9
+           </entry>
+           <entry>
+            9.9
+           </entry>
+           <entry>
+            9.4
+           </entry>
+           <entry>
+            10.9
+           </entry>
+           <entry>
+            12.0
+           </entry>
+           <entry>
+            11.7
+           </entry>
+           <entry>
+            10.8
+           </entry>
+           <entry>
+            15.3
+           </entry>
+          </row>
+          <row>
+           <entry>
+            (mils)
+           </entry>
+          </row>
+          <row>
+           <entry>
+            Weight (osy)
+           </entry>
+           <entry>
+            14.6
+           </entry>
+           <entry>
+            14.9
+           </entry>
+           <entry>
+            13.8
+           </entry>
+           <entry>
+            16.4
+           </entry>
+           <entry>
+            18.0
+           </entry>
+           <entry>
+            17.6
+           </entry>
+           <entry>
+            15.0
+           </entry>
+           <entry>
+            21.9
+           </entry>
+          </row>
+          <row>
+           <entry>
+            Coat Adh, lbs
+           </entry>
+           <entry>
+            2.9
+           </entry>
+           <entry>
+            2.1
+           </entry>
+           <entry>
+            2.1
+           </entry>
+           <entry>
+            6.5
+           </entry>
+           <entry>
+            6.4
+           </entry>
+           <entry>
+            6.8
+           </entry>
+           <entry>
+            6.3
+           </entry>
+           <entry>
+            14.3
+           </entry>
+          </row>
+          <row>
+           <entry>
+            Trap Tear, lbs
+           </entry>
+           <entry>
+            31.5
+           </entry>
+           <entry>
+            35.4
+           </entry>
+           <entry>
+            34.2
+           </entry>
+           <entry>
+            20.5
+           </entry>
+           <entry>
+            18.4
+           </entry>
+           <entry>
+            18.7
+           </entry>
+           <entry>
+            14.9
+           </entry>
+           <entry>
+            29.0
+           </entry>
+          </row>
+          <row>
+           <entry>
+            W
+           </entry>
+          </row>
+          <row>
+           <entry>
+            Trap Tear,
+           </entry>
+           <entry>
+            24.9
+           </entry>
+           <entry>
+            28.9
+           </entry>
+           <entry>
+            24.3
+           </entry>
+           <entry>
+            15.9
+           </entry>
+           <entry>
+            15.0
+           </entry>
+           <entry>
+            17.6
+           </entry>
+           <entry>
+            10.4
+           </entry>
+           <entry>
+            19.8
+           </entry>
+          </row>
+          <row>
+           <entry>
+            lbs F.
+           </entry>
+          </row>
+          <row>
+           <entry>
+            Tensile Str,
+           </entry>
+           <entry>
+            423
+           </entry>
+           <entry>
+            420
+           </entry>
+           <entry>
+            439
+           </entry>
+           <entry>
+            382
+           </entry>
+           <entry>
+            381
+           </entry>
+           <entry>
+            391
+           </entry>
+           <entry>
+            303
+           </entry>
+           <entry>
+            529
+           </entry>
+          </row>
+          <row>
+           <entry>
+            lbs W
+           </entry>
+          </row>
+          <row>
+           <entry>
+            Tensile Str, lbs
+           </entry>
+           <entry>
+            277
+           </entry>
+           <entry>
+            273
+           </entry>
+           <entry>
+            312
+           </entry>
+           <entry>
+            257
+           </entry>
+           <entry>
+            257
+           </entry>
+           <entry>
+            249
+           </entry>
+           <entry>
+            184
+           </entry>
+           <entry>
+            308
+           </entry>
+          </row>
+          <row>
+           <entry>
+            F.
+           </entry>
+          </row>
+          <row>
+           <entry align="center" nameend="9" namest="1" rowsep="1">
+           </entry>
+          </row>
+         </tbody>
+        </tgroup>
+       </table>
+      </tables>
+     </p>
+     <p id="p-0092" num="0091">
+      Note that not all of the activities described above in the general description or the examples are required, that a portion of a specific activity may not be required, and that one or more further activities may be performed in addition to those described. Still further, the order in which activities are listed are not necessarily the order in which they are performed.
+     </p>
+     <p id="p-0093" num="0092">
+      In the foregoing specification, the concepts have been described with reference to specific embodiments. However, one of ordinary skill in the art appreciates that various modifications and changes can be made without departing from the scope of the invention as set forth in the claims below. Accordingly, the specification and figures are to be regarded in an illustrative rather than a restrictive sense, and all such modifications are intended to be included within the scope of invention.
+     </p>
+     <p id="p-0094" num="0093">
+      As used herein, the terms “comprises,” “comprising,” “includes,” “including,” “has,” “having” or any other variation thereof, are intended to cover a non-exclusive inclusion. For example, a process, method, article, or apparatus that comprises a list of features is not necessarily limited only to those features but may include other features not expressly listed or inherent to such process, method, article, or apparatus. Further, unless expressly stated to the contrary, “or” refers to an inclusive-or and not to an exclusive-or. For example, a condition A or B is satisfied by any one of the following: A is true (or present) and B is false (or not present), A is false (or not present) and B is true (or present), and both A and B are true (or present).
+     </p>
+     <p id="p-0095" num="0094">
+      Also, the use of “a” or “an” are employed to describe elements and components described herein. This is done merely for convenience and to give a general sense of the scope of the invention. This description should be read to include one or at least one and the singular also includes the plural unless it is obvious that it is meant otherwise.
+     </p>
+     <p id="p-0096" num="0095">
+      Benefits, other advantages, and solutions to problems have been described above with regard to specific embodiments. However, the benefits, advantages, solutions to problems, and any feature(s) that may cause any benefit, advantage, or solution to occur or become more pronounced are not to be construed as a critical, required, or essential feature of any or all the claims.
+     </p>
+     <p id="p-0097" num="0096">
+      After reading the specification, skilled artisans will appreciate that certain features are, for clarity, described herein in the context of separate embodiments, may also be provided in combination in a single embodiment. Conversely, various features that are, for brevity, described in the context of a single embodiment, may also be provided separately or in any subcombination. Further, references to values stated in ranges include each and every value within that range.
+     </p>
+     <?DETDESC description="Detailed Description" end="tail"?>
+    </description>
+    <us-claim-statement>
+     What is claimed is:
+    </us-claim-statement>
+    <claims id="claims">
+     <claim id="CLM-00001" num="00001">
+      <claim-text>
+       1. A grilling belt comprising:
+       <claim-text>
+        a flexible support have first and second major surfaces;
+       </claim-text>
+       <claim-text>
+        an extruded fluoropolymer layer overlying the first major surface; and
+       </claim-text>
+       <claim-text>
+        a cast or skived fluoropolymer layer overlying the extruded fluoropolymer layer, wherein the cast or skived fluoropolymer layer comprises fluoropolymer molecules that are randomly oriented.
+       </claim-text>
+      </claim-text>
+     </claim>
+     <claim id="CLM-00002" num="00002">
+      <claim-text>
+       2. The grilling belt of
+       <claim-ref idref="CLM-00001">
+        claim 1
+       </claim-ref>
+       , wherein the extruded fluoropolymer layer includes a first fluoropolymer film having a molecular alignment direction substantially parallel to the length of the grilling belt.
+      </claim-text>
+     </claim>
+     <claim id="CLM-00003" num="00003">
+      <claim-text>
+       3. The grilling belt of
+       <claim-ref idref="CLM-00001">
+        claim 1
+       </claim-ref>
+       , wherein the flexible support includes a first woven fabric.
+      </claim-text>
+     </claim>
+     <claim id="CLM-00004" num="00004">
+      <claim-text>
+       4. The grilling belt of
+       <claim-ref idref="CLM-00003">
+        claim 3
+       </claim-ref>
+       , wherein the first woven fabric has a weight in a range of about 0.7 osy to about 15 osy.
+      </claim-text>
+     </claim>
+     <claim id="CLM-00005" num="00005">
+      <claim-text>
+       5. The grilling belt of
+       <claim-ref idref="CLM-00003">
+        claim 3
+       </claim-ref>
+       , wherein the first woven fabric includes glass filaments with a fluoropolymer sizing.
+      </claim-text>
+     </claim>
+     <claim id="CLM-00006" num="00006">
+      <claim-text>
+       6. The grilling belt of
+       <claim-ref idref="CLM-00003">
+        claim 3
+       </claim-ref>
+       , wherein the flexible support includes a second woven fabric attached to the first woven fabric.
+      </claim-text>
+     </claim>
+     <claim id="CLM-00007" num="00007">
+      <claim-text>
+       7. The grilling belt of
+       <claim-ref idref="CLM-00006">
+        claim 6
+       </claim-ref>
+       , wherein the first fabric has a first bias angle and the second fabric has a second bias angle, and the difference between the first and second bias angles is between 20° and 160°.
+      </claim-text>
+     </claim>
+     <claim id="CLM-00008" num="00008">
+      <claim-text>
+       8. The grilling belt of
+       <claim-ref idref="CLM-00001">
+        claim 1
+       </claim-ref>
+       , further comprising a second extruded fluoropolymer layer overlying the second major surface of the flexible support.
+      </claim-text>
+     </claim>
+     <claim id="CLM-00009" num="00009">
+      <claim-text>
+       9. The grilling belt of
+       <claim-ref idref="CLM-00001">
+        claim 1
+       </claim-ref>
+       , wherein the fluoropolymer is polytetrafluoroethylene (PTFE), hexafluoropropylene (HFP), fluorinated ethylene propylene (FEP), perfluoroalkyl vinyl ether (PFA), or a combination thereof.
+      </claim-text>
+     </claim>
+     <claim id="CLM-00010" num="00010">
+      <claim-text>
+       10. The grilling belt of
+       <claim-ref idref="CLM-00001">
+        claim 1
+       </claim-ref>
+       , wherein the grilling belt has a tensile strength in the warp direction of at least about 300 PLI.
+      </claim-text>
+     </claim>
+     <claim id="CLM-00011" num="00011">
+      <claim-text>
+       11. The grilling belt of
+       <claim-ref idref="CLM-00001">
+        claim 1
+       </claim-ref>
+       , wherein the grilling belt has a tensile strength in the fill direction of at least about 250 PLI.
+      </claim-text>
+     </claim>
+     <claim id="CLM-00012" num="00012">
+      <claim-text>
+       12. A grilling belt comprising:
+       <claim-text>
+        a support having first and second major surfaces, the support comprising:
+        <claim-text>
+         a first fabric having a first bias angle formed between warp and fill yarns of the first fabric,
+        </claim-text>
+        <claim-text>
+         a second fabric laminated to the first fabric and having a second bias angle formed between warp and fill yarns of the second fabric, wherein the first and second fabrics form the first and second major surface of the support, the first bias angle is a right side bias, the second bias angle is a left side bias, and the second bias angle is different from the first bias angle by between 20° and 160°, and
+        </claim-text>
+        <claim-text>
+         a third fabric disposed between the first and second fabric and having warp and fill yarns that are substantially perpendicular to each other; and
+        </claim-text>
+       </claim-text>
+       <claim-text>
+        a first fluoropolymer film overlying the first major surface.
+       </claim-text>
+      </claim-text>
+     </claim>
+     <claim id="CLM-00013" num="00013">
+      <claim-text>
+       13. The grilling belt of
+       <claim-ref idref="CLM-00012">
+        claim 12
+       </claim-ref>
+       , wherein the first woven fabric includes glass fibers with a fluoropolymer sizing.
+      </claim-text>
+     </claim>
+     <claim id="CLM-00014" num="00014">
+      <claim-text>
+       14. The grilling belt of
+       <claim-ref idref="CLM-00012">
+        claim 12
+       </claim-ref>
+       , wherein the fluoropolymer of the first fluoropolymer layer is polytetrafluoroethylene (PTFE), hexafluoropropylene (HFP), fluorinated ethylene propylene (FEP), perfluoroalkyl vinyl ether (PFA), or a combination thereof.
+      </claim-text>
+     </claim>
+     <claim id="CLM-00015" num="00015">
+      <claim-text>
+       15. The grilling belt of
+       <claim-ref idref="CLM-00012">
+        claim 12
+       </claim-ref>
+       , wherein the grilling belt has a tensile strength in the warp direction of at least about 300 PLI.
+      </claim-text>
+     </claim>
+     <claim id="CLM-00016" num="00016">
+      <claim-text>
+       16. The grilling belt of
+       <claim-ref idref="CLM-00012">
+        claim 12
+       </claim-ref>
+       , wherein the grilling belt has a tensile strength in the fill direction of at least about 250 PLI.
+      </claim-text>
+     </claim>
+     <claim id="CLM-00017" num="00017">
+      <claim-text>
+       17. The grilling belt of
+       <claim-ref idref="CLM-00012">
+        claim 12
+       </claim-ref>
+       , wherein the grilling belt has a trap tear strength in the warp direction of at least about 40 lbs.
+      </claim-text>
+     </claim>
+     <claim id="CLM-00018" num="00018">
+      <claim-text>
+       18. The grilling belt of
+       <claim-ref idref="CLM-00012">
+        claim 12
+       </claim-ref>
+       , wherein the grilling belt has a trap tear strength in the fill direction of at least about 25 lbs.
+      </claim-text>
+     </claim>
+     <claim id="CLM-00019" num="00019">
+      <claim-text>
+       19. A grilling system comprising:
+       <claim-text>
+        first and second rollers;
+       </claim-text>
+       <claim-text>
+        a heat source; and
+       </claim-text>
+       <claim-text>
+        a grilling belt looped around the first and second rollers, the grilling belt having first and second ends joined together, the grilling belt including:
+        <claim-text>
+         a flexible support have first and second major surfaces;
+        </claim-text>
+        <claim-text>
+         an extruded fluoropolymer layer overlying the first major surface; and
+        </claim-text>
+        <claim-text>
+         a cast fluoropolymer layer overlying the extruded fluoropolymer layer, wherein the cast or skived fluoropolymer layer comprises fluoropolymer molecules that are randomly oriented.
+        </claim-text>
+       </claim-text>
+      </claim-text>
+     </claim>
+     <claim id="CLM-00020" num="00020">
+      <claim-text>
+       20. The grilling belt of
+       <claim-ref idref="CLM-00001">
+        claim 1
+       </claim-ref>
+       , wherein the extruded fluoropolymer layer is in direct contact with the flexible support.
+      </claim-text>
+     </claim>
+    </claims>
+   </us-patent-grant>
+  </p>
+ </body>
+</html>

@@ -1,0 +1,3090 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v45-2014-04-03.dtd">
+<html>
+ <body>
+  <p>
+   ]&gt;
+   <us-patent-grant country="US" date-produced="20141219" date-publ="20150106" dtd-version="v4.5 2014-04-03" file="USRE045317-20150106.XML" id="us-patent-grant" lang="EN" status="PRODUCTION">
+    <us-bibliographic-data-grant>
+     <publication-reference>
+      <document-id>
+       <country>
+        US
+       </country>
+       <doc-number>
+        RE045317
+       </doc-number>
+       <kind>
+        E1
+       </kind>
+       <date>
+        20150106
+       </date>
+      </document-id>
+     </publication-reference>
+     <application-reference appl-type="reissue">
+      <document-id>
+       <country>
+        US
+       </country>
+       <doc-number>
+        13855617
+       </doc-number>
+       <date>
+        20130402
+       </date>
+      </document-id>
+     </application-reference>
+     <us-application-series-code>
+      13
+     </us-application-series-code>
+     <classifications-ipcr>
+      <classification-ipcr>
+       <ipc-version-indicator>
+        <date>
+         20060101
+        </date>
+       </ipc-version-indicator>
+       <classification-level>
+        A
+       </classification-level>
+       <section>
+        B
+       </section>
+       <class>
+        01
+       </class>
+       <subclass>
+        J
+       </subclass>
+       <main-group>
+        7
+       </main-group>
+       <subgroup>
+        00
+       </subgroup>
+       <symbol-position>
+        F
+       </symbol-position>
+       <classification-value>
+        I
+       </classification-value>
+       <action-date>
+        <date>
+         20150106
+        </date>
+       </action-date>
+       <generating-office>
+        <country>
+         US
+        </country>
+       </generating-office>
+       <classification-status>
+        B
+       </classification-status>
+       <classification-data-source>
+        H
+       </classification-data-source>
+      </classification-ipcr>
+      <classification-ipcr>
+       <ipc-version-indicator>
+        <date>
+         20060101
+        </date>
+       </ipc-version-indicator>
+       <classification-level>
+        A
+       </classification-level>
+       <section>
+        C
+       </section>
+       <class>
+        01
+       </class>
+       <subclass>
+        B
+       </subclass>
+       <main-group>
+        3
+       </main-group>
+       <subgroup>
+        36
+       </subgroup>
+       <symbol-position>
+        L
+       </symbol-position>
+       <classification-value>
+        I
+       </classification-value>
+       <action-date>
+        <date>
+         20150106
+        </date>
+       </action-date>
+       <generating-office>
+        <country>
+         US
+        </country>
+       </generating-office>
+       <classification-status>
+        B
+       </classification-status>
+       <classification-data-source>
+        H
+       </classification-data-source>
+      </classification-ipcr>
+      <classification-ipcr>
+       <ipc-version-indicator>
+        <date>
+         20060101
+        </date>
+       </ipc-version-indicator>
+       <classification-level>
+        A
+       </classification-level>
+       <section>
+        C
+       </section>
+       <class>
+        01
+       </class>
+       <subclass>
+        B
+       </subclass>
+       <main-group>
+        6
+       </main-group>
+       <subgroup>
+        24
+       </subgroup>
+       <symbol-position>
+        L
+       </symbol-position>
+       <classification-value>
+        I
+       </classification-value>
+       <action-date>
+        <date>
+         20150106
+        </date>
+       </action-date>
+       <generating-office>
+        <country>
+         US
+        </country>
+       </generating-office>
+       <classification-status>
+        B
+       </classification-status>
+       <classification-data-source>
+        H
+       </classification-data-source>
+      </classification-ipcr>
+     </classifications-ipcr>
+     <classification-national>
+      <country>
+       US
+      </country>
+      <main-classification>
+       48197R
+      </main-classification>
+      <further-classification>
+       48 61
+      </further-classification>
+      <further-classification>
+       48210
+      </further-classification>
+      <further-classification>
+       423644
+      </further-classification>
+     </classification-national>
+     <invention-title id="d2e43">
+      Rapid solar-thermal conversion of biomass to syngas
+     </invention-title>
+     <us-references-cited>
+      <us-citation>
+       <patcit num="00001">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          3855339
+         </doc-number>
+         <kind>
+          A
+         </kind>
+         <name>
+          Hosoi et al.
+         </name>
+         <date>
+          19741200
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         208130
+        </main-classification>
+       </classification-national>
+      </us-citation>
+      <us-citation>
+       <patcit num="00002">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          4177120
+         </doc-number>
+         <kind>
+          A
+         </kind>
+         <name>
+          Zenty
+         </name>
+         <date>
+          19791200
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by applicant
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         20415747
+        </main-classification>
+       </classification-national>
+      </us-citation>
+      <us-citation>
+       <patcit num="00003">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          4229184
+         </doc-number>
+         <kind>
+          A
+         </kind>
+         <name>
+          Gregg
+         </name>
+         <date>
+          19801000
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by applicant
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         48 62 R
+        </main-classification>
+       </classification-national>
+      </us-citation>
+      <us-citation>
+       <patcit num="00004">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          4290779
+         </doc-number>
+         <kind>
+          A
+         </kind>
+         <name>
+          Frosch et al.
+         </name>
+         <date>
+          19810900
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         422186
+        </main-classification>
+       </classification-national>
+      </us-citation>
+      <us-citation>
+       <patcit num="00005">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          4415339
+         </doc-number>
+         <kind>
+          A
+         </kind>
+         <name>
+          Aiman et al.
+         </name>
+         <date>
+          19831100
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by applicant
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         48 62 R
+        </main-classification>
+       </classification-national>
+      </us-citation>
+      <us-citation>
+       <patcit num="00006">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          4455153
+         </doc-number>
+         <kind>
+          A
+         </kind>
+         <name>
+          Jakahi
+         </name>
+         <date>
+          19840600
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by applicant
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         48 62 R
+        </main-classification>
+       </classification-national>
+      </us-citation>
+      <us-citation>
+       <patcit num="00007">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          4497637
+         </doc-number>
+         <kind>
+          A
+         </kind>
+         <name>
+          Purdy et al.
+         </name>
+         <date>
+          19850200
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by applicant
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         48111
+        </main-classification>
+       </classification-national>
+      </us-citation>
+      <us-citation>
+       <patcit num="00008">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          4531949
+         </doc-number>
+         <kind>
+          A
+         </kind>
+         <name>
+          Koyama et al.
+         </name>
+         <date>
+          19850700
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         48202
+        </main-classification>
+       </classification-national>
+      </us-citation>
+      <us-citation>
+       <patcit num="00009">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          5647877
+         </doc-number>
+         <kind>
+          A
+         </kind>
+         <name>
+          Epstein
+         </name>
+         <date>
+          19970700
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by applicant
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         48210
+        </main-classification>
+       </classification-national>
+      </us-citation>
+      <us-citation>
+       <patcit num="00010">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          6033447
+         </doc-number>
+         <kind>
+          A
+         </kind>
+         <name>
+          Moock et al.
+         </name>
+         <date>
+          20000300
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         48197 R
+        </main-classification>
+       </classification-national>
+      </us-citation>
+      <us-citation>
+       <patcit num="00011">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          6298651
+         </doc-number>
+         <kind>
+          B1
+         </kind>
+         <name>
+          Iijima
+         </name>
+         <date>
+          20011000
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         60780
+        </main-classification>
+       </classification-national>
+      </us-citation>
+      <us-citation>
+       <patcit num="00012">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          6633042
+         </doc-number>
+         <kind>
+          B1
+         </kind>
+         <name>
+          Funken et al.
+         </name>
+         <date>
+          20031000
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by applicant
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         250435
+        </main-classification>
+       </classification-national>
+      </us-citation>
+      <us-citation>
+       <patcit num="00013">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          6872378
+         </doc-number>
+         <kind>
+          B2
+         </kind>
+         <name>
+          Weimer et al.
+         </name>
+         <date>
+          20050300
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by applicant
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         423650
+        </main-classification>
+       </classification-national>
+      </us-citation>
+      <us-citation>
+       <patcit num="00014">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          7033570
+         </doc-number>
+         <kind>
+          B2
+         </kind>
+         <name>
+          Weimer et al.
+         </name>
+         <date>
+          20060400
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by applicant
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         423650
+        </main-classification>
+       </classification-national>
+      </us-citation>
+      <us-citation>
+       <patcit num="00015">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          2003/0182861
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <name>
+          Weimer et al.
+         </name>
+         <date>
+          20031000
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         48197 R
+        </main-classification>
+       </classification-national>
+      </us-citation>
+      <us-citation>
+       <patcit num="00016">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          2006/0013765
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <name>
+          Litwin et al.
+         </name>
+         <date>
+          20060100
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by applicant
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         423652
+        </main-classification>
+       </classification-national>
+      </us-citation>
+      <us-citation>
+       <patcit num="00017">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          2006/0188433
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <name>
+          Weimer et al.
+         </name>
+         <date>
+          20060800
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by applicant
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         423622
+        </main-classification>
+       </classification-national>
+      </us-citation>
+      <us-citation>
+       <patcit num="00018">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          2006/0211777
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <name>
+          Severinsky
+         </name>
+         <date>
+          20060900
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by applicant
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         518702
+        </main-classification>
+       </classification-national>
+      </us-citation>
+      <us-citation>
+       <patcit num="00019">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          2009/0313886
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <name>
+          Hinman et al.
+         </name>
+         <date>
+          20091200
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         44302
+        </main-classification>
+       </classification-national>
+      </us-citation>
+      <us-citation>
+       <patcit num="00020">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          2010/0000874
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <name>
+          Hinman et al.
+         </name>
+         <date>
+          20100100
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         205340
+        </main-classification>
+       </classification-national>
+      </us-citation>
+      <us-citation>
+       <patcit num="00021">
+        <document-id>
+         <country>
+          EP
+         </country>
+         <doc-number>
+          548889
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <date>
+          19930600
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+      </us-citation>
+      <us-citation>
+       <patcit num="00022">
+        <document-id>
+         <country>
+          EP
+         </country>
+         <doc-number>
+          0 548 889
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <date>
+          19930900
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by applicant
+       </category>
+      </us-citation>
+      <us-citation>
+       <patcit num="00023">
+        <document-id>
+         <country>
+          GB
+         </country>
+         <doc-number>
+          2 073 869
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <date>
+          19811000
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by applicant
+       </category>
+      </us-citation>
+      <us-citation>
+       <patcit num="00024">
+        <document-id>
+         <country>
+          GB
+         </country>
+         <doc-number>
+          2073869
+         </doc-number>
+         <kind>
+          A
+         </kind>
+         <date>
+          19811000
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+      </us-citation>
+      <us-citation>
+       <patcit num="00025">
+        <document-id>
+         <country>
+          GB
+         </country>
+         <doc-number>
+          2414243
+         </doc-number>
+         <kind>
+          A
+         </kind>
+         <date>
+          20051100
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by applicant
+       </category>
+      </us-citation>
+      <us-citation>
+       <patcit num="00026">
+        <document-id>
+         <country>
+          WO
+         </country>
+         <doc-number>
+          WO 0209876
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <date>
+          20020200
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+      </us-citation>
+      <us-citation>
+       <patcit num="00027">
+        <document-id>
+         <country>
+          WO
+         </country>
+         <doc-number>
+          WO 0222497
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <date>
+          20020300
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+      </us-citation>
+      <us-citation>
+       <patcit num="00028">
+        <document-id>
+         <country>
+          WO
+         </country>
+         <doc-number>
+          WO 2005087986
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <date>
+          20050900
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+      </us-citation>
+      <us-citation>
+       <patcit num="00029">
+        <document-id>
+         <country>
+          WO
+         </country>
+         <doc-number>
+          WO 2005-103329
+         </doc-number>
+         <kind>
+          A3
+         </kind>
+         <date>
+          20051100
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by applicant
+       </category>
+      </us-citation>
+      <us-citation>
+       <patcit num="00030">
+        <document-id>
+         <country>
+          WO
+         </country>
+         <doc-number>
+          WO 2005/113859
+         </doc-number>
+         <kind>
+          A3
+         </kind>
+         <date>
+          20051200
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by applicant
+       </category>
+      </us-citation>
+      <us-citation>
+       <patcit num="00031">
+        <document-id>
+         <country>
+          WO
+         </country>
+         <doc-number>
+          WO 2005103329
+         </doc-number>
+         <kind>
+          A3
+         </kind>
+         <date>
+          20060800
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+      </us-citation>
+      <us-citation>
+       <patcit num="00032">
+        <document-id>
+         <country>
+          WO
+         </country>
+         <doc-number>
+          WO 2005113859
+         </doc-number>
+         <kind>
+          A3
+         </kind>
+         <date>
+          20070400
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+      </us-citation>
+      <us-citation>
+       <patcit num="00033">
+        <document-id>
+         <country>
+          WO
+         </country>
+         <doc-number>
+          WO 2007/066087
+         </doc-number>
+         <kind>
+          A3
+         </kind>
+         <date>
+          20070600
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by applicant
+       </category>
+      </us-citation>
+      <us-citation>
+       <patcit num="00034">
+        <document-id>
+         <country>
+          WO
+         </country>
+         <doc-number>
+          WO 2007066087
+         </doc-number>
+         <kind>
+          A3
+         </kind>
+         <date>
+          20080100
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+      </us-citation>
+      <us-citation>
+       <patcit num="00035">
+        <document-id>
+         <country>
+          WO
+         </country>
+         <doc-number>
+          WO 2008027980
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <date>
+          20080300
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+      </us-citation>
+      <us-citation>
+       <nplcit num="00036">
+        <othercit>
+         Hebecker, D., P. Bittrich, and K. Riedl, Hierarchically structured exergetic and exergoeconomic analysis and evaluation of energhy converson processes. Energy Conversion and Management, 2005. 46:p. 1247-1266.
+        </othercit>
+       </nplcit>
+       <category>
+        cited by examiner
+       </category>
+      </us-citation>
+      <us-citation>
+       <nplcit num="00037">
+        <othercit>
+         Steinfeld, A., S. Sanders, and R. Palumbo, Design aspects of solar thermochemical engineering—A case study: Two step water-splitting cycle using the Fe3O4/FeO redox system. Solar Energy, 1999 65(1): p. 43-53.
+        </othercit>
+       </nplcit>
+       <category>
+        cited by examiner
+       </category>
+      </us-citation>
+      <us-citation>
+       <nplcit num="00038">
+        <othercit>
+         Perkins, C., P. Lichty, and A.Weimer, Thermal ZnO dissociation in a rapid aerosol reactor as part of a solar hydrogen production cycle. International Journal of Hydrogen Energy, 2008. 33(2): p. 499-510.
+        </othercit>
+       </nplcit>
+       <category>
+        cited by examiner
+       </category>
+      </us-citation>
+      <us-citation>
+       <nplcit num="00039">
+        <othercit>
+         Perkins, C., P. Lichty, and A.W. Weimer, Determination of aerosol kinetics of thermal ZnO dissociation by thermogravimetry, Chemical Engineering Science, 2007. 62(21): p. 5952-5962.
+        </othercit>
+       </nplcit>
+       <category>
+        cited by examiner
+       </category>
+      </us-citation>
+      <us-citation>
+       <nplcit num="00040">
+        <othercit>
+         Dahl, J., et al. Solar thermal dissociation of methane in a fluid-wall aerosol flow reactor. International Journal of Hydrogen Energy, 2004. 29(7): p. 725-736.
+        </othercit>
+       </nplcit>
+       <category>
+        cited by examiner
+       </category>
+      </us-citation>
+      <us-citation>
+       <nplcit num="00041">
+        <othercit>
+         Dahl, J.K. et al., Intrisic kinetics for rapid decomposition of methane in an aerosol flow reactor. International Journal of Hydrogen Energy, 2002. 27(4): p. 377-386.
+        </othercit>
+       </nplcit>
+       <category>
+        cited by examiner
+       </category>
+      </us-citation>
+      <us-citation>
+       <nplcit num="00042">
+        <othercit>
+         Dahl, J.K. et al., Rapid solar-thermal dissociation of natural gas in an aerosol flow reactor. Energy, 2004. 29(5-6): p. 715-725.
+        </othercit>
+       </nplcit>
+       <category>
+        cited by examiner
+       </category>
+      </us-citation>
+      <us-citation>
+       <nplcit num="00043">
+        <othercit>
+         Dahl, J.K. et al., Solar-thermal processing of methane to produce hydrogen and syngas. Energy &amp; Fuels, 2001. 15(5): p. 1227-1232.
+        </othercit>
+       </nplcit>
+       <category>
+        cited by examiner
+       </category>
+      </us-citation>
+      <us-citation>
+       <nplcit num="00044">
+        <othercit>
+         Dahl, J.K., A.W. Weimer, and W.B. Krantz, Sensitivity analysis of the rapid decomposition of methane in an aerosol flow reactor. International Journal of Hydrogen Energy, 2004. 29(1): p. 57-65.
+        </othercit>
+       </nplcit>
+       <category>
+        cited by examiner
+       </category>
+      </us-citation>
+      <us-citation>
+       <nplcit num="00045">
+        <othercit>
+         Dahl, J.K. Et al., Dry reforming of methane using a solar-thermal aerosol flow reactor. Industrial &amp; Engineering Chemistry Research, 2004. 43(18): p. 5489-5495.
+        </othercit>
+       </nplcit>
+       <category>
+        cited by examiner
+       </category>
+      </us-citation>
+      <us-citation>
+       <nplcit num="00046">
+        <othercit>
+         Cross Reference to related Applications Under 37 C.F.R. § 1.78.
+        </othercit>
+       </nplcit>
+       <category>
+        cited by examiner
+       </category>
+      </us-citation>
+      <us-citation>
+       <nplcit num="00047">
+        <othercit>
+         U.S. Appl. No. 12/145,383, filed Jun. 24, 2008, Hinman et al.
+        </othercit>
+       </nplcit>
+       <category>
+        cited by applicant
+       </category>
+      </us-citation>
+      <us-citation>
+       <nplcit num="00048">
+        <othercit>
+         U.S. Appl. No. 12/237,999, filed Sep. 25, 2008, Hinman et al.
+        </othercit>
+       </nplcit>
+       <category>
+        cited by applicant
+       </category>
+      </us-citation>
+      <us-citation>
+       <nplcit num="00049">
+        <othercit>
+         Steinfeld, A., et al.,
+         <i>
+          Solar Thermal Production of Zinc and Syngas Via Combined Zno-Reduction and Ch4-Reforming Process
+         </i>
+         . International Journal of Hydrogen Energy, 1995. 20(10): p. 793-804.
+        </othercit>
+       </nplcit>
+       <category>
+        cited by applicant
+       </category>
+      </us-citation>
+      <us-citation>
+       <nplcit num="00050">
+        <othercit>
+         Steinfeld, A., et al.,
+         <i>
+          Solar-processed metals as clean energy carriers and water-splitters
+         </i>
+         . International Journal of Hydrogen Energy, 1998. 23(9): p. 767-774.
+        </othercit>
+       </nplcit>
+       <category>
+        cited by applicant
+       </category>
+      </us-citation>
+      <us-citation>
+       <nplcit num="00051">
+        <othercit>
+         International Preliminary Report on Patentability and Written Opinion, Application No. PCT/US07/77134, Mailed Jan. 16, 2008. 7 pages.
+        </othercit>
+       </nplcit>
+       <category>
+        cited by applicant
+       </category>
+      </us-citation>
+      <us-citation>
+       <nplcit num="00052">
+        <othercit>
+         Weimer et al., “Modeling of Char Particle Size/Conversion Distributions in a Fluidized Bed Gasifier: Non-Isothermal Effects,” Powder Technology, 1980, pp. 85-103, vol. 27, Elsevier Sequoia S.A., Lausanne, Netherlands.
+        </othercit>
+       </nplcit>
+       <category>
+        cited by applicant
+       </category>
+      </us-citation>
+      <us-citation>
+       <nplcit num="00053">
+        <othercit>
+         Milne et al., “Biomass Gasifier “Tars”: Their Nature, Formation, and Conversion,” National Renewable Energy Laboratory, Nov. 1998, TP-570-25357.
+        </othercit>
+       </nplcit>
+       <category>
+        cited by applicant
+       </category>
+      </us-citation>
+      <us-citation>
+       <nplcit num="00054">
+        <othercit>
+         Lichty et al., “Rapid High Temperature Solar Thermal Biomass Gasification in a Prototype Cavity Reactor,” Journal of Solar Energy Engineering, Feb. 2010, pp. 011012-1 to 011012-7, vol. 132, ASME, published online.
+        </othercit>
+       </nplcit>
+       <category>
+        cited by applicant
+       </category>
+      </us-citation>
+      <us-citation>
+       <nplcit num="00055">
+        <othercit>
+         Antal, M.J., et al. “Design and Operation of a Solar Fired Biomass Pyrolysis Reactor,” Solar Energy, vol. 30, No. 4, 1983, pp. 299-312.
+        </othercit>
+       </nplcit>
+       <category>
+        cited by applicant
+       </category>
+      </us-citation>
+      <us-citation>
+       <nplcit num="00056">
+        <othercit>
+         Australia Government (IP Australia) issued an Office Action dated Sep. 30, 2010 for related Australian Patent Application No. 2007/289219, entitled “Rapid Solar-Thermal Conversion of Biomass to Syngas,” 3 pages.
+        </othercit>
+       </nplcit>
+       <category>
+        cited by applicant
+       </category>
+      </us-citation>
+      <us-citation>
+       <nplcit num="00057">
+        <othercit>
+         Extended European Search Report, the supplementary European Search and European Search Opinion for European Application No. 07814538.0, dated May 20, 2011, 8 pages.
+        </othercit>
+       </nplcit>
+       <category>
+        cited by applicant
+       </category>
+      </us-citation>
+     </us-references-cited>
+     <number-of-claims>
+      15
+     </number-of-claims>
+     <us-exemplary-claim>
+      1
+     </us-exemplary-claim>
+     <us-field-of-classification-search>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        48 61
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        48197 R
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        48210
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        423644
+       </main-classification>
+      </classification-national>
+     </us-field-of-classification-search>
+     <figures>
+      <number-of-drawing-sheets>
+       14
+      </number-of-drawing-sheets>
+      <number-of-figures>
+       15
+      </number-of-figures>
+     </figures>
+     <us-related-documents>
+      <reissue>
+       <relation>
+        <parent-doc>
+         <document-id>
+          <country>
+           US
+          </country>
+          <doc-number>
+           11847097
+          </doc-number>
+          <date>
+           20070829
+          </date>
+         </document-id>
+         <parent-status>
+          GRANTED
+         </parent-status>
+         <parent-grant-document>
+          <document-id>
+           <country>
+            US
+           </country>
+           <doc-number>
+            8287610
+           </doc-number>
+           <date>
+            20121016
+           </date>
+          </document-id>
+         </parent-grant-document>
+        </parent-doc>
+        <child-doc>
+         <document-id>
+          <country>
+           US
+          </country>
+          <doc-number>
+           13855617
+          </doc-number>
+         </document-id>
+        </child-doc>
+       </relation>
+      </reissue>
+      <us-provisional-application>
+       <document-id>
+        <country>
+         US
+        </country>
+        <doc-number>
+         60823872
+        </doc-number>
+        <date>
+         20060829
+        </date>
+       </document-id>
+      </us-provisional-application>
+     </us-related-documents>
+     <us-parties>
+      <us-applicants>
+       <us-applicant app-type="applicant" applicant-authority-category="assignee" designation="us-only" sequence="001">
+        <addressbook>
+         <orgname>
+          The Regents of the University of Colorado
+         </orgname>
+         <address>
+          <city>
+           Denver
+          </city>
+          <state>
+           CO
+          </state>
+          <country>
+           US
+          </country>
+         </address>
+        </addressbook>
+        <residence>
+         <country>
+          US
+         </country>
+        </residence>
+       </us-applicant>
+      </us-applicants>
+      <inventors>
+       <inventor designation="us-only" sequence="001">
+        <addressbook>
+         <last-name>
+          Weimer
+         </last-name>
+         <first-name>
+          Alan W.
+         </first-name>
+         <address>
+          <city>
+           Niwot
+          </city>
+          <state>
+           CO
+          </state>
+          <country>
+           US
+          </country>
+         </address>
+        </addressbook>
+       </inventor>
+       <inventor designation="us-only" sequence="002">
+        <addressbook>
+         <last-name>
+          Perkins
+         </last-name>
+         <first-name>
+          Christopher
+         </first-name>
+         <address>
+          <city>
+           Boulder
+          </city>
+          <state>
+           CO
+          </state>
+          <country>
+           US
+          </country>
+         </address>
+        </addressbook>
+       </inventor>
+       <inventor designation="us-only" sequence="003">
+        <addressbook>
+         <last-name>
+          Mejic
+         </last-name>
+         <first-name>
+          Dragan
+         </first-name>
+         <address>
+          <city>
+           Brighton
+          </city>
+          <state>
+           CO
+          </state>
+          <country>
+           US
+          </country>
+         </address>
+        </addressbook>
+       </inventor>
+       <inventor designation="us-only" sequence="004">
+        <addressbook>
+         <last-name>
+          Lichty
+         </last-name>
+         <first-name>
+          Paul
+         </first-name>
+         <address>
+          <city>
+           Boulder
+          </city>
+          <state>
+           CO
+          </state>
+          <country>
+           US
+          </country>
+         </address>
+        </addressbook>
+       </inventor>
+      </inventors>
+      <agents>
+       <agent rep-type="attorney" sequence="01">
+        <addressbook>
+         <orgname>
+          Snell &amp; Wilmer L.L.P.
+         </orgname>
+         <address>
+          <country>
+           unknown
+          </country>
+         </address>
+        </addressbook>
+       </agent>
+      </agents>
+     </us-parties>
+     <assignees>
+      <assignee>
+       <addressbook>
+        <orgname>
+         The Regents of the University of Colorado
+        </orgname>
+        <role>
+         02
+        </role>
+        <address>
+         <city>
+          Denver
+         </city>
+         <state>
+          CO
+         </state>
+         <country>
+          US
+         </country>
+        </address>
+       </addressbook>
+      </assignee>
+     </assignees>
+     <examiners>
+      <primary-examiner>
+       <last-name>
+        Merkling
+       </last-name>
+       <first-name>
+        Matthew
+       </first-name>
+       <department>
+        1725
+       </department>
+      </primary-examiner>
+     </examiners>
+    </us-bibliographic-data-grant>
+    <abstract id="abstract">
+     <p id="p-0001" num="0000">
+      Methods for carrying out high temperature reactions such as biomass pyrolysis or gasification using solar energy. The biomass particles are rapidly heated in a solar thermal entrainment reactor. The residence time of the particles in the reactor can be 5 seconds or less. The biomass particles may be directly or indirectly heated depending on the reactor design. Metal oxide particles can be fed into the reactor concurrently with the biomass particles, allowing carbothermic reduction of the metal oxide particles by biomass pyrolysis products. The reduced metal oxide particles can be reacted with steam to produce hydrogen in a subsequent process step.
+     </p>
+    </abstract>
+    <drawings id="DRAWINGS">
+     <figure id="Fig-EMI-D00000" num="00000">
+      <img alt="embedded image" file="USRE045317-20150106-D00000.TIF" he="161.37mm" id="EMI-D00000" img-content="drawing" img-format="tif" wi="134.79mm"/>
+     </figure>
+     <figure id="Fig-EMI-D00001" num="00001">
+      <img alt="embedded image" file="USRE045317-20150106-D00001.TIF" he="138.01mm" id="EMI-D00001" img-content="drawing" img-format="tif" orientation="landscape" wi="167.89mm"/>
+     </figure>
+     <figure id="Fig-EMI-D00002" num="00002">
+      <img alt="embedded image" file="USRE045317-20150106-D00002.TIF" he="230.29mm" id="EMI-D00002" img-content="drawing" img-format="tif" orientation="landscape" wi="181.53mm"/>
+     </figure>
+     <figure id="Fig-EMI-D00003" num="00003">
+      <img alt="embedded image" file="USRE045317-20150106-D00003.TIF" he="162.90mm" id="EMI-D00003" img-content="drawing" img-format="tif" wi="169.93mm"/>
+     </figure>
+     <figure id="Fig-EMI-D00004" num="00004">
+      <img alt="embedded image" file="USRE045317-20150106-D00004.TIF" he="128.44mm" id="EMI-D00004" img-content="drawing" img-format="tif" orientation="landscape" wi="158.75mm"/>
+     </figure>
+     <figure id="Fig-EMI-D00005" num="00005">
+      <img alt="embedded image" file="USRE045317-20150106-D00005.TIF" he="172.89mm" id="EMI-D00005" img-content="drawing" img-format="tif" wi="174.84mm"/>
+     </figure>
+     <figure id="Fig-EMI-D00006" num="00006">
+      <img alt="embedded image" file="USRE045317-20150106-D00006.TIF" he="165.95mm" id="EMI-D00006" img-content="drawing" img-format="tif" wi="182.54mm"/>
+     </figure>
+     <figure id="Fig-EMI-D00007" num="00007">
+      <img alt="embedded image" file="USRE045317-20150106-D00007.TIF" he="175.18mm" id="EMI-D00007" img-content="drawing" img-format="tif" wi="179.83mm"/>
+     </figure>
+     <figure id="Fig-EMI-D00008" num="00008">
+      <img alt="embedded image" file="USRE045317-20150106-D00008.TIF" he="137.08mm" id="EMI-D00008" img-content="drawing" img-format="tif" orientation="landscape" wi="175.85mm"/>
+     </figure>
+     <figure id="Fig-EMI-D00009" num="00009">
+      <img alt="embedded image" file="USRE045317-20150106-D00009.TIF" he="199.39mm" id="EMI-D00009" img-content="drawing" img-format="tif" orientation="landscape" wi="178.82mm"/>
+     </figure>
+     <figure id="Fig-EMI-D00010" num="00010">
+      <img alt="embedded image" file="USRE045317-20150106-D00010.TIF" he="178.56mm" id="EMI-D00010" img-content="drawing" img-format="tif" orientation="landscape" wi="171.20mm"/>
+     </figure>
+     <figure id="Fig-EMI-D00011" num="00011">
+      <img alt="embedded image" file="USRE045317-20150106-D00011.TIF" he="233.26mm" id="EMI-D00011" img-content="drawing" img-format="tif" orientation="landscape" wi="186.52mm"/>
+     </figure>
+     <figure id="Fig-EMI-D00012" num="00012">
+      <img alt="embedded image" file="USRE045317-20150106-D00012.TIF" he="224.96mm" id="EMI-D00012" img-content="drawing" img-format="tif" orientation="landscape" wi="178.82mm"/>
+     </figure>
+     <figure id="Fig-EMI-D00013" num="00013">
+      <img alt="embedded image" file="USRE045317-20150106-D00013.TIF" he="166.54mm" id="EMI-D00013" img-content="drawing" img-format="tif" wi="167.56mm"/>
+     </figure>
+     <figure id="Fig-EMI-D00014" num="00014">
+      <img alt="embedded image" file="USRE045317-20150106-D00014.TIF" he="163.24mm" id="EMI-D00014" img-content="drawing" img-format="tif" wi="179.83mm"/>
+     </figure>
+    </drawings>
+    <description id="description">
+     <?RELAPP description="Other Patent Relations" end="lead"?>
+     <heading id="h-0001" level="1">
+      CROSS-REFERENCE TO RELATED APPLICATIONS
+     </heading>
+     <p id="p-0002" num="0001">
+      This application claims the benefit of U.S. Provisional Application 60/823,872, filed Aug. 29, 2006, which is hereby incorporated by reference to the extent not inconsistent with the disclosure herein.
+     </p>
+     <?RELAPP description="Other Patent Relations" end="tail"?>
+     <?GOVINT description="Government Interest" end="lead"?>
+     <heading id="h-0002" level="1">
+      STATEMENT REGARDING FEDERALLY SPONSORED RESEARCH OR DEVELOPMENT
+     </heading>
+     <p id="p-0003" num="0002">
+      The invention was made with Government support from the National Science Foundation Graduate Research Fellowship program. The United States government may have certain rights in the invention.
+     </p>
+     <?GOVINT description="Government Interest" end="tail"?>
+     <?BRFSUM description="Brief Summary" end="lead"?>
+     <heading id="h-0003" level="1">
+      BACKGROUND OF THE INVENTION
+     </heading>
+     <p id="p-0004" num="0003">
+      This invention is in the field of solar biomass gasification and pyrolysis
+     </p>
+     <p id="p-0005" num="0004">
+      As processes, biomass gasification and pyrolysis have been known for a long time. Several different types of reactors have been used to gasify and/or pyrolize biomass including fixed bed reactors, fluidized bed reactors, and entrained flow reactors. A variety of sources of heat for biomass gasification and pyrolysis processes have been used, including fossil fuels (Ni, et al, Fuel Processing Technology, 2006, pp. 461-472) and combustion of biomass or biomass reaction products such as pyrolysis oil (e.g. U.S. Pat. No. 4,497,637 to Purdy et al).
+     </p>
+     <p id="p-0006" num="0005">
+      Solar gasification of carbonaceous particles has also been reported in the patent literature. U.S. Pat. No. 5,647,877 to Epstein reports solar energy gasification of solid carbonaceous material in a liquid dispersion. An aqueous dispersion of carbonaceous material is introduced into the reactor so as to form water droplets enclosing particulates of the carbonaceous material. The solid carbonaceous material is heated by solar energy and transfers heat to a surrounding liquid. Hydrogen is produced in the process by the decomposition/gasification of the hydrocarbon (coal) particles. A variety of carbonaceous materials are mentioned as possible feedstocks including coal and various biomasses.
+     </p>
+     <p id="p-0007" num="0006">
+      U.S. Pat. No. 4,290,779 to Frosch et al. reports a solar heated fluidized bed gasification system for gasifying carbonaceous material. Solar radiation is introduced into a refractory honeycomb shell which surrounds the fluidized bed reactor. Both coal and organic biomass materials are mentioned as possible powdered carbonaceous feedstocks.
+     </p>
+     <p id="p-0008" num="0007">
+      U.S. Pat. No. 4,229,184 to Gregg reports an apparatus for using focused solar radiation to gasify coal and other carbonaceous materials. The solar radiation is directed down through a window onto the surface of a vertically moving bed of the carbonaceous material.
+     </p>
+     <p id="p-0009" num="0008">
+      It has been shown that solar thermal reactors can achieve temperatures up to 2500 K (2227° C.). Temperatures even higher than this are achievable, but in those regimes materials and reradiation loss issues become major concerns. Solar thermal systems have been applied to the dissociation of methane (Dahl, et al., International Journal of Hydrogen Energy, 29, 2004) or ZnO (Perkins, et al., International Journal of Hydrogen Energy, 29, 2004; Steinfeld, Solar Energy, 78, 2005). Carbon has been used as reducing agents for ZnO (Müller, R, P Haeberling, and R Palumbo, “Further advances toward the development of a direct heating solar thermal chemical reactor for the thermal dissociation of ZnO(s),” Solar Energy, 80, 2005, pp. 500-511).
+     </p>
+     <heading id="h-0004" level="1">
+      BRIEF SUMMARY OF THE INVENTION
+     </heading>
+     <p id="p-0010" num="0009">
+      The invention provides processes that perform biomass gasification or pyrolysis for production of hydrogen, synthesis gas, liquid fuels, or other hydrocarbon based chemicals. The methods of the invention use solar thermal energy as the energy source for the biomass pyrolysis or gasification. This allows operation at temperatures above 950° C., speeding up reaction kinetics and shifting thermodynamics to various reaction end products, thus, bypassing the formation of tars and other liquids that have a tendency to cause plugging or increased pressure drop in gas/solid filtration devices downstream of the reactor and which are undesired side products. The increase in reaction rate, the use of a renewable energy resource, the avoidance of tars, and the wider range of available thermodynamic regimes give great advantage to one who would utilize solar thermal energy. Usage of solar thermal energy can reduce the overall amount of biomass required to produce the product chemicals, allows for a greater range of product control, does not rely on fossil fuel usage, and takes advantage of a freely available resource (solar energy).
+     </p>
+     <p id="p-0011" num="0010">
+      In the methods of the invention, an entrainment flow solar-thermal reactor is used to carry out the high temperature thermal dissociation reactions, thereby permitting rapid-heating of the biomass particles and short residence times of the particles in the reactor. Rapid heating is of great advantage for this solar chemistry. Rapidly heating to high temperature (&gt;950° C.) prevents the biomass particles from spending significant portions of time in temperature regimes (200° C.-800° C.) where formation of liquid side products and tars is favorable. The selectivity of the reactor toward desired products is thus increased. Likewise, rapid heating allows the particles to spend the most time possible in the temperature regimes where reaction rates are fastest (950° C. to 1400° C.). A rapid reaction allows the thermal energy imparted to the particles to be converted to chemical energy more quickly, reducing the portion of incident energy lost to re-radiation or conduction and increasing reactor efficiency. Additionally, a more rapid reaction leads to shorter effective residence times and higher reactor throughput; essentially, the production rates of fuels can be increased while leaving the area of solar concentrators constant. In different embodiments, the residence time is less than or equal to 5 seconds or less than or equal to 3 seconds. In an embodiment, the heating rate of the particles is greater than 100° C./s; preferably, this heating rate is greater than 1000° C./s.
+     </p>
+     <p id="p-0012" num="0011">
+      The present invention also provides a method for carrying out a closed thermochemical/photosynthetic cycle for splitting water to produce hydrogen. A biomass feedstock such as algae can be grown in a controlled atmosphere greenhouse environment with algae receiving direct sunlight and being fed water and carbon dioxide and releasing oxygen to the environment via photosynthesis. The algae can be cultivated and fed as a biomass reactant to the reactor described herein. The algae can be pyrolyzed by high temperature solar thermal heating as described herein. The resulting “syngas” of carbon monoxide and hydrogen can be fed to a conventional “water-gas shift reactor” where water is fed and hydrogen and carbon dioxide are produced via a controlled catalytic process (CO+H
+      <sub>
+       2
+      </sub>
+      O→H
+      <sub>
+       2
+      </sub>
+      +CO
+      <sub>
+       2
+      </sub>
+      ). The exiting gas is primarily H
+      <sub>
+       2
+      </sub>
+      and CO
+      <sub>
+       2
+      </sub>
+      which can be separated by conventional membrane or pressure swing adsorption processing. The H
+      <sub>
+       2
+      </sub>
+      can be used as a reactant or a fuel while the CO
+      <sub>
+       2
+      </sub>
+      is fed to the algae in the greenhouse. Water is effectively split to H
+      <sub>
+       2
+      </sub>
+      and O
+      <sub>
+       2
+      </sub>
+      via a combined solar thermochemical/photosynthetic process in two separate steps.
+     </p>
+     <p id="p-0013" num="0012">
+      The present invention also provides processes which involve reduction of metal oxide particles with biomass pyrolysis products in a solar-thermal reactor. The invention also provides “renewable” hydrogen producing processes in which the hydrogen produced from reaction of the reduced metal oxide products with water is combined with hydrogen produced by reaction of gaseous products of the solar thermal reactor in a water-gas shift reactor, both processes being as described in Example 6 and elsewhere in this application. The invention also provides processes in which hydrogen produced by the methods of the invention are combined with conventional fossil feeds. For example, hydrogen can be combined with coal to produce methane as described in Example 7. Such a process represents a transitional bridge to a truly hydrogen economy.
+     </p>
+     <?BRFSUM description="Brief Summary" end="tail"?>
+     <?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+     <description-of-drawings>
+      <heading id="h-0005" level="1">
+       BRIEF DESCRIPTION OF THE DRAWINGS
+      </heading>
+      <p id="p-0014" num="0013">
+       <figref idref="DRAWINGS">
+        FIG. 1
+       </figref>
+       is a schematic horizontal cross-section of a solar reactor having a single nonporous inner reaction shell and an outer protection shell, viewed from the top of the reactor.
+      </p>
+      <p id="p-0015" num="0014">
+       <figref idref="DRAWINGS">
+        FIGS. 2A and 2B
+       </figref>
+       are schematic horizontal cross-sections of solar reactors having multiple nonporous inner reaction shells within an outer protection shell, viewed from the top of the reactor.
+      </p>
+      <p id="p-0016" num="0015">
+       <figref idref="DRAWINGS">
+        FIG. 3
+       </figref>
+       illustrates the monomer unit of the cellulose particles used in the Examples.
+      </p>
+      <p id="p-0017" num="0016">
+       <figref idref="DRAWINGS">
+        FIG. 4
+       </figref>
+       is schematic vertical cross-section of an electrically heated reactor system used in Examples 1-3, and 5.
+      </p>
+      <p id="p-0018" num="0017">
+       <figref idref="DRAWINGS">
+        FIG. 5
+       </figref>
+       is a mass spectrometer trace from cellulose gasification as performed in Example 1.
+      </p>
+      <p id="p-0019" num="0018">
+       <figref idref="DRAWINGS">
+        FIG. 6
+       </figref>
+       illustrates the monomer unit of the lignin particles used in the Examples.
+      </p>
+      <p id="p-0020" num="0019">
+       <figref idref="DRAWINGS">
+        FIG. 7
+       </figref>
+       is a mass spectrometer trace from lignin gasification as performed in Example 2.
+      </p>
+      <p id="p-0021" num="0020">
+       <figref idref="DRAWINGS">
+        FIG. 8
+       </figref>
+       is a schematic of the solar heated reactor system used in Example 4. In this reactor system, an alumina reaction tube is contained within a quartz sheath.
+      </p>
+      <p id="p-0022" num="0021">
+       <figref idref="DRAWINGS">
+        FIG. 9
+       </figref>
+       is a mass spectrometer trace from solar cellulose gasification as performed in Example 4.
+      </p>
+      <p id="p-0023" num="0022">
+       <figref idref="DRAWINGS">
+        FIG. 10
+       </figref>
+       is a mass spectrometer trace from gasification of grass clippings as performed in Example 5.
+      </p>
+      <p id="p-0024" num="0023">
+       <figref idref="DRAWINGS">
+        FIG. 11
+       </figref>
+       is a schematic of a solar process for producing hydrogen. In this process, biomass pyrolysis occurs concurrently with carbothermic reduction of metal oxide particles in a solar thermal reactor. Hydrogen is obtained from the gaseous products of the reactor and from reaction of the reduced metal oxide with steam.
+      </p>
+      <p id="p-0025" num="0024">
+       <figref idref="DRAWINGS">
+        FIG. 12
+       </figref>
+       is a schematic of a process for producing methane in which hydrogen produced via the process of
+       <figref idref="DRAWINGS">
+        FIG. 11
+       </figref>
+       is fed into a coal hydrogenator.
+      </p>
+      <p id="p-0026" num="0025">
+       <figref idref="DRAWINGS">
+        FIG. 13
+       </figref>
+       is a mass spectrometer trace for TGA Fe
+       <sub>
+        3
+       </sub>
+       O
+       <sub>
+        4
+       </sub>
+       reduction.
+      </p>
+      <p id="p-0027" num="0026">
+       <figref idref="DRAWINGS">
+        FIG. 14
+       </figref>
+       is a mass spectrometer trace for TGA steam oxidation of FeO.
+      </p>
+     </description-of-drawings>
+     <?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+     <?DETDESC description="Detailed Description" end="lead"?>
+     <heading id="h-0006" level="1">
+      DETAILED DESCRIPTION OF THE INVENTION
+     </heading>
+     <p id="p-0028" num="0027">
+      In the processes of the invention, a solid or liquid biomass feed is pyrolyzed or gasified in a solar thermal reactor system at elevated temperatures. In different embodiments of the pyrolyzation processes of the invention, no significant source of oxygen or water is supplied during the process. An oxidizing agent is conventionally present in gasification processes. In the gasification processes of the invention, water (generally in the form of steam) is supplied and contacted with the biomass particles.
+     </p>
+     <p id="p-0029" num="0028">
+      In an embodiment, the biomass feed is in the form of solid particles. The biomass feed particles or droplets are entrained in a gas as they move through the reactor. In an embodiment, metal oxide particles are fed into the reactor concurrently with biomass particles. In another embodiment particles of a fossil fuel such as coal are fed into the reactor concurrently with biomass particles. In an embodiment, no additional catalyst is added to the biomass feed.
+     </p>
+     <p id="p-0030" num="0029">
+      The necessary endothermic heat of reaction and sensible heat is supplied by a solar-thermal energy system. The biomass particles or droplets may be directly heated by solar radiation, in which case the reactor is configured to transmit solar radiation to the particles. In another embodiment, the biomass particles or droplets are indirectly heated. As used herein, “indirect” heating means that the heating is by radiation from a heated wall that is itself heated indirectly or directly by solar radiation.
+     </p>
+     <p id="p-0031" num="0030">
+      In an embodiment, the pyrolysis and gasification processes of the invention produce hydrogen and carbon monoxide (synthesis gas or syngas). Other products such as carbon dioxide, carbon, methane and higher molecular weight hydrocarbons may also be produced in the process. In different embodiments, the conversion of the non-ash components of the biomass is greater 30%, greater than or equal to 40%, greater than 50%, greater than or equal to 60%, greater than or equal to 70%, greater than or equal to 75% greater than 80%, greater than 90% or greater than 95%. This extent of conversion may be achieved in a single pass. In different embodiments, the conversion of carbon to carbon monoxide is greater than 30%, greater than 40%, greater than 50%, greater than 60%, greater than 70%, greater than 80%, greater than 90% or greater than 95%. In different embodiments, the molar ratio of carbon dioxide to carbon monoxide is less than 25% or less than 10%. In different embodiments, the molar ratio of hydrogen (H
+      <sub>
+       2
+      </sub>
+      ) to carbon monoxide is 1:1, greater than 1:1 and less than 2:1; less than 2:1; greater than 2:1 and less than 3:1; or greater than 3:1. The ratio of hydrogen to carbon monoxide may be adjusted by adjusting the amount of water added to the feed.
+     </p>
+     <p id="p-0032" num="0031">
+      The products of the biomass pyrolyzation or gasification process can be combined in a Fischer-Tropsch reactor to produce liquid hydrocarbon products, or can be reacted further with water in a Water-Gas Shift reaction to maximize hydrogen yield. Such a process makes use of renewable, biologically derived feedstocks and is, in a worst case, carbon and greenhouse gas neutral.
+     </p>
+     <p id="p-0033" num="0032">
+      As stated above, the invention provides a chemical process in which carbon containing biomass feedstocks (for example, but not limited to, cellulose, hemi-cellulose, lignin, xylose, other plant sugars, algae, agricultural, industrial, brewery, or forestry residues) are either pyrolized or combined with water at high temperature (&gt;950° C.). In different embodiments, the biomass feedstock may be a tall prairie grass, such as switch-grass and/or miscanthus, algae, pressed algal residue from a biodiesal processing facility, spent grain from a brewery, wood chips, or sawdust. In an embodiment, feedstocks for use with the invention do not include mixtures of coal and biomass. In another embodiment particles of a fossil fuel such as coal are fed into the reactor concurrently with biomass particles. In one aspect of the invention, the biomass feedstock is selected to have an ash content less than about 15%, less than about 10% or less than about 5%.
+     </p>
+     <p id="p-0034" num="0033">
+      In different embodiments, the maximum particle size of the biomass feedstock is less than 10 mm, less than 5 mm, less than 1 mm, less than 500 microns, less than 200 microns, less than 100 microns, less than 50 microns, or less than 20 microns. In an embodiment, the minimum “average” size of the biomass feedstock is 10 microns, as identified by the volume average equivalent spherical particle diameter or as the volume average of the longest particle dimension (if the particles are long and flat, like blades of grass). There may be smaller particles in the system (e.g. submicron), but on a mass basis these particles will be a very small fraction (in an embodiment &lt;5 vol %) of the total.
+     </p>
+     <p id="p-0035" num="0034">
+      The reactor product composition can be thermodynamically and kinetically controlled by reactor temperature, pressure, residence time, water concentration, feedstock concentration, and inert gas concentration, in addition to reactor design, solar energy concentration, and other factors not mentioned here. In different embodiments, the temperature in the hot zone of the reactor is between 750° C. and 1500° C., between 950° C. and 1400° C., or between 1100° C. and 1350° C., where the temperature is the average temperature of the particles in the reaction hot zone. The necessary energy to attain such temperatures and achieve the reaction is, in all cases, derived from a system which converts solar radiation into thermal energy (“solar-thermal”).
+     </p>
+     <p id="p-0036" num="0035">
+      In an embodiment, the reactor operates at atmospheric pressure. In another embodiment, the reactor can be run at pressures above atmospheric pressure, but this will drive the thermodynamics toward the liquid products and the reactants. In this embodiment, the compressors can be removed from the downstream side of the reactor and replaced with water pumps.
+     </p>
+     <p id="p-0037" num="0036">
+      During the biomass gasification processes of the invention, the water concentration provides at least a one to one molar ratio of steam to biomass feed. In an embodiment, the water concentration may be increased slightly to compensate for a relatively high carbon to oxygen atomic ratio in the feedstock.
+     </p>
+     <p id="p-0038" num="0037">
+      In an embodiment, the invention provides a method for at least partially converting biomass particles to hydrogen and carbon monoxide, the method comprising the steps of:
+     </p>
+     <p id="p-0039" num="0038">
+      a) providing a solar-thermal reactor comprising an outer protection shell and an inner reaction shell having an inlet and an outlet, the outer protection shell being at least partially transparent or having an opening to the atmosphere for transmission of solar energy,
+     </p>
+     <p id="p-0040" num="0039">
+      b) flowing a gas stream comprising entrained biomass particles from the inlet to the outlet of the reaction shell; and
+     </p>
+     <p id="p-0041" num="0040">
+      c) heating the biomass particles in the reactor at least in part with a source of concentrated sunlight through solar thermal heating to a temperature at which the biomass particles react to form products comprising hydrogen and carbon monoxide.
+     </p>
+     <p id="p-0042" num="0041">
+      The invention also provides methods for at least partially converting the biomass particles to other products in addition to hydrogen and carbon monoxide. These other products include, but are not limited to, carbon and carbon dioxide. In an embodiment, the biomass particles are at least partially converted to carbon, hydrogen, carbon monoxide, and carbon dioxide. In another embodiment, the biomass particles are at least partially converted to hydrogen, carbon monoxide, and carbon dioxide. In other embodiment the reaction products can include higher molecular weight hydrocarbons (e.g. CH
+      <sub>
+       4
+      </sub>
+      , C
+      <sub>
+       2
+      </sub>
+      H
+      <sub>
+       6
+      </sub>
+      , C
+      <sub>
+       2
+      </sub>
+      H
+      <sub>
+       4
+      </sub>
+      , C
+      <sub>
+       2
+      </sub>
+      H
+      <sub>
+       2
+      </sub>
+      , C
+      <sub>
+       3
+      </sub>
+      s, C
+      <sub>
+       4
+      </sub>
+      s, etc), or hydrocarbons with oxygen bearing functional groups (e.g. alcohols, aldehydes).
+     </p>
+     <p id="p-0043" num="0042">
+      <figref idref="DRAWINGS">
+       FIG. 1
+      </figref>
+      is a schematic top view of a horizontal cross-section of a solar reactor having an outer “protection shell” and a nonporous inner “reaction” shell. The solar reactor shown in
+      <figref idref="DRAWINGS">
+       FIG. 1
+      </figref>
+      is operated generally as follows. Concentrated solar-thermal radiation (
+      <b>
+       91
+      </b>
+      ) passes through an opening in the outer “protection” shell (
+      <b>
+       7
+      </b>
+      ) and directly heats the inner “reaction” shell (
+      <b>
+       3
+      </b>
+      ). In
+      <figref idref="DRAWINGS">
+       FIG. 1
+      </figref>
+      , the outer shell (
+      <b>
+       7
+      </b>
+      ) is shown as having an opening (
+      <b>
+       8
+      </b>
+      ) to the atmosphere, but in an alternative embodiment the outer shell contains a window which transmits solar radiation. In an embodiment, the inner surface of the outer shell may reflect solar radiation (in particular radiation in the visible range) and infrared radiation. In another embodiment, the inner surface is capable of absorbing and re-emitting radiation. The entrainment gas and the feedstock flow through the bore of the reaction shell.
+     </p>
+     <p id="p-0044" num="0043">
+      In an embodiment, the inner “reaction” shell is at least partially transparent to solar radiation, in which case the biomass particles are directly heated by the solar-thermal radiation. In an embodiment, the inner shell is at least partially transparent to solar radiation in the wavelength range 200 nm to 20 microns. When heated, the biomass particles undergo the desired reaction(s).
+     </p>
+     <p id="p-0045" num="0044">
+      In another embodiment, the inner “reaction” shell is non-porous and does not transmit solar radiation. In an embodiment, the inner shell does not transmit solar radiation in the wavelength range 200 nm to 20 microns. In this case, the nonporous reaction shell is directly heated to temperatures above the reaction temperature and re-radiates from its inner wall to heat the biomass particles and entraining gas stream flowing through it. The biomass particles are thus indirectly heated. When heated, the biomass particles undergo the desired reaction(s).
+     </p>
+     <p id="p-0046" num="0045">
+      The reactor may also have a plurality of non-concentric reaction shells substantially enclosed by the outer shell, as illustrated in
+      <figref idref="DRAWINGS">
+       FIGS. 2a and 2b
+      </figref>
+      .
+      <figref idref="DRAWINGS">
+       FIGS. 2a and 2b
+      </figref>
+      are also schematic top views of horizontal cross-sections of the reactor.
+      <figref idref="DRAWINGS">
+       FIG. 2a
+      </figref>
+      illustrates a configuration in which the inner tubes (
+      <b>
+       3
+      </b>
+      ) are arranged along an arc within the outer tube (
+      <b>
+       7
+      </b>
+      ).
+      <figref idref="DRAWINGS">
+       FIG. 2b
+      </figref>
+      illustrates an embodiment in which the inner tubes (
+      <b>
+       3
+      </b>
+      ) are arranged in a staggered configuration within the outer tube (
+      <b>
+       7
+      </b>
+      ). The tube arrangement is not limited to these two spatial configurations, as explained in more detail below. The specific arrangement can be selected to maximize efficiency. In one embodiment, the tubes are arranged in a staggered pattern. In another embodiment, the centers of the tubes are aligned along a semicircle. In an embodiment, the number of inner reaction shells is from 3 to 10.
+     </p>
+     <p id="p-0047" num="0046">
+      A non-oxidizing and non-dissociating “purge” gas may be flowed in a second plenum substantially located between the outer shell and the inner shells to protect the inner shells from oxidation, depending on the material(s) of the inner shells. In this case, the protection shell does not have an opening to the atmosphere. The purge gas may be argon, helium, neon, nitrogen, or any other chemically inert gas.
+     </p>
+     <p id="p-0048" num="0047">
+      In another embodiment, the reaction shell is at least partially porous, to allow a “fluid wall” to be formed at the inner surface of the reaction shell. A “fluid wall” gas is flowed radically inward into the reaction shell through the porous section of the shell, thus providing a blanket of gas. The “fluid wall” can prevent deposition of particles on the inside wall and protect the inside wall from the reaction products. As used herein, a “porous” shell region permits gas flow through the walls of the region while a “nonporous” shell region does not. In one embodiment, a gas stream of “fluid-wall” gas flows in the annular region between the outer “protection” shell and the inner “reaction” shell. The “fluid-wall” gas enters the plenum between the inner and outer shell through an inlet and exits the plenum through an outlet. The porous section of the inner shell forms one outlet of the plenum. An additional outlet for the plenum may be used, so long as sufficient gas flow is provided through the porous section of the inner shell.
+     </p>
+     <p id="p-0049" num="0048">
+      In another embodiment, an additional nonporous inner shell which substantially encloses the porous reaction shell can be provided. The “fluid wall” gas is supplied to the porous section of the reaction shell by flowing it through the annular space between the two inner shells; this annular space forms a plenum. The “fluid-wall” gas enters the plenum through an inlet and exits the plenum through an outlet. One outlet of the first plenum is the porous section of the inner shell. As used herein, “substantially encloses” means that one shell is enclosed by another for most of the length of the shell. The ends of a shell that is substantially enclosed by another may extend past the ends of the other shell (e.g. the ends of the first inner shell may extend past the ends of the second inner shell and/or the outer shell). In an embodiment, the solar thermal reactor is a solar-thermal fluid-wall reactor as described in United States Patent Application Publication US 2003/0182861 to Weimer et al., which is hereby incorporated by reference to the extent not inconsistent with the disclosure herein. United States Patent Application Publication 20030208959 and U.S. Pat. No. 6,872,378 to Weimer et al. are also hereby incorporated by reference.
+     </p>
+     <p id="p-0050" num="0049">
+      A reactor having two concentric inner shells (a first innermost “reaction” shell and a second inner “heating shell”) is operated generally as follows. Concentrated solar-thermal radiation passes through the outer “protection” shell and directly heats the second inner “heating” shell. The nonporous heating shell re-radiates from its inner wall and heats the first inner “reaction” shell. Hence, the inner “reaction” shell is heated indirectly by concentrated sunlight from the surrounding “heating” shell. The inner “reaction” shell re-radiates from the inner wall and heats the biomass particles and gas stream flowing through it.
+     </p>
+     <p id="p-0051" num="0050">
+      In another embodiment, the invention provides a method for reduction of metal oxide particles comprising the steps of:
+     </p>
+     <ul id="ul0001" list-style="none">
+      <li id="ul0001-0001" num="0000">
+       <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0051">
+         a) providing a solar-thermal reactor comprising an outer protection shell and an inner reaction shell having an inlet and an outlet, the outer protection shell being either at least partially transparent or having an opening to the atmosphere for transmission of solar energy;
+        </li>
+        <li id="ul0002-0002" num="0052">
+         b) flowing a gas stream comprising entrained biomass and metal oxide particles from the inlet to the outlet of the reaction shell, wherein the biomass and gas stream do not comprise substantial amounts of water;
+        </li>
+        <li id="ul0002-0003" num="0053">
+         c) heating the biomass and metal oxide particles in the reactor at least in part with a source of concentrated sunlight through solar thermal heating to a temperature at which the biomass particles pyrolyze to form reaction products comprising hydrogen, carbon, and carbon monoxide and the metal oxide particles react with at least one of the biomass pyrolysis reaction products to form a reduced metal oxide product which is a metal, a metal oxide of a lower valence state, or a combination thereof.
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </description>
+   </us-patent-grant>
+  </p>
+  <p id="p-0052" num="0054">
+   In an embodiment, of the metal oxide reduction process, concentrated solar-thermal radiation passes through the outer “protection” shell and directly heats the inner “reaction” shell. The inner “reaction” shell conducts heat and re-radiates from the inner wall and heats the biomass and metal oxide particles and gas stream flowing through it. Other reactor designs described elsewhere in this application can also be used. When heated, the biomass particles undergo a pyrolysis reaction. Products of the pyrolysis reaction include hydrogen, carbon monoxide, carbon dioxide, and carbon. At elevated temperatures, metal oxide particles can react with hydrogen, carbon monoxide or carbon to form a reduced metal oxide product. Depending on the reactor temperature, the metal oxide particles may react with more than one of the biomass pyrolysis reaction products. For example, at temperatures above about 1475 K, both C and CO are expected to reduce Zone. The primary products exiting the solar thermal reactor are the reduced metal oxide product, H
+   <sub>
+    2
+   </sub>
+   , CO and CO
+   <sub>
+    2
+   </sub>
+   . Depending on the temperature distribution within the reactor, the reduced metal oxide product may be present in the reactor in gaseous, liquid, or solid forms, or in combinations thereof. If the reduced metal oxide product is present in gaseous form, a cooling device may be connected to the outlet of the reactor to nucleate reduced metal oxide particles (the reduced metal oxide particles can be metal particles) of the desired size. Cooling devices compatible with solar thermal reactors as described in United States Patent Application No. US 2006-0188433 to Weimer et al., hereby incorporated by reference to the extent not inconsistent with the disclosure herein.
+  </p>
+  <p id="p-0053" num="0055">
+   Metal oxides suitable for use with the invention are compounds consisting essentially of one or more metals and oxygen, the compounds being solid at room temperature. In an embodiment, the impurity level is less than or equal to 1%. In an embodiment, the metal oxide is ZnO. In another embodiment, the metal oxide is SnO
+   <sub>
+    2
+   </sub>
+   . Metal oxides suitable for use with the invention include mixed metal oxides which include more than one metal, such as mixed metal ferrites. As used herein, mixed metal ferrites are compounds of iron oxide with oxides of other transition metals. For example, included would be iron oxides with Ni (II), Co (II), or Man (II) inclusions, such as MnFe
+   <sub>
+    x
+   </sub>
+   O
+   <sub>
+    4
+   </sub>
+   , NiFe
+   <sub>
+    x
+   </sub>
+   O
+   <sub>
+    4
+   </sub>
+   , Ni
+   <sub>
+    0.5
+   </sub>
+   Mn
+   <sub>
+    0.5
+   </sub>
+   Fe
+   <sub>
+    2
+   </sub>
+   O
+   <sub>
+    4
+   </sub>
+   and Co
+   <sub>
+    0.5
+   </sub>
+   Mn
+   <sub>
+    0.5
+   </sub>
+   Fe
+   <sub>
+    2
+   </sub>
+   O
+   <sub>
+    4
+   </sub>
+   . High temperature dissociation of such oxides can produce an activated, oxygen deficient form, such as Ni
+   <sub>
+    0.5
+   </sub>
+   Mn
+   <sub>
+    0.5
+   </sub>
+   Fe
+   <sub>
+    2
+   </sub>
+   O
+   <sub>
+    (4−delta)
+   </sub>
+   . This activated form could be combined with water at relatively low temperatures to yield hydrogen and the original mixed metal oxide. Ferrites useful in the present invention have decomposition temperatures substantially below that of iron oxide. In different embodiments, the particle size of the metal oxide is below 150 microns, or below 100 microns;
+  </p>
+  <p id="p-0054" num="0056">
+   The reduced metal oxide product is selected from the group consisting of a metal, a metal oxide and combinations thereof. These combinations can include combinations of metal oxides. For example, Fe
+   <sub>
+    2
+   </sub>
+   O
+   <sub>
+    3
+   </sub>
+   may reduce partially to Fe
+   <sub>
+    3
+   </sub>
+   O
+   <sub>
+    4
+   </sub>
+   , partially to FeO, and partially to Fe.
+  </p>
+  <p id="p-0055" num="0057">
+   In different embodiments, the conversion of the metal oxide to a reduced metal or to a lower oxidation state metal oxide is at least 50%, at least 75%, or at least 90%.
+  </p>
+  <p id="p-0056" num="0058">
+   The present invention also provides processes for the production of hydrogen from the reaction of reduced metal oxide products with water. One step in the processes is the reduction of metal oxide particles with biomass pyrolysis products in a high temperature solar thermal reactor as described above. The products of the metal oxide reduction reaction can then be used to react with water in a succeeding step, generating hydrogen and the original metal oxide. Reaction and separation steps following the metal oxide reduction step may be performed “off-sun”, allowing continuous production of hydrogen from stored reduced metal oxide product. The “off-sun” step is typically exothermic and can be driven by energy generated by the reaction itself, allowing the entire process to be run on only solar energy.
+  </p>
+  <p id="p-0057" num="0059">
+   As used herein, “shells” encompass tubes, pipes or chambers which are elongated along a longitudinal axis. The shells may be circular in cross-section (i.e. the shells are cylindrical tubes) or may have other shapes in cross-section, including, but not limited to ellipses, rectangles or squares. As shown in
+   <figref idref="DRAWINGS">
+    FIG. 1
+   </figref>
+   , the outer shell of the reactor may essentially form a cavity which is largely non-transparent to solar radiation but contains an opening or transparent window to admit solar radiation into the interior. In an embodiment, reflection or absorption and re-radiation occurs at the inner surface of the outer shell. In an embodiment, the inner surface of the outer shell may reflect solar and/or infrared radiation. In an embodiment, the inner surface of the outer shell reflects both solar and infrared radiation. In an embodiment, the inner wall of the outer protection shell is reflective or absorbing or re-emitting with respect to radiation in the wavelength range 200 nm to 20 micrometers. General designs for these types of cavities are known to those skilled in the art. In an embodiment, the inner wall of the outer protection shell comprises a reflective coating such as a gold, silver, or aluminum coating. The reflective coating can reflect incident solar energy and infrared (IR) radiation emitted from the inner shells. The reflective coating may be protected from oxidation by coating it with a thin layer of silica.
+  </p>
+  <p id="p-0058" num="0060">
+   In an embodiment, the outer shell may be made of a plurality of layers in close proximity to one another. For example, the outer shell may have three layers. A three-layer outer shell may have an outer layer made of a metal (e.g. steel or an aluminum alloy), a middle layer made of a thermally insulating material (e.g. a refractory material such as alumina), and an inner layer which may be either absorbing or reflective. An absorbing inner layer may be made of a material having relatively low thermal conductivity and capable of withstanding high temperatures (e.g. zirconia, hafnia, alumina). In an embodiment, the absorbing inner layer is constructed of ytrria-stabilized zirconia (YSZ) which heats upon contact with solar energy and re-radiates to the reactor tubes. A reflecting inner layer may be made of a metal such as steel and coated with a gold or silver film; in such case a cooling mechanism may be provided in the middle layer to prevent melting of the reflective material. A reflecting inner layer may also be made of polished aluminum. In an embodiment, the outer shell contains a transparent window. Such a window may be a rectangular vertical quartz window (with the long axis of the rectangle aligned perpendicular to the longitudinal axis of the reactor).
+  </p>
+  <p id="p-0059" num="0061">
+   In an embodiment, the outer shell effectively comprises two layers, an outer layer and an inner reflecting or absorbing layer. In an embodiment, the outer layer is made of quartz and the inner layer is a coating of a reflective material such as silver or gold. The coating is applied to the sections of the internal wall of the shell where sunlight is not being concentrated and entering the vessel in order to keep the concentrated sunlight inside the reactor. If such a reflective coating is used, there must be an uncoated transparent section, window or opening to allow the concentrated sunlight into the vessel. The shell wall transparent area, allowing for concentrated sunlight entry and subsequent solar thermal heating, should be selected to provide heating during the desired reaction residence time requirements for the process. If the temperatures at the outer shell wall exceed the melting temperature of the reflective coating, cooling is provided to prevent melting of the reflective coating.
+  </p>
+  <p id="p-0060" num="0062">
+   In another embodiment, the outer shell may be formed of a single layer of material. In this embodiment, the shell is of a material which is either transparent or contains a hole or window which admits solar radiation to the interior.
+  </p>
+  <p id="p-0061" num="0063">
+   Suitable transparent materials for the outer shell include oxidation resistant materials such as quartz. The “protection” shell may also be made of a metal with a sufficiently high melting point, such as stainless steel. The metal “protection shell” may have a transparent window which allows concentrated sunlight to directly heat the “heating” shell. At least part of the non-transparent part of the “protection” shell can be surrounded by heat transfer fluid contained by a jacket to provide cooling of the outer metal refractory “protection” shell, particularly in the region immediately surrounding the window. The heat transfer fluid can be water or a molten salt such as a mixture of sodium and potassium nitrates. Molten salts are capable of operating at temperatures up to about 500° C. Use of such a cooling jacket can allow for significantly improved efficiency.
+  </p>
+  <p id="p-0062" num="0064">
+   In an embodiment, the “reaction” or “heating” shell may be surrounded by refractory insulation in the region where it is not directly exposed to concentrated sunlight via the transparent section. The insulation may be concentrically placed and extends substantially from the “reaction” or “heating” shell to the concentric “protection” shell, although it may not completely fill the space between the heating shell and the protection shell. The refractory insulation can be a combination of graphite insulation near the “heating” shell and an alumina type refractory insulation near the “protection” shell. This design arrangement allows concentrated sunlight to enter through a transparent section and heat the “reaction” or “heating” shell while the surrounding insulation reduces conductive and convective losses of energy from the “reaction” or “heating” shell, thereby increasing the efficiency of the process.
+  </p>
+  <p id="p-0063" num="0065">
+   The innermost reaction shell has an inlet and an outlet for the entraining gas stream. The inlet end of the inner shell is the upstream end of the shell, while the outlet end is the downstream end. The interior of the innermost shell defines a reaction chamber within which the high temperature reaction takes place. The innermost shell is capable of emitting sufficient radiant energy to raise the temperature of the reactants within the reaction chamber to a level required to initiate and sustain the desired chemical reaction. The innermost shell is made of a high temperature refractory material. When the particles are indirectly heated, the refractory material subsequently heats flowing biomass particles flowing through the first inner shell.
+  </p>
+  <p id="p-0064" num="0066">
+   In an embodiment, the refractory material is substantially chemically unreactive with the particles or the reactant or product gases. In an embodiment, the innermost shell is graphite. In other embodiments, the innermost shell is silicon carbide or a refractory metal or alloy capable of withstanding the temperature required for a given decomposition reaction. Other suitable high temperature ceramics include ytrria-stabilized zirconia (YSZ), silicon nitride, hafnium boride, hafnium carbide, silicon carbide-silicon carbide composites, boron nitride or alumina (aluminum oxide). Refractory metal alloys suitable for temperatures below about 1200° C. include, but are not limited to, high temperature superalloys, including nickel-based superalloys such as Inconel® or Haynes® 214. In another embodiment, the innermost shell may be made of quartz. In an embodiment, the reaction shell is made of silicon carbide, Inconel, quartz, silicon nitride, or alumina.
+  </p>
+  <p id="p-0065" num="0067">
+   The inner reaction shell may be made of a nonporous material. In another embodiment, the innermost shell is at least partially porous. The innermost shell may be wholly of porous material or may comprise one or more regions of porous material. The porous region(s) of the innermost shell are selected so that sufficient uniform flow of gas occurs radially inward through the pores to provide a fluid-wall protective blanket for the radially inward surface of the innermost shell. The porosity of the porous region(s) can be varied and is selected on the basis of the required gas flow and allowable pressure drop to provide for a fluid-wall of gas. The length of the porous section(s) of the “reaction” shell can be varied and is determined by the zone where oxidation of the “reaction” shell or particle deposition is most likely to occur. The placement of the porous section along the length of the “reaction” shell is determined by the same considerations. In an embodiment, the length of the porous section of the “reaction” shell is limited to where it is needed. The entry of fluid-wall gas into the “reaction” shell increases the overall volumetric flow rate of gases through the “reaction” shell, thus reducing residence time and limiting the production throughput of the reactor. In an embodiment, the porosity in a given porous region is substantially uniform. A partially porous reaction tube may be made by joining together a porous tube and a solid tube. Graphite tubes may be joined by high temperature sintering using a carbon-containing paste. Silicon carbide tubes may also be joined by sintering with the appropriate sintering aid. Metal or alloy tubes may be welded or brazed, including porous metal or alloy sections. In different embodiments, the ratio of the length of the reaction shell to the inner diameter of the reaction shell is from 2 to 12, from 2 to 4, from 4 to 6, from 6 to 12, between 5 and 30, between 5 and 10, and between 20 and 25.
+  </p>
+  <p id="p-0066" num="0068">
+   When a plurality of reaction shells are present in the reactor, the reaction shells may have the same inner diameter or may have different inner diameters. In an embodiment, the inner shells have different inner diameters and smallest inner shell has an inner diameter one third the inner diameter of the largest inner shell. In this embodiment, the larger inner shells may be located closer to the center of the outer shell then the smaller inner shells.
+  </p>
+  <p id="p-0067" num="0069">
+   If used, the second inner shell is typically composed of nonporous high temperature refractory material. In an embodiment, the second inner shell is made of solid graphite. As previously discussed, the second inner shell can function as a “heating” shell, since it radiates heat to the innermost shell. In addition, the combination of the first and the second inner shell can at least partially define a plenum or volume for the fluid-wall gas. Depending on the material of the second inner shell, a non-oxidizing and non-dissociating “purge” gas may be flowed in a second plenum substantially located between the outer shell and the second inner shell to protect the second inner “heating” shell from oxidation. The purge gas may be argon, helium, neon, nitrogen, or any other chemically inert gas.
+  </p>
+  <p id="p-0068" num="0070">
+   In general, the shells comprising the reactors of the invention may be positioned vertically or horizontally, or in any other spatial orientation. For the case of a vertical reaction shell process, the apparatus may be arranged to provide upward or downward flow of the gas stream and the cloud of particles. Upward flow guarantees that aggregated particles will not be carried through the reaction shell. Downward flow reduces the potential for plugging in the solids feed line. Preferably, the reactor shell is positioned vertically and flow is downward.
+  </p>
+  <p id="p-0069" num="0071">
+   Each of the shells is characterized by a longitudinal axis (vertical centerline). In the plane created by cross-sectioning the reactor transverse to the longitudinal axis of the outer shell so that the plane passes through the outer shell window or aperture, a first horizontal dividing line (this line can also be termed the horizontal centerline) can be defined which passes through the center of the outer shell and the window or aperture, dividing the outer shell and the window or aperture into two equal or nearly equal halves. This horizontal centerline can be said to establish right and left portions inside the outer shell. A second horizontal dividing line can be established in the same plane which passes through the center of the outer shell, is orthogonal to the horizontal centerline, and establishes front and back portions inside the outer shell, with the front portion being the portion nearest the aperture or window.
+  </p>
+  <p id="p-0070" num="0072">
+   To describe positions of the inner shells within the outer shell in a horizontal cross-section of the outer shell, an x,y coordinate system can be defined whose origin is at the center of the outer shell and in which the y axis of the coordinate system is aligned with the horizontal centerline as defined above and the x axis of the coordinate system is aligned with the second horizontal dividing line as defined above.
+  </p>
+  <p id="p-0071" num="0073">
+   Locations of the inner shells can also be specified by their distance from particular locations with respect to the outer shell. For example, the location of the center of an inner shell can be specified by its distance from the intersection of the horizontal centerline with the inner surface of the outer shell at the “back” portion of this inner surface, opposite the aperture or window. Locations may also be determined with respect to the center of the outer shell.
+  </p>
+  <p id="p-0072" num="0074">
+   Locations of the inner shell can also be specified by their orientation with respect to the average direction of the solar radiation entering the solar reactor. In an embodiment, the average direction of the solar radiation is generally aligned with the horizontal centerline.
+  </p>
+  <p id="p-0073" num="0075">
+   If the center of a first inner shell is “farther back” in the outer shell than the center of a second inner shell, the y component of the distance between the center of the first inner shell and the intersection of the horizontal centerline with the “back portion” of inner surface of the outer shell is smaller than the y component of the distance between the center of the second inner shell and the intersection of the horizontal center line with this back portion of the inner surface of the outer shell.
+  </p>
+  <p id="p-0074" num="0076">
+   In an embodiment, at least three inner shells are located within the outer shell. In another embodiment, the number of inner shells is from 3 to 10. In other embodiments, the number of inner shells is 3 or 5.
+  </p>
+  <p id="p-0075" num="0077">
+   In an embodiment, the outer walls of the inner shells are not in contact with one another. In an embodiment, the spacing between the outer walls of the inner shells is a multiple of the diameter of an inner shell. In different embodiments, this multiple is 0.05 to 1.0, 0.05 to 0.1, 0.1 to 0.2, 0.2 to 0.5 and 0.5 to 1.0.
+  </p>
+  <p id="p-0076" num="0078">
+   The inner shells may be arranged in a variety of configurations. For convenience, the configurations may be described by the relative positions of the centers of the inner shells in a planar cross-section transverse to the longitudinal axis of the outer shell. In an embodiment, the centers of the inner shells do not lie along a single straight line.
+  </p>
+  <p id="p-0077" num="0079">
+   In an embodiment, the centers of the inner shells lie along a circular arc, with the ends of the arc being established (anchored) by the positions of the center of the inner shells closest to the outer shell. The arc is bisected by the horizontal centerline. In an embodiment, the circular arc is a semicircle. In an embodiment the center of the arc is farther back in the shell than the ends of the arc (the arc bows towards the aperture).
+  </p>
+  <p id="p-0078" num="0080">
+   In another embodiment, the inner shells are arranged in a staggered pattern. In an embodiment, the inner shells can be grouped into a plurality of rows, each row being generally perpendicular to the horizontal centerline but having a different depth within the outer shell (different y coordinate). The rows may form a straight line or they may be somewhat curved. In an embodiment, the rows form a straight line parallel to the x axis. The centers of the shells in each row are positioned so that they do not “line up” with (do not have the same x coordinate as) shells in adjacent rows. Each row has at least one shell, and may have a plurality of shells. In an embodiment, the pattern is generally symmetric about the horizontal centerline. The pattern can also be viewed in terms of the geometric properties of lines drawn between the centers of neighboring inner tubes. For example, the angle made between a line drawn between the center point of a first inner tube in a “front” row and the center point of a second neighboring tube in the row behind the “front” row and the line drawn between the center point of the second tube and the center point of a third inner tube located in the “front” row (which is a neighbor to both the first and second tube) can be from 40 degrees to 140 degrees or from 60 degrees to 130 degrees. The specific arrangement is chosen so as to maximize interception of incident radiation.
+  </p>
+  <p id="p-0079" num="0081">
+   In an embodiment, three inner shells are arranged in a triangular configuration, so that the line between the centers of the shells forms a triangle in a horizontal cross-section. One of the shells is located farther back in interior of the outer shell than the other two. This can be viewed as a first row of two shells and a second row of one shell, with the second row being farther back than the first row. In an embodiment, the center of inner shell in the second is located along the horizontal centerline.
+  </p>
+  <p id="p-0080" num="0082">
+   In another embodiment, five inner shells are arranged in a staggered pattern. The five inner shells can be separated into a first group of three inner shells and a second group of two inner shells, the two inner shells in the second group being located farther back in the tube than the three inner shells in the first group. In an embodiment, the width (x component of the distance) spanned by the first group of shells is greater than the width spanned by the second group. If lines are drawn between the center points of neighboring inner tubes, a pattern of triangles may be formed.
+  </p>
+  <p id="p-0081" num="0083">
+   In an embodiment, the invention provides a solar thermal reactor system for heating particles entrained within a gas, the reactor comprising:
+  </p>
+  <p id="p-0082" num="0084">
+   a) an outer shell, the side wall of the outer shell not permitting transmission of solar radiation except at a window or aperture in the side wall, at least a portion of the side wall interior away from the window or aperture comprising a material reflective to solar radiation wherein in a cross-section of the reactor made through the outer shell window or aperture and perpendicular to the longitudinal axis of the outer shell, the outer shell is characterized by a horizontal centerline which extends through the window or aperture;
+   <br/>
+   b) at least three inner shells at least partially located within the outer shell, each inner shell having a longitudinal axis parallel to the longitudinal axis of the outer shell, wherein the inner shells are not concentric and are arranged so that the outer side walls of the inner shells are not in contact with each other and so that in the reactor cross-section, the centers of the inner shells are not aligned along a single straight line;
+   <br/>
+   c) a particle entrainment feeding system in fluid communication with the inner shells; and
+   <br/>
+   d) a source of concentrated solar radiation disposed so that the window or aperture of the outer shell is exposed to solar radiation
+  </p>
+  <p id="p-0083" num="0085">
+   In the entrained flow reactors used in the practice of the invention, the biomass particles or droplets are entrained in the carrier gas and are generally transported along the longitudinal axis of the reaction tube (or tubes). The biomass particles or droplets are dispersed in the reactor apparatus, and the form of dispersion is important. Preferably, the particles or droplets flow as a dust or particle cloud through the apparatus, dispersed in a dispersing process gas. Preferably, the particles are non-agglomerated. In an embodiment, the biomass is in the form of solid particles. In an embodiment, the solid biomass particles are not enclosed in water droplets. Several different methods can be used to disperse solid particles. In an embodiment, the particles are entrained by a fluidized bed feeder. The particles can also be dispersed mechanically, such as by shearing on the surface of a rotating drum or brush. Alternatively, the particles can be dispersed using the shear provided by high velocity gas exiting with the particles from a feed injection tube. Experience has shown that the exiting “tip speed” from the injection tube should be at least 10 m/s to provide the shear necessary for complete dispersion of fine powders. In other embodiments, the biomass feedstock may also be a liquid and atomized into the aerosol stream or a solid mixed with liquid to create a slurry which is then introduced into the reactor.
+  </p>
+  <p id="p-0084" num="0086">
+   The initial composition of the gas used to entrain the biomass particles or droplets may be an inert gas, steam, a recycled or compatible reaction product gas such as hydrogen, carbon monoxide, carbon dioxide, or a mixture thereof. In an embodiment, the entraining gas is a mixture of inert gas and steam. Suitable inert gases include, but are not limited to nitrogen, argon, helium, or neon. In an embodiment, the initial composition of the entraining gas does not contain substantial amounts of molecular oxygen or air. The composition of the entraining gas may also vary along the reactor. For example, the entraining gas may be provided as an inert gas at the reactor inlet and become a mixture of inert gas and gaseous reaction products downstream of the reactor inlet. Steam can be introduced after the particles are entrained in a gas mixture, but prior to introduction of the entrained particles into the reactor. Steam can also be fed through a steam micronizer as jets of steam, located at the feed inlet of the reactor. In this case, jets of steam impinge on biomass being fed and provide a means to reduce the particle size of the biomass feed in-situ at the entrance of the reactor. The entraining gas stream is selected so that it is compatible with the biomass particle pyrolysis or gasification process and the “reaction” wall of the solar-thermal fluid-wall reactor. The gas stream can be preheated to reduce the requirements of the solar thermal field and increase efficiency by passing it through a heat exchanger, removing heat from the products of the solar thermal reactor. Additionally, heat could be removed from an exothermic downstream fuel processing unit (Fischer-Tropsch reactor, water gas shift reactor, or combustion turbine).
+  </p>
+  <p id="p-0085" num="0087">
+   In the methods of the invention, biomass particles are heated at least in part with a source of concentrated sunlight. The source of concentrated sunlight may be a solar concentrator. Preferably, the solar concentrator of the apparatus is designed to optimize the amount of solar thermal heating for the process. Solar fluxes between about 1000 and about 3000 kW/m
+   <sup>
+    2
+   </sup>
+   have been shown to be sufficient to heat solar thermal reactors to temperatures between 1000 and 2500 K. In different embodiments, the solar flux is from 500 to 1500 kW/m
+   <sup>
+    2
+   </sup>
+   , from 1500 to 3500 kW/m
+   <sup>
+    2
+   </sup>
+   , from 3000 to 5000 kW/m
+   <sup>
+    2
+   </sup>
+   , or from 3500 to 7000 kW/m
+   <sup>
+    2
+   </sup>
+   . Fluxes above 3000 kW/m
+   <sup>
+    2
+   </sup>
+   may be used achieve even higher temperatures, receiver efficiencies, and reactor throughputs, although the cost of using fluxes in this range is expected to be higher. Since the solar radiation is generally focused to approximately match the aperture/window size, the size of the aperture and the flux are correlated.
+  </p>
+  <p id="p-0086" num="0088">
+   The temperature inside the innermost shell of the reactor can be measured with a thermocouple. Alternatively, temperatures inside the reactor can be measured with an optical pyrometer. For a three-shell reactor, the hot zone temperature measured with an optical pyrometer is typically the temperature of the nonporous “heating” shell, since the “heating” shell encloses the “reaction” shell in the hot zone. The temperature inside the inner “reaction” shell may be less than that of the “heating” shell due to thermal losses due to heating the porous shell and the gases in the first plenum and the reaction shell.
+  </p>
+  <p id="p-0087" num="0089">
+   The sunlight can be provided in the form of a collimated beam (spot) source, a concentric annular source distributed circumferentially around the reactor, or in the form of a linearized slot source providing heating axially along the length of reactor. The light can be redirected and focused or defocused with various optical components to provide the concentration on or in the reactor as required. In an embodiment, the concentrated solar radiation is further concentrated by a secondary concentrating reflector before entering the reactor. An example of a suitable solar concentrator for use in the present invention is the High-Flux Solar Furnace (HFSF) at the National Renewable Energy Laboratory (NREL) in Golden, Colo. The HFSF uses a series of mirrors that concentrate sunlight to an intensified focused beam at power levels of 10 kW into an approximate diameter of 10 cm. The HFSF is described in Lewandowski, Bingham, O'Gallagher, Winston and Sagie, “Performance characterization of the SERI Hi-Flux Solar Furnace,” Solar Energy Materials 24 (1991), 550-563. The furnace design is described starting at page 551, wherein it is stated,
+  </p>
+  <ul id="ul0003" list-style="none">
+   <li id="ul0003-0001" num="0000">
+    <ul id="ul0004" list-style="none">
+     <li id="ul0004-0001" num="0090">
+      The performance objectives set for the HFSF resulted in a unique design. To enable support of varied research objectives, designers made the HFSF capable of achieving extremely high flux concentrations in a two-stage configuration and of generating a wide range of flux concentrations. A stationary focal point was mandatory because of the nature of many anticipated experiments. It was also desirable to move the focal point off axis. An off-axis system would allow for considerable flexibility in size and bulk of experiments and would eliminate blockage and consequent reduction in power.
+     </li>
+     <li id="ul0004-0002" num="0091">
+      In particular, achieving high flux concentration in a two-stage configuration (an imaging primary in conjunction with a nonimaging secondary concentrator) dictates a longer f/D [ratio of focal length to diameter] for the primary [concentrator] than for typical single-stage furnaces. Typical dish concentrators used in almost all existing solar furnaces are about f/D=0.6. To effectively achieve high flux concentration, a two-stage system must have an f/D=2. Values higher than this will not achieve significantly higher concentration due to increased losses in the secondary concentrator. Values lower than this will result in a reduction of maximum achievable two-stage flux. At low values of f/D, the single stage peak flux can be quite high, but the flux profiles are also very peaked and the average flux is relatively low. With a longer f/D, two-stage system, the average flux can be considerably higher than in any single-stage system. The final design of the HFSF has an effective f/D of 1.85. At this f/D, it was also possible to move the focal point considerably off axis (˜30°) with very little degradation in system performance. This was because of the longer f/D and partly because of the multi-faceted design of the primary concentrator. This off-axis angle allows the focal point and a large area around it to be completely removed from the beam between the heliostat and the primary concentrator.
+     </li>
+    </ul>
+   </li>
+  </ul>
+  <p id="p-0088" num="0092">
+   When the outer shell is wholly transparent or has a window which extends completely around the shell, the concentrated sunlight is preferably distributed circumferentially around the reactor using at least one secondary concentrator. Depending upon the length of the reaction shell, multiple secondary concentrators may be stacked along the entire length of the reaction shell. For the HFSF described above, a secondary concentrator that is capable of delivering 7.4 kW of the 10 kW available (74% efficiency) circumferentially around a 2.54 cm diameter×9.4 cm long reaction tube has been designed, constructed, and interfaced to the reactor.
+  </p>
+  <p id="p-0089" num="0093">
+   The invention also provides reactor systems which combine the reactor of the invention with one or more other system elements. Typically, the outlet of the reactor will be coupled to a device for collecting any solids exiting the reactor. These solids may be unreacted or partially reacted biomass particles, ash, or reaction products. Any suitable solids collection device known to the art may be used, including, but not limited to gravity collection vessels and filters.
+  </p>
+  <p id="p-0090" num="0094">
+   As used herein, the “residence time” is the time that the biomass particles spend in the hot zone of the innermost “reaction” shell. The hot zone length may be estimated as the length of the reactor directly irradiated by the source of concentrated sunlight. The residence time depends on the reactor dimensions, such as the hot zone length and the inner diameter of the “reaction” shell. The residence time also depends on the flow rate of the entraining gas stream containing the biomass particles and the flow rate of any fluid-wall gas through the pores of the inner shell. In addition, the residence time may vary across the diameter of the reaction shell, in which case a mean residence time may be calculated. The residence time may be calculated through modeling or estimated from ideal gas considerations. In different embodiments, the residence time is less than or equal to 10 seconds, less than or equal to 5 seconds, or less than or equal to 3 seconds. The biomass may or may not be completely reacted before it leaves the hot zone.
+  </p>
+  <p id="p-0091" num="0095">
+   If used, the fluid-wall gas is selected to be compatible with the reactants and the products. The fluid-wall gas is compatible if it allows the desired reaction to take place and/or it is inert to the reactants, products, and materials of construction for the reaction and protection shells and/or is not difficult to separate from the gas stream exiting the “reaction” shell and/or the cooling device. The fluid-wall gas used in the solar-thermal reactor is also selected so that it is compatible with the “reaction” shell. The gas stream used to provide the “fluid-wall” blanket gas flowing inward from the porous “reaction” shell wall is also preferably not a dissociating gas whose dissociation products would plug the pores of the porous wall. Inert gases, such as helium, N
+   <sub>
+    2
+   </sub>
+   or argon are suitable for use as the fluid-wall gas
+  </p>
+  <p id="p-0092" num="0096">
+   Downstream separation units are used to remove entrainment gas from the reaction products and separate the reaction products based on the end application. Possible separation units include pressure swing adsorbers, vacuum swing absorbers, membrane separators, or a combination thereof. In an embodiment, CO
+   <sub>
+    2
+   </sub>
+   in the reaction products is recycled and used as the entrainment gas.
+  </p>
+  <p id="p-0093" num="0097">
+   Products from the process can be used in a number of ways. These ways include, but are not limited to:
+  </p>
+  <p id="p-0094" num="0098">
+   1) Combination of product hydrogen and carbon monoxide or carbon dioxide in a Fischer-Tropsch (FT) style reactor to produce hydrocarbons. These hydrocarbons could include, but are not limited to, methanol, methane, gasoline (C5-C12), ethanol, propane, butane, diesel fuels, jet fuels, and specialty organic chemical products. Uses for such hydrocarbons would include transportation fuels, heating fuels, and fuels for stationary electric power generation, but the uses are not limited to these.
+   <br/>
+   2) Combination of the carbon monoxide product with additional water in a Water-Gas Shift reactor to produce additional hydrogen and carbon dioxide. The product hydrogen could be used in fuel cells for electrical power generation, as a combustion fuel, as a desulfurization agent for gasoline, transportation fuels, or coal, or for specialty chemical synthesis, but its uses are not restricted to this.
+   <br/>
+   <b>
+    3
+   </b>
+   ) Direct separation of the product hydrogen for use as specified in #2)
+   <br/>
+   4) Direct combustion of the product stream for power generation, heat generation, or other similar purposes.
+  </p>
+  <p id="p-0095" num="0099">
+   As used herein, “comprising” is synonymous with “including,” “containing,” or “characterized by,” and is inclusive or open-ended and does not exclude additional, unrecited elements or method steps. As used herein, “consisting of” excludes any element, step, or ingredient not specified in the claim element. As used herein, “consisting essentially of” does not exclude materials or steps that do not materially affect the basic and novel characteristics of the claim. Any recitation herein of the term “comprising”, particularly in a description of components of a composition or in a description of elements of a device, is understood to encompass those compositions and methods consisting essentially of and consisting of the recited components or elements. The invention illustratively described herein suitably may be practiced in the absence of any element or elements, limitation or limitations which is not specifically disclosed herein.
+  </p>
+  <p id="p-0096" num="0100">
+   When a Markush group or other grouping is used herein, all individual members of the group and all combinations and subcombinations possible of the group are intended to be individually included in the disclosure.
+  </p>
+  <p id="p-0097" num="0101">
+   One skilled in the art would readily appreciate that the present invention is well adapted to carry out the objects and obtain the ends and advantages mentioned, as well as those inherent therein. The devices and methods and accessory methods described herein as presently representative of preferred embodiments are exemplary and are not intended as limitations on the scope of the invention. Changes therein and other uses will occur to those skilled in the art, which are encompassed within the spirit of the invention, are defined by the scope of the claims.
+  </p>
+  <p id="p-0098" num="0102">
+   Although the description herein contains many specificities, these should not be construed as limiting the scope of the invention, but as merely providing illustrations of some of the embodiments of the invention. Thus, additional embodiments are within the scope of the invention and within the following claims.
+  </p>
+  <p id="p-0099" num="0103">
+   All patents and publications mentioned in the specification are indicative of the levels of skill of those skilled in the art to which the invention pertains. All references cited herein are hereby incorporated by reference to the extent that there is no inconsistency with the disclosure of this specification.
+  </p>
+  <heading id="h-0007" level="1">
+   EXAMPLE 1
+  </heading>
+  <heading id="h-0008" level="1">
+   Cellulose Gasification in an Electrically Heated Aerosol Transport Tube Reactor
+  </heading>
+  <p id="p-0100" num="0104">
+   Cellulose was combined with water vapor in an electric tube furnace at temperatures between 1200 K and 1450 K. The cellulose was composed of fine particles (Sigma-Aldrich #310697, 20 μm) with a monomer unit shown in
+   <figref idref="DRAWINGS">
+    FIG. 3
+   </figref>
+   . The reactor apparatus is shown in
+   <figref idref="DRAWINGS">
+    FIG. 4
+   </figref>
+   . The reactor consisted of a 99.8% Alumina tube (
+   <b>
+    3
+   </b>
+   ) (McDanel Technical Ceramics), 3.635″ in internal diameter by 45″ in length. This tube was heated indirectly using a surrounding electrically heated graphite resistance element (
+   <b>
+    800
+   </b>
+   ). The interior of the Al
+   <sub>
+    2
+   </sub>
+   O
+   <sub>
+    3
+   </sub>
+   tube was sealed from the outer graphite element and purged with argon gas to eliminate oxygen. Particles of cellulose were placed in a fluidized bed feeder (
+   <b>
+    500
+   </b>
+   ); fluidization gas (
+   <b>
+    21
+   </b>
+   ) (argon) entrained the particles, carrying them into the hot reactor, where they were combined with water vapor (
+   <b>
+    23
+   </b>
+   ). The water flowrate was controlled by a syringe pump, and the water was introduced into the hot reactor environment through a capillary tube. The molar feed ratio of cellulose to water was approximately 1:1. A pyrometer (
+   <b>
+    700
+   </b>
+   ) was used to measure the temperature of the reaction tube.
+  </p>
+  <p id="p-0101" num="0105">
+   After leaving the heated portion of the reactor, the reaction products were passed through a gravity collection vessel (
+   <b>
+    350
+   </b>
+   ) and an HEPA (high efficiency particulate air) filter (
+   <b>
+    400
+   </b>
+   ) (200 nm pore size). Large particles would be collected in the gravity vessel, with smaller, entrained particles accumulating on the HEPA filter. The gravity collection vessel was contained in an outer containment collection vessel (
+   <b>
+    300
+   </b>
+   ). The exhaust gases (
+   <b>
+    26
+   </b>
+   ) were analyzed using mass spectrometry and NDIR (nondispersive infrared) CO/CO
+   <sub>
+    2
+   </sub>
+   detection.
+  </p>
+  <p id="p-0102" num="0106">
+   Experiments were performed in a 2
+   <sup>
+    2
+   </sup>
+   full factorial design. The two factors were temperature and total entrainment gas flow. The larger the value of the entrainment gas flow, the shorter the residence time within the reactor. The temperature factor levels were 1200 K and 1450 K, and the total gas flow factor levels were 10 SLPM and 15 SLPM (standard liters per minute).
+  </p>
+  <p id="p-0103" num="0107">
+   At the highest temperature condition and lowest flowrate, the mass spectrometer (MS) trace showed an immediate increase in H
+   <sub>
+    2
+   </sub>
+   production at the start of feeding. (
+   <figref idref="DRAWINGS">
+    FIG. 5
+   </figref>
+   ) The scales for the different molecules differ, so a relatively larger increase in partial pressure of one species does not necessarily mean a larger increase in molar flowrate of that species. This was better determined by NDIR analysis. An increase in CO concentration followed shortly after the H
+   <sub>
+    2
+   </sub>
+   peak, and could be seen on the NDIR detector. At the start of feeding, the water concentration decreased, indicating reaction. This amount recovered with the waning of the hydrogen peak, indicating that at least some of the hydrogen was coming from the water. Integration under the NDIR peak yielded 0.006 mol of CO produced. Based on the amount of material fed, this gives conversion of cellulose to CO at 94%. When including CO
+   <sub>
+    2
+   </sub>
+   production, the conversion increased to 98%. This is essentially complete gasification of the feed material. No differential pressure increase was detected, and no mass was collected in the gravity vessel, on the HEPA filter, or on the walls of the reactor.
+  </p>
+  <p id="p-0104" num="0108">
+   Reaction of material at 15 SLPM and 1450 K yielded similar results. Gasification conversion of the feed material was 95%, and no material was collected in the reactor for 0.9 g fed. There was no increase in differential pressure across the HEPA filter, indicating no buildup of material.
+  </p>
+  <p id="p-0105" num="0109">
+   At the lower temperature, 950° C., both flowrate conditions also showed fairly high conversion (65%). Much of this material was collected in the gravity vessel, and resembled the feed material in composition. Also, differential pressure across the HEPA filter indicated a large deposit of material, likely incomplete products of gasification. This differential pressure increased rapidly, and reached a level high enough to trigger the safety pressure relief devices on the apparatus. From the factorial experiments it was clear that more complete gasification was obtained in short residence times at ultra-high temperatures (&gt;1000° C.). These are temperatures are achievable in concentrated solar energy systems.
+  </p>
+  <heading id="h-0009" level="1">
+   EXAMPLE 2
+  </heading>
+  <heading id="h-0010" level="1">
+   Lignin Gasification in an Electrically Heated Aerosol Transport Tube Reactor
+  </heading>
+  <p id="p-0106" num="0110">
+   Lignin was combined with water vapor in an electric tube furnace at 1450 K. The lignin was composed of fine particles (Sigma-Aldrich #371017, 20 μm) with a monomer unit shown in
+   <figref idref="DRAWINGS">
+    FIG. 6
+   </figref>
+   . The reactor was the same as in Example 1. The interior of the Al
+   <sub>
+    2
+   </sub>
+   O
+   <sub>
+    3
+   </sub>
+   tube was sealed from the outer graphite element and purged with argon gas to eliminate oxygen. Particles of lignin were placed in a fluidized bed feeder; fluidization gas (argon) entrained the particles, carrying them into the hot reactor, where they were combined with water vapor. The water flowrate was controlled by a syringe pump, and the water was introduced into the hot reactor environment through a capillary tube.
+  </p>
+  <p id="p-0107" num="0111">
+   After leaving the heated portion of the reactor, the reaction products were passed through a gravity collection vessel and an HEPA filter (200 nm pore size). Large particles would be collected in the gravity vessel, with smaller, entrained particles accumulating on the HEPA filter. Gas analyses were performed using mass spectrometry and NDIR CO/CO
+   <sub>
+    2
+   </sub>
+   detection.
+  </p>
+  <p id="p-0108" num="0112">
+   The demonstration experiment was performed at 1450 K and around a 1:1.5 molar feed ratio of lignin to water.
+  </p>
+  <p id="p-0109" num="0113">
+   Conversion of the material was essentially complete (98%), with products existing as C, CO
+   <sub>
+    2
+   </sub>
+   , and CO. The C was in the form of fine powder and made up about 30% of the carbon in the exit stream. With higher ratios of water to lignin, thermodynamics allow further gasification of this carbon. The CO
+   <sub>
+    2
+   </sub>
+   to CO ratio in the outlet gas was about 1:10, showing conversion to favorable to CO.
+  </p>
+  <heading id="h-0011" level="1">
+   EXAMPLE 3
+  </heading>
+  <heading id="h-0012" level="1">
+   Cellulose and Lignin Pyrolysis in an Electrically Heated Aerosol Transport Tube Reactor
+  </heading>
+  <p id="p-0110" num="0114">
+   Cellulose and lignin were pyrolyzed in an electric tube furnace at temperatures between 1200 K and 1450 K. Each material was fed in separate experiments. The cellulose was composed of fine particles (Sigma-Aldrich #310697, 20 μm) and the lignin was also composed of fine particles (Sigma-Aldrich #371017) The reactor apparatus is similar to that in Example 1. The interior of the Al
+   <sub>
+    2
+   </sub>
+   O
+   <sub>
+    3
+   </sub>
+   tube was sealed from the outer graphite element and purged with argon gas to eliminate oxygen. Particles of cellulose or lignin were placed in a fluidized bed feeder; fluidization gas (argon) entrained the particles, carrying them into the hot reactor, where they joined by sweep argon gas to control residence time.
+  </p>
+  <p id="p-0111" num="0115">
+   After leaving the heated portion of the reactor, the reaction products were passed through a gravity collection vessel and an HEPA filter (200 nm pore size). Large particles would be collected in the gravity vessel, with smaller, entrained particles accumulating on the HEPA filter. Gas analyses were performed using mass spectrometry and NDIR CO/CO
+   <sub>
+    2
+   </sub>
+   detection.
+  </p>
+  <p id="p-0112" num="0116">
+   Experiments were performed in a 2
+   <sup>
+    2
+   </sup>
+   full factorial design for each feed material. The two factors were temperature and total entrainment gas flow. The larger the value of the entrainment gas flow, the shorter the residence time within the reactor. The temperature factor levels were 1200 K and 1450 K, and the total gas flow factor levels were 10 SLPM and 15 SLPM.
+  </p>
+  <p id="p-0113" num="0117">
+   The mass spectrometry trace for the high temperature, low flowrate cellulose pyrolysis experiment is shown in
+   <figref idref="DRAWINGS">
+    FIG. 7
+   </figref>
+   . As can be seen, both hydrogen and carbon monoxide increase rapidly upon introduction of the feed material. These are the thermodynamically expected products, and this trace is representative of all of experiments as a whole.
+  </p>
+  <p id="p-0114" num="0118">
+   For cellulose pyrolysis, conversion was high at high temperatures. For the short residence time point at 1450 K, the conversion to CO and CO
+   <sub>
+    2
+   </sub>
+   was 80%, with CO:CO
+   <sub>
+    2
+   </sub>
+   ratios around 12:1. This was similar for the long residence time point, with 85% conversion and CO:CO
+   <sub>
+    2
+   </sub>
+   ratios near 10:1. The conversion was lower in the low temperature points, with a significant amount of solid material collected in the reactor (over ⅓ of the mass fed). LECO TC600 and C200 (Leco Corp.) analysis showed carbon and oxygen levels similar to the feed composition, but structural rearrangements would be possible. In any case, at the low temperatures, the conversions to carbon oxides in the gas were 60% and 61%, with similar CO:CO
+   <sub>
+    2
+   </sub>
+   ratios as in the high temperature experiments. It is clear that high temperatures (&gt;1300 K) produced more effective pyrolysis of this material.
+  </p>
+  <p id="p-0115" num="0119">
+   Lignin pyrolysis products included a significant amount of fine black powder. LECO C200 analysis of this powder showed it to be &gt;96% carbon for each of the high temperature points, and a lower &gt;75% carbon for the low temperature experiments. This is likely due to unreacted lignin in products. Conversion to CO was higher at higher temperatures, being between 40% and 45%. These are right around the theoretical maximum, although some adsorbed water on the feed material could push the theoretical conversion higher due to gasification. The conversion was lower at 1200 K, at 16% and 18% for the low and high residence time points, respectively. In all of the experiments, the ratio of CO to CO
+   <sub>
+    2
+   </sub>
+   in the exit stream was between 8:1 and 10:1.
+  </p>
+  <heading id="h-0013" level="1">
+   EXAMPLE 4
+  </heading>
+  <heading id="h-0014" level="1">
+   Cellulose Gasification in Solar Heated Aerosol Transport Tube Reactor
+  </heading>
+  <p id="p-0116" num="0120">
+   Cellulose was combined with water vapor, at a temperature of 1423 K, in a solar heated tube furnace. The solar reactor apparatus is shown in
+   <figref idref="DRAWINGS">
+    FIG. 8
+   </figref>
+   . The reactor consisted of a 99.8% alumina tube (
+   <b>
+    3
+   </b>
+   ) (CoorsTek ceramics) having an inner diameter of 0.75″ and a total length of 14″. The heated length of the tube was 8″. The tube was surrounded by a quartz sheath, sealed to the outside air and purged with argon gas. The cellulose was composed of fine particles (Sigma-Aldrich #310697, 20 μm). The cellulose particles (
+   <b>
+    28
+   </b>
+   ) were introduced into the system from the top using a fluidized bed feeder (
+   <b>
+    500
+   </b>
+   ). Argon was used as the fluidization gas (
+   <b>
+    21
+   </b>
+   ) to entrain the particles and carry them into the hot zone of the reactor, where they combined with water vapor. The water was introduced into the reactor with a syringe pump. The molar feed ratio of cellulose to water was approximately 1:1.
+  </p>
+  <p id="p-0117" num="0121">
+   The tube was heated with concentrated solar energy at the High Flux Solar Furnace facility at the National Renewable Energy Laboratory. The solar concentration of the system at the front of the secondary concentrator (
+   <b>
+    50
+   </b>
+   ) was approximately 1000 suns (approximately 1000 kW/m
+   <sup>
+    2
+   </sup>
+   ), and at the exit of the concentrator was approximately 2000 suns (approximately 2000 kW/m
+   <sup>
+    2
+   </sup>
+   ).
+  </p>
+  <p id="p-0118" num="0122">
+   After leaving the heated portion of the reactor, the reaction products were passed through a gravity collection vessel and a HEPA filter (200 nm pore size). Large, heavy particles were collected in the gravity vessel (
+   <b>
+    350
+   </b>
+   ), while smaller, entrained particles collected on the HEPA filter (
+   <b>
+    400
+   </b>
+   ). The product gas (
+   <b>
+    26
+   </b>
+   ) was analyzed using a mass spectrometer (MS).
+  </p>
+  <p id="p-0119" num="0123">
+   The entrainment gas flow rate correlated to the residence time of particles within the reactor. For this experiment, the entrainment flow rate was set to 1.25 SLPM. The MS trace showed an immediate increase in H
+   <sub>
+    2
+   </sub>
+   and CO production at the onset of particle feeding, accompanied by a decrease in the water trace, indicating reaction of the water and cellulose (
+   <figref idref="DRAWINGS">
+    FIG. 9
+   </figref>
+   ). The correlation between partial pressure and concentration for each species differ, so a relatively larger increase in the partial pressure of one species does not necessarily mean a larger increase in the molar flow rate of that species. Calibration of the MS device allowed to convert the partial pressure measurements to moles produced. After integrating the carbon monoxide and comparing it to the cellulose mass feed, the conversion of cellulose to CO was determined to be 92%. No carbon dioxide was detected in the outlet stream.
+  </p>
+  <heading id="h-0015" level="1">
+   EXAMPLE 5
+  </heading>
+  <heading id="h-0016" level="1">
+   Gasification of Clippings of the Grass Poa pratensis
+  </heading>
+  <p id="p-0120" num="0124">
+   To demonstrate the gasification of biologically derived cellulose and lignin, grass clippings of the species Poa pratensis were gasified in an electrically heated aerosol transport tube reactor at a temperature of 1450 K. Sample preparation was as follows. 4 grams of clippings of the species Poa pratensis were rinsed in ethanol, and the rinsed clippings vacuum filtered. The residual clippings were dried for 24 hours in a vacuum furnace at 200° C. The dried material was ground with a mortar and pestle until there were no longer fibers longer than 1 mm in the sample. These clippings were loaded into a fluidized bed feeder.
+  </p>
+  <p id="p-0121" num="0125">
+   The reactor apparatus the same as that in Example 1. The interior of the Al
+   <sub>
+    2
+   </sub>
+   O
+   <sub>
+    3
+   </sub>
+   tube was sealed from the outer graphite element and purged with argon gas to eliminate oxygen. Particles of grass were placed in a fluidized bed feeder; fluidization gas (argon) entrained the particles, carrying them into the hot reactor, where they were combined with water vapor. The water flowrate was controlled by a syringe pump, and the water was introduced into the hot reactor environment through a capillary tube. The molar feed ratio of grass to water was approximately 1:1.
+  </p>
+  <p id="p-0122" num="0126">
+   After leaving the heated portion of the reactor, the reaction products were passed through a gravity collection vessel and an HEPA filter (200 nm pore size). Large particles would be collected in the gravity vessel, with smaller, entrained particles accumulating on the HEPA filter. Gas analyses were performed using mass spectrometry and NDIR CO/CO
+   <sub>
+    2
+   </sub>
+   detection.
+  </p>
+  <p id="p-0123" num="0127">
+   3.2 g of powder was fed into the reactor during the experiment. After the experiment, 0.28 g were collected in the gravity collection vessel, and 0.15 g were collected on the HEPA filter. This material was a fine black powder, and LECO C200 analysis confirmed it to consist of greater than 95% carbon. The mass spectrometer trace for the experiment is shown in
+   <figref idref="DRAWINGS">
+    FIG. 10
+   </figref>
+   . Less than 10% of the evolved gaseous carbon was as CO
+   <sub>
+    2
+   </sub>
+   . Conversion to CO of the feed carbon was 64%, nearly all of the unconverted carbon existing as the fine black powder collected.
+  </p>
+  <heading id="h-0017" level="1">
+   EXAMPLE 6
+  </heading>
+  <heading id="h-0018" level="1">
+   Hydrogen Production Using Zn as an Energy Storage Medium
+  </heading>
+  <p id="p-0124" num="0128">
+   Biomass particles are reacted with zinc oxide (ZnO) particles, using the solar thermal process described herein. Sunlight is used to drive the endothermic biomass pyrolysis (biomass to CO/H
+   <sub>
+    2
+   </sub>
+   /C) and carbothermal reduction of ZnO (C, CO+ZnO→Zn+CO/CO2) reactions. The reactor temperature can be between approximately 1400 and 2200 K. The reaction is extremely fast at the high temperatures achieved via solar-thermal heating. The primary pyrolysis/carbothermal reduction products are Zn metal, H
+   <sub>
+    2
+   </sub>
+   , CO, and CO
+   <sub>
+    2
+   </sub>
+   .
+  </p>
+  <p id="p-0125" num="0129">
+   After cooling, the Zn metal is a solid and can be easily separated from the gaseous products and stored. The gaseous H
+   <sub>
+    2
+   </sub>
+   , CO, CO
+   <sub>
+    2
+   </sub>
+   mixture can be fed to a conventional catalytic water gas shift reactor with water feed to carry out water gas shift (CO+H
+   <sub>
+    2
+   </sub>
+   O→CO
+   <sub>
+    2
+   </sub>
+   +H
+   <sub>
+    2
+   </sub>
+   ) reaction producing H
+   <sub>
+    2
+   </sub>
+   and CO
+   <sub>
+    2
+   </sub>
+   . The H
+   <sub>
+    2
+   </sub>
+   can be used as a fuel or chemical feedstock for another process. The CO
+   <sub>
+    2
+   </sub>
+   can be released to the atmosphere or fed to a greenhouse to grow biomass. The solar-thermal reactor process provides Zn metal to a Zn metal storage system and a water gas shift reactor feed at high rates on-sun. The Zn is effectively an energy storage medium. A secondary step in which the Zn is reacted at approximately 700 K with steam to produce H
+   <sub>
+    2
+   </sub>
+   and ZnO is an exothermic process, and can be operated autothermally. Hence, the Zn/steam reactor can be designed to operate at a rate consistent with the production of Zn on-sun (˜⅓ to ¼ of the time) from the solar-thermal step (hence, the Zn/steam reactor will operate to react Zn at a rate of about ⅓ to ¼ of the rate at which Zn is being produced on-sun, since on-sun time is ⅓ to ¼ of the typical day). The Zn storage will increase during the daytime when the solar-thermal process is operating and will decrease during the evening when Zn is not being produced on-sun. The ZnO produced via the Zn/steam reaction step is recycled back to the solar-thermal reactor for on-sun reduction to produce Zn. The Zn/ZnO is a closed loop cycle. A schematic of this process is given in
+   <figref idref="DRAWINGS">
+    FIG. 11
+   </figref>
+   .
+  </p>
+  <heading id="h-0019" level="1">
+   EXAMPLE 7
+  </heading>
+  <heading id="h-0020" level="1">
+   Combined Solar-Thermal Biomass/Zn Process with Coal Hydrogenation Process
+  </heading>
+  <p id="p-0126" num="0130">
+   A solar-thermal biomass/Zn process, producing renewable H
+   <sub>
+    2
+   </sub>
+   , can be integrated with a conventional fossil feed process. Such a process represents a transitional bridge to a truly hydrogen economy.
+   <figref idref="DRAWINGS">
+    FIG. 12
+   </figref>
+   illustrates a process to produce methane by reacting coal with renewable hydrogen. In this process, H
+   <sub>
+    2
+   </sub>
+   is supplied continuously via the Zn/steam reactor while the H
+   <sub>
+    2
+   </sub>
+   /CO/CO
+   <sub>
+    2
+   </sub>
+   from the on-sun solar-thermal reactor is supplied to a continuous water gas shift reactor, downstream of the coal hydrogenation reactor. The resulting product is CH
+   <sub>
+    4
+   </sub>
+   out of a methanator. The renewable H
+   <sub>
+    2
+   </sub>
+   to the process is supplied via pyrolyzed biomass from solar-thermal pyrolysis and water from the Zn/steam reactor. The carbon to the process is supplied by the coal and the biomass. The coal hydrogenator should be operated at high pressure of ˜1,000 psig or greater. The hydrogen from the Zn/steam reactor can be supplied at the required delivery pressure in the reactor or may require compression.
+  </p>
+  <heading id="h-0021" level="1">
+   EXAMPLE 8
+  </heading>
+  <heading id="h-0022" level="1">
+   Reduction of Fe
+   <sub>
+    3
+   </sub>
+   O
+   <sub>
+    4
+   </sub>
+   by CO and H
+   <sub>
+    2
+   </sub>
+   and Generation of H
+   <sub>
+    2
+   </sub>
+   by Reaction of Water with the Reduced Products
+  </heading>
+  <p id="p-0127" num="0131">
+   To demonstrate the feasibility of Fe
+   <sub>
+    3
+   </sub>
+   O
+   <sub>
+    4
+   </sub>
+   reduction by the products of biomass gasification, Fe
+   <sub>
+    3
+   </sub>
+   O
+   <sub>
+    4
+   </sub>
+   was loaded in a platinum crucible in a thermogravimetric analyzer (TGA). The system was heated to 1000° C. under 200 sccm of argon gas flow. At 1000° C., the temperature was held constant while 22.5 sccm of H
+   <sub>
+    2
+   </sub>
+   and 22.5 sccm of CO were introduced into the system. The mass of the sample decreased, indicating a reduction reaction; the change in mass was commensurate with that for complete reduction to FeO. The gas products were analyzed using mass spectrometry, and the trace for this analysis is shown in
+   <figref idref="DRAWINGS">
+    FIG. 13
+   </figref>
+   . As can be seen, both CO
+   <sub>
+    2
+   </sub>
+   and H
+   <sub>
+    2
+   </sub>
+   O were produced by reaction, indicating reduction by both CO and H
+   <sub>
+    2
+   </sub>
+   . In a second experiment, the iron oxide reduced in the first experiment remained in the Pt crucible while water was introduced at 400° C. The mass of the sample increased, with a total level commensurate with re-oxidation of the FeO to Fe
+   <sub>
+    3
+   </sub>
+   O
+   <sub>
+    4
+   </sub>
+   . Gases were analyzed using mass spectrometry. As can be seen in
+   <figref idref="DRAWINGS">
+    FIG. 14
+   </figref>
+   , hydrogen was produced during a corresponding dip in the water concentration. These experiments demonstrate the viability of cycling iron oxide through reduction and oxidation steps for energy storage and hydrogen generation.
+  </p>
+  <?DETDESC description="Detailed Description" end="tail"?>
+  <us-claim-statement>
+   We claim:
+  </us-claim-statement>
+  <claims id="claims">
+   <claim id="CLM-00001" num="00001">
+    <claim-text>
+     1. A method for at least partially reacting biomass particles to form reaction products comprising hydrogen and carbon monoxide, the method comprising the steps of:
+     <claim-text>
+      a) providing a solar-thermal reactor comprising an outer protection shell and one or more inner reaction shells having an inlet and an outlet, the outer protection shell having an opening to the atmosphere for transmission of solar energy;
+     </claim-text>
+     <claim-text>
+      b) flowing a gas stream from the inlet to the outlet of the reaction shell, the gas stream comprising entrained biomass particles at the inlet of the one or more inner reaction shells, the volume average equivalent spherical particle diameter of the biomass particles being between 10 micron and 10 mm; and
+     </claim-text>
+     <claim-text>
+      c) rapidly heating the biomass particles in the reactor through solar thermal heating to a temperature of at least 950° C. at least in part by exposing the reactor to a source of concentrated sunlight, wherein the biomass particles react to form products comprising hydrogen and carbon monoxide, wherein the temperature of at least 950° C. is used to at least bypass formation of tar, where the ash content of the biomass particles
+      <?delete-start id="REI-00001"  date="20150106" ?>
+      exiting
+      <?delete-end id="REI-00001" ?>
+      <?insert-start id="REI-00002"  date="20150106" ?>
+      entering
+      <?insert-end id="REI-00002" ?>
+      the solar-thermal reactor is less than 15% and conversion of the non-ash components of the biomass particles is greater than 50%.
+     </claim-text>
+    </claim-text>
+   </claim>
+   <claim id="CLM-00002" num="00002">
+    <claim-text>
+     2. The method of
+     <claim-ref idref="CLM-00001">
+      claim 1
+     </claim-ref>
+     , wherein the biomass particles are heated to a temperature from 1000° C. to 1400° C. and the rate at which the biomass particles are heated is greater than 100° C./s.
+    </claim-text>
+   </claim>
+   <claim id="CLM-00003" num="00003">
+    <claim-text>
+     3. The method of
+     <claim-ref idref="CLM-00001">
+      claim 1
+     </claim-ref>
+     wherein the residence time of the biomass particles in the portion of the reactor exposed to the source of concentrated sunlight is less than or equal to 5 sec and the flux of the source of concentrated sunlight is from 1000 kW/m2 to 3000 kW/m2.
+    </claim-text>
+   </claim>
+   <claim id="CLM-00004" num="00004">
+    <claim-text>
+     4. The method of
+     <claim-ref idref="CLM-00001">
+      claim 1
+     </claim-ref>
+     , wherein the maximum equivalent spherical particle diameter of the biomass particles is less than 1 millimeter.
+    </claim-text>
+   </claim>
+   <claim id="CLM-00005" num="00005">
+    <claim-text>
+     5. The method of
+     <claim-ref idref="CLM-00004">
+      claim 4
+     </claim-ref>
+     , wherein the conversion of the non-ash components of the biomass particles is greater than 70% and the gas stream also comprises water vapor and the molar ratio of water to biomass particles is greater than or equal to one.
+    </claim-text>
+   </claim>
+   <claim id="CLM-00006" num="00006">
+    <claim-text>
+     6. The method of
+     <claim-ref idref="CLM-00001">
+      claim 1
+     </claim-ref>
+     , wherein the biomass particles react to form products comprising hydrogen, carbon monoxide, and carbon dioxide and the ratio of carbon dioxide to carbon monoxide is less than 25%.
+    </claim-text>
+   </claim>
+   <claim id="CLM-00007" num="00007">
+    <claim-text>
+     7. The method of
+     <claim-ref idref="CLM-00001">
+      claim 1
+     </claim-ref>
+     , further comprising:
+     <claim-text>
+      flowing the gas stream with the biomass particles along with metal oxide particles at the inlet of the one or more inner reaction shells and the biomass particles and gas stream do not comprise substantial amounts of water; and
+     </claim-text>
+     <claim-text>
+      heating the biomass and metal oxide particles in the reactor through solar thermal heating at least in part by the exposing the reactor to the source of concentrated sunlight, the particles being heated to the temperature of at least 950° C. at which the biomass particles pyrolyze to form reaction products comprising hydrogen, carbon, and carbon monoxide and the metal oxide particles react with at least one of the biomass pyrolysis reaction products to form a reduced metal oxide product which is a metal, a metal oxide of a lower valence state, or a combination thereof.
+     </claim-text>
+    </claim-text>
+   </claim>
+   <claim id="CLM-00008" num="00008">
+    <claim-text>
+     8. The method of
+     <claim-ref idref="CLM-00007">
+      claim 7
+     </claim-ref>
+     , wherein the biomass particles are heated to a temperature from 1000° C. to 1400° C. and the metal oxide particles are selected from the group consisting of zinc oxide (ZnO), tin oxide (SnO
+     <sub>
+      2
+     </sub>
+     ), or iron oxide (Fe
+     <sub>
+      3
+     </sub>
+     O
+     <sub>
+      4
+     </sub>
+     ).
+    </claim-text>
+   </claim>
+   <claim id="CLM-00009" num="00009">
+    <claim-text>
+     9. The method of
+     <claim-ref idref="CLM-00007">
+      claim 7
+     </claim-ref>
+     , wherein the conversion of the metal oxide to a reduced metal or to a lower oxidation state metal oxide is at least 50% and the residence time of the particles in the portion of the reactor exposed to the source of concentrated sunlight is less than 5 sec.
+    </claim-text>
+   </claim>
+   <claim id="CLM-00010" num="00010">
+    <claim-text>
+     10. The method of
+     <claim-ref idref="CLM-00007">
+      claim 7
+     </claim-ref>
+     , wherein the conversion of metal oxide to a reduced metal or to a lower oxidation state metal is at least 75% and the volume average equivalent spherical particle diameter of the biomass particles is between 10 micron and 10 mm and the particle size of the metal oxide particles is below 150 microns.
+    </claim-text>
+   </claim>
+   <claim id="CLM-00011" num="00011">
+    <claim-text>
+     11. The method of
+     <claim-ref idref="CLM-00001">
+      claim 1
+     </claim-ref>
+     , wherein a window or aperture in a side wall of the outer protection shell and the side wall does not permit transmission of solar radiation except at the window or aperture in the side wall, where at least a portion of an interior of the side wall, away from the window or aperture, comprises a material reflective to solar radiation, and in a cross-section of the reactor made through the window or aperture in the side wall and perpendicular to the longitudinal axis of the outer protective shell, the outer protective shell is characterized by a horizontal centerline which extends through the window or aperture,
+     <claim-text>
+      wherein at least three inner shells at least partially located within the outer protection shell, each inner shell having a longitudinal axis parallel to the longitudinal axis of the outer protection shell, wherein the inner shells are not concentric and are arranged so that the side walls of the inner shells are not in contact with each other and so that in the reactor cross-section, the centers of the inner shells are not aligned along a single straight line, and
+     </claim-text>
+     <claim-text>
+      wherein a particle entrainment feeding system in fluid communication with the inner shells, wherein the source of concentrated solar radiation is disposed so that the window or aperture of the outer protection shell is exposed to solar radiation.
+     </claim-text>
+    </claim-text>
+   </claim>
+   <claim id="CLM-00012" num="00012">
+    <claim-text>
+     12. The method of
+     <claim-ref idref="CLM-00011">
+      claim 11
+     </claim-ref>
+     , wherein a number of inner reaction shells is from 3 to 10 and in the reactor cross-section the centers of the inner reaction shells are aligned along a circular arc and a center of the arc lies on the horizontal centerline and is located farther back in the outer shell than the ends of the arc.
+    </claim-text>
+   </claim>
+   <claim id="CLM-00013" num="00013">
+    <claim-text>
+     13. The method of
+     <claim-ref idref="CLM-00011">
+      claim 11
+     </claim-ref>
+     , wherein a number of inner reaction shells is from 3 to 10 and in the reactor cross-section the centers of the inner shells are arranged in a staggered pattern.
+    </claim-text>
+   </claim>
+   <claim id="CLM-00014" num="00014">
+    <claim-text>
+     14. The method of
+     <claim-ref idref="CLM-00011">
+      claim 11
+     </claim-ref>
+     , wherein the inner reaction shells are arranged in two rows perpendicular to a horizontal centerline, the first row containing more inner reaction shells and spanning a greater width than the second row and the second row being located farther back in the outer shell than the first row, and wherein a number of inner reaction shells is greater than 5, and a ratio of a length to an inner diameter of the inner shells is from 2 to 12.
+    </claim-text>
+   </claim>
+   <claim id="CLM-00015" num="00015">
+    <claim-text>
+     15. A method for at least partially reacting biomass particles to form reaction products comprising hydrogen and carbon monoxide, the method comprising the steps of:
+     <claim-text>
+      a) providing a solar-thermal reactor comprising an outer protection shell and an inner reaction shell having an inlet and an outlet, the outer protection shell having an opening to the atmosphere for transmission of available concentrated solar energy;
+     </claim-text>
+     <claim-text>
+      b) flowing a gas stream from the inlet to the outlet of the reaction shell, the gas stream comprising entrained biomass particles at the inlet of the reaction shell, the volume average equivalent spherical particle diameter of the biomass particles having a defined range;
+     </claim-text>
+     <claim-text>
+      c) rapidly heating the biomass particles in the reactor through solar thermal heating to a temperature of at least 950° C. at least in part by exposing the reactor to a source of concentrated sunlight, wherein the biomass particles react in a gasification reaction to form products comprising hydrogen and carbon monoxide; and
+     </claim-text>
+     <claim-text>
+      d) balancing the biomass particles gasification reaction with the available concentrated solar energy, biomass particles size within the boundaries of the defined range, operating temperature of the reactor, residence time that the biomass particles remain in the solar-thermal reactor so that overall biomass conversion remains above a threshold percentage and gasification of the biomass particles occurs at a temperature where tar formation is negligible, wherein the heating to the temperature of at least 950° C. is used to cause the tar formation to be negligible, where the ash content of the biomass particles
+      <?delete-start id="REI-00003"  date="20150106" ?>
+      exiting
+      <?delete-end id="REI-00003" ?>
+      <?insert-start id="REI-00004"  date="20150106" ?>
+      entering
+      <?insert-end id="REI-00004" ?>
+      the solar-thermal reactor is less than 15% and conversion of the non-ash components of the biomass particles is greater than 50%.
+     </claim-text>
+    </claim-text>
+   </claim>
+  </claims>
+ </body>
+</html>
